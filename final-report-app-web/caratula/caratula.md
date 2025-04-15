@@ -22,8 +22,8 @@
       <td>U20221F613</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td>Aguirre Castillo, Sergio Cesar</td>
+      <td>U202310425</td>
     </tr>
     <tr>
       <td></td>
