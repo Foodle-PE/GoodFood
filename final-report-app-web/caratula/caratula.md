@@ -26,7 +26,7 @@
       <td>U202310425</td>
     </tr>
     <tr>
-      <td></td>
+      <td>Rojas Piñero, Luis Miguel</td>
       <td></td>
     </tr>
     <tr>
