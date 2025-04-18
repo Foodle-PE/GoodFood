@@ -184,7 +184,71 @@ Táctica:
 ## 2.2. Entrevistas.
 
 ### 2.2.1. Diseño de entrevistas.
+Segmento de Ciudadano:
+Gracias por participar en esta entrevista. Mi nombre es (nombre y apellido). Estamos desarrollando GoodFood, una plataforma que ayuda a los restaurantes a optimizar la gestión de inventarios de productos comestibles. Queremos entender mejor tus necesidades y cómo podemos mejorar la eficiencia en la gestión de inventarios. Tu opinión es clave para ayudarnos a crear una herramienta útil y eficaz.
 
+Segmento 1: Restaurantes / Dueños de Restaurantes
+Objetivo: Comprender los desafíos en la gestión de inventarios y cómo la tecnología puede mejorar su eficiencia operativa.
+Preguntas Principales:
+ - ¿Cuáles son los principales problemas que enfrenta al gestionar el inventario de su 
+   restaurante?
+
+ - ¿Cómo maneja actualmente la gestión de inventarios de productos perecederos (como carnes, 
+   lácteos, frutas, etc.)?
+
+ - ¿Qué procesos realiza para reducir el desperdicio de alimentos?
+
+ - ¿Utiliza alguna herramienta o software para llevar un control del inventario? ¿Cómo lo 
+   calificaría?
+
+ - ¿Cuál es el principal desafío en la gestión de fechas de caducidad de los productos?
+
+ - ¿Le gustaría tener una herramienta que le permita monitorear sus productos en tiempo real 
+   (temperatura, fechas de caducidad, stock)? ¿Por qué?
+
+ - ¿Qué tan importante es para usted la integración de nuevas tecnologías en la gestión 
+   operativa del restaurante?
+
+ - ¿Qué funcionalidades le gustaría que tuviera una aplicación de gestión de inventarios en su 
+   restaurante?
+
+Preguntas Complementarias:
+ - ¿Cuántos empleados trabajan en la gestión de inventarios?
+
+ - ¿Qué tan familiarizado está con tecnologías como IoT o sensores para controlar el inventario?
+
+ - ¿Qué dispositivos (smartphones, tablets, computadoras) utiliza a diario en la gestión del 
+   restaurante?
+
+ - ¿Cuál es su mayor preocupación a la hora de implementar nuevas tecnologías en su restaurante?
+
+Segmento 2: Personal de Restaurantes (Encargados de Inventarios)
+Objetivo: Identificar las barreras y necesidades diarias en el manejo de inventarios y cómo una plataforma puede facilitar su trabajo.
+Preguntas Principales:
+ - ¿Cómo gestiona actualmente el inventario de alimentos?
+
+ - ¿Qué tipo de problemas enfrenta cuando realiza el control de stock y productos perecederos?
+
+ - ¿Con qué frecuencia encuentra productos que han caducado o que no se han utilizado a tiempo?
+
+ - ¿Utiliza alguna herramienta o aplicación para gestionar el inventario? Si es así, ¿cómo es su experiencia con esta herramienta?
+
+ - ¿Qué tareas relacionadas con el inventario le gustaría que fueran más fáciles de realizar?
+
+ - ¿Cómo le gustaría que fuera una herramienta digital para ayudarlo en la gestión del inventario?
+
+ - ¿Qué tan importante es para usted recibir alertas o notificaciones sobre productos por vencer o en mal estado?
+
+Preguntas Complementarias:
+ - ¿Cuáles son los dispositivos que más utiliza para gestionar el inventario?
+
+ - ¿Cuánto tiempo dedica a la gestión del inventario en un día promedio?
+
+ - ¿Le gustaría tener la capacidad de verificar en tiempo real los niveles de stock y la 
+   calidad de los productos?
+
+ - ¿Cómo maneja la interacción con otros miembros del equipo respecto al control del inventario?
+   
 ### 2.2.2. Registro de entrevistas.
 
 ### 2.2.3. Análisis de entrevistas.
