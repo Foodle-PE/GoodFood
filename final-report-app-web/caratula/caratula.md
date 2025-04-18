@@ -30,8 +30,8 @@
       <td>U202220864</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td>Muñoz Machuca, Maria Elena</td>
+      <td>U202317442</td>
     </tr>
     <tr>
       <td></td>
