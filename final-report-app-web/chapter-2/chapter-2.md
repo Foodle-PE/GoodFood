@@ -190,12 +190,123 @@ Táctica:
 ### 2.2.3. Análisis de entrevistas.
 
 ## 2.3. Needfinding.
+A través de las entrevistas que se han realizado, se ha descubierto que los responsables de gestionar productos perecederos dentro de pequeñas y medianas empresas, como restaurantes y comercios, enfrentan serios desafíos al depender de métodos manuales como hojas de cálculo en Excel para controlar su inventario. Estos usuarios buscan una herramienta que no solo automatice la gestión del inventario, sino que también sea intuitiva, fácil de usar y que les permita reaccionar a tiempo ante posibles pérdidas.
+
+Los entrevistados destacaron la necesidad urgente de contar con alertas automáticas que notifiquen fechas próximas de caducidad, niveles bajos de stock y condiciones de almacenamiento, como la temperatura, en tiempo real. Esta funcionalidad es considerada como punto clave para reducir desperdicios, optimizar las compras y disminuir costos operativos.
+
+En respuesta a esta problemática, nuestra solución será diseñada para ofrecer una plataforma automatizada y accesible que facilite el seguimiento en tiempo real del inventario, con funcionalidades que anticipen problemas antes de que ocurran. Con un enfoque centrado en la reducción de desperdicios, el ahorro de tiempo y la mejora de la toma de decisiones, esta herramienta será un apoyo esencial para quienes gestionan productos perecederos de forma dinámica y eficiente.
 
 ### 2.3.1. User Personas.
+- User persona dueño de restaurante
+![Image](https://github.com/user-attachments/assets/0da3b9f3-cd4a-4ae6-b498-9e165126cee6)
+  
+  
+- User persona empleado de restaurante
+![Image](https://github.com/user-attachments/assets/fc4c5d49-b9af-49bf-916f-50f7f96be5d6)
 
 ### 2.3.2. User Task Matrix.
+<table border="1">
+  <tr>
+    <th rowspan="2">Tareas</th>
+    <th colspan="2">Dueño</th>
+    <th colspan="2">Empleado</th>
+  </tr>
+  <tr>
+    <th>Frecuencia</th>
+    <th>Importancia</th>
+    <th>Frecuencia</th>
+    <th>Importancia</th>
+  </tr>
+  <tr>
+    <td>Revisar inventario manualmente</td>
+    <td>Baja</td>
+    <td>Alta</td>
+    <td>Alta</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Verificar fechas de caducidad</td>
+    <td>Baja</td>
+    <td>Alta</td>
+    <td>Alta</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Registrar entradas de productos en Excel</td>
+    <td>Media</td>
+    <td>Alta</td>
+    <td>Alta</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Registrar salidas de productos en Excel</td>
+    <td>Media</td>
+    <td>Alta</td>
+    <td>Alta</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Hacer pedidos a proveedores</td>
+    <td>Alta</td>
+    <td>Alta</td>
+    <td>Media</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Aplicar método FIFO manualmente</td>
+    <td>Media</td>
+    <td>Alta</td>
+    <td>Baja</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Coordinar al personal de cocina</td>
+    <td>Baja</td>
+    <td>Baja</td>
+    <td>Alta</td>
+    <td>Media</td>
+  </tr>
+  <tr>
+    <td>Calcular la cantidad de productos a pedir (según demanda)</td>
+    <td>Alta</td>
+    <td>Alta</td>
+    <td>Media</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Detectar productos próximos a vencer</td>
+    <td>Media</td>
+    <td>Alta</td>
+    <td>Alta</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Identificar productos con baja rotación</td>
+    <td>Media</td>
+    <td>Alta</td>
+    <td>Alta</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Ajustar precios del menú según el costo de insumos</td>
+    <td>Alta</td>
+    <td>Alta</td>
+    <td>Baja</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Gestionar reclamos o problemas por falta de insumos</td>
+    <td>Alta</td>
+    <td>Alta</td>
+    <td>Baja</td>
+    <td>Alta</td>
+  </tr>
+</table>
+
+Las tareas que tienen alta frecuencia e importancia son aquellas relacionadas con el control diario del inventario, como revisar manualmente los productos disponibles y registrar movimientos en Excel debido a que son importantes para el funcionamiento del restaurante, pero también demandan mucho tiempo y son propensas a errores. Asimismo, se destacan como altamente importantes, aunque de frecuencia media o baja, tareas como verificar fechas de caducidad, aplicar FIFO, hacer pedidos adecuados según la demanda, y detectar productos próximos a vencer. Estas tareas, si bien no se hacen constantemente, son clave para evitar pérdidas económicas y mejorar la eficiencia operativa. En conclusión, se observa que muchas de las tareas que se realizan de forma manual, se podrían automatizar e implementar una solución tecnológica, reduciendo los errores y mejorar la toma de decisiones por parte de los encargados.
 
 ### 2.3.3. User Journey Mapping.
+
 
 ### 2.3.4. Empathy Mapping.
 
