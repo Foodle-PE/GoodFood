@@ -15,9 +15,9 @@
   <tr>
     <td colspan="2"></td>
     <td>GoodFood<br></td>
-    <td><br></td>
-    <td><br></td>
-    <td><br></td>
+    <td>BlueCart<br></td>
+    <td>MarketMan<br></td>
+    <td>Ordyx<br></td>
 </tr>
   <tr>
     <td rowspan="2">Perfil</td>
