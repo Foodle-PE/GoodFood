@@ -52,6 +52,14 @@ https://www.fao.org/peru/noticias/detail-events/en/c/1712376/#:~:text=LIMA%20%E2
 
 #### 1.2.2.3. Lean UX Hypothesis Statements.
 
+Creemos que al implementar sensores IoT en áreas críticas del restaurante como refrigeradores o almacenes podremos monitorear la caducidad, temperatura y calidad del aire en tiempo real, reduciremos el desperdicio de alimentos y mejoraremos la eficiencia del inventario.
+
+Sabemos que al enviar alertas a los trabajadores cuando un producto esté próximo a vencerse o las condiciones de almacenamiento no sean adecuadas, evitaremos pérdidas y mejoraremos la toma de decisiones.
+
+Creemos que una interfaz intuitiva con iconos visuales y notificaciones aumentaran la adaptación del personal con el sistema.
+
+Sabemos que hemos tenido éxito cuando GoodFood comience a tener reseñas y puntuaciones positivas luego de pruebas de usabilidad tras unos meses de uso.
+
 #### 1.2.2.4. Lean UX Canvas.
 
 ## 1.3. Segmentos objetivo.
