@@ -251,6 +251,66 @@ Preguntas Complementarias:
    
 ### 2.2.2. Registro de entrevistas.
 
+Segmento 1: Restaurantes / Dueños de Restaurantes
+Entrevista 1:
+Nombre: Augusto Montes 
+Edad: 20
+Distrito: Jesus Maria
+Link:ENTREVISTA 1.mp4
+![image](https://github.com/user-attachments/assets/fbb1441d-fbd9-43c5-b59d-4d67daf5eb12)
+
+La entrevista con Augusto Montes revela que los principales desafíos en la gestión de inventarios de restaurantes incluyen equilibrar el stock para evitar tanto la escasez como el desperdicio, gestionar manualmente el inventario con hojas de cálculo, y la falta de visibilidad sobre fechas de caducidad, lo que genera pérdidas. Actualmente, utilizan estrategias como la rotación de inventarios (FIFO), ajustes de menú basados en productos cercanos a caducar y donaciones de alimentos en buen estado. Sin embargo, consideran prioritario implementar tecnología que automatice alertas de stock y caducidad, permita el monitoreo en tiempo real de temperatura y niveles de inventario, integre pedidos automáticos con proveedores y ofrezca reportes analíticos para optimizar el consumo y los costos. La incorporación de estas herramientas reduciría desperdicios, mejoraría la eficiencia operativa y generaría un impacto positivo en la experiencia del cliente y en los costos del restaurante.
+
+Entrevista 2:
+Nombre: Maria Fernanda Castillo Espinoza
+Edad: 22
+Distrito: Los olivos
+Link:ENTREVISTA 2.mp4
+![image](https://github.com/user-attachments/assets/c8d1f532-64c7-4f62-96eb-6381d09027eb)
+
+La entrevista con María Fernanda Castillo revela que los principales problemas en la gestión del inventario del restaurante incluyen la falta de control en tiempo real del stock y la pérdida de productos. Actualmente, gestionan los inventarios de productos perecederos como carnes, lácteos y frutas de manera manual con listas de Excel, lo cual consideran útil hasta cierto punto, pero insuficiente para un control más detallado o automatizado. Para reducir el desperdicio, utilizan el sistema FIFO y realizan compras ajustadas a la demanda. Sin embargo, enfrentan dificultades con las fechas de caducidad, ya que a menudo no se revisan a diario, lo que genera pérdidas. María Fernanda ve como una gran ventaja contar con una herramienta que permita monitorear los productos en tiempo real, como las fechas de caducidad y el stock, ya que facilitaría la toma de decisiones rápidas y la reducción tanto del desperdicio como de las compras innecesarias.
+
+Entrevista 3:
+Nombre: Julio Castro Alejos 
+Edad: 24
+Distrito: Pueblo libre  
+Link:ENTREVISTA 3.mp4
+![image](https://github.com/user-attachments/assets/9dd521fa-e1f1-4f8f-9552-fac22c257ae8)
+
+Julio enfrenta problemas con la gestión manual de inventarios, ya que utiliza hojas de Excel, lo que dificulta llevar un registro preciso y eficiente. Esto genera pérdidas de datos y problemas para identificar productos próximos a caducar. Actualmente, el restaurante reduce el desperdicio siguiendo las fechas de caducidad de manera manual y desechando los alimentos sobrantes al final del día.
+Le interesa una herramienta tecnológica que permita monitorear en tiempo real las temperaturas, fechas de caducidad y niveles de stock, considerando que esto no solo beneficiaría al restaurante, sino también mejoraría la experiencia del cliente. Destaca la importancia de integrar nuevas tecnologías para mantenerse competitivo en un mercado digitalizado. Además, sugiere funcionalidades adicionales, como integración con pedidos y gestión de mesas, para optimizar aún más las operaciones del restaurante.
+
+Segmento 2: Personal de Restaurantes (Encargados de Inventarios)
+Entrevista 1:
+Nombre: Diego Sanchez Calmet
+Edad: 20
+Distrito: Pueblo libre  
+Duración: 06:35
+Link:Entrevista 1 Web.mp4
+![image](https://github.com/user-attachments/assets/c8c476d3-d1c8-4cbf-9155-46db16c4aae0)
+
+Resumen de la entrevista: Nuestro invitado Diego trabaja en la cadena de comida rápida “Yopo”. En esta entrevista nos cuenta  un poco de cómo es trabajar en un establecimiento de comida rápida en donde se lidia con problemas como inventario de alimentos, compra de insumos, venta de alimentos  de buena calidad, etc. Como primer punto a tomar en cuenta nos comenta que a la hora de realizar sus inventarios lo hacen en hojas de cálculo o usando los sistemas de punto de venta aunque estos no estén conectados, dando como observación un primer problema que sería la falta de automatización. En cuanto a problemas de pérdida de productos perecederos destacó el hecho que suele suceder que en el inventario hay información pero esta no acaba coincidiendo con el inventario físico, esto en conjunto con la pérdida de alimentos por vencimiento son problemas que Diego resalta a la hora de hacer inventarios. Como recomendaciones nos da a tomar en cuenta que las notificaciones o alertas sobre el estado de los alimentos sería un punto positivo y de gran ayuda al igual que tener una misma herramienta centralizada para que no existan inconvenientes en los cambios de turno de personal.
+
+Entrevista 2:
+Nombre: Alexia 
+Edad: 20
+Distrito: La Victoria 
+Duración: 06:44
+Link: Entrevista 2.mp4
+![image](https://github.com/user-attachments/assets/8a485d60-4bde-4d52-9b98-466a688f65e5)
+
+Resumen de la entrevista: Alexia una estudiante de 20 años y con experiencia en gestión manual de inventarios para un restaurante, cuenta cómo enfrentó problemas críticos como pérdidas del 30% de alimentos por caducidad no detectada (3 veces/semana) y falta de trazabilidad en los movimientos del almacén. Su método anticuado le consumía 2 horas diarias y dependía de la "palabra" entre miembros del equipo, sin registros digitales que evitaran errores o robos. Para ella, una solución como la nuestra sería valiosa si incluye: alertas automáticas de caducidad, registro de productos para verificar su estado, acceso multiusuario en tiempo real (evitando duplicidad de información), y cronogramas visuales de vida útil de alimentos. Destaca que una herramienta digital debe ser simple y rápida, ya que en entornos pequeños no hay tiempo para sistemas complejos. Su experiencia refuerza la necesidad de un sistema enfocado en notificaciones para caducidades e historial de movimientos,  para mejorar la organización en situaciones como esta.
+
+Entrevista 3:
+Nombre: Sebastian Salazar
+Edad: 19
+Distrito: Magdalena
+Duración: 7:37
+Link: Entrevista 6-Web.mp4
+![image](https://github.com/user-attachments/assets/cde2f881-bce7-4c5e-9640-9a2285910ac7)
+
+Resumen de la entrevista: Sebastián de 19 años y con experiencia en gestión de inventarios de alimentos, demuestra los desafíos operativos en entornos gastronómicos: aunque utiliza el método PEPS que trata de lo primero en entrar es lo primero en salir para minimizar pérdidas por caducidad, su sistema actual depende de registros manuales transferidos a una base de datos en Excel, lo que genera ineficiencias como falta de categorización (productos mezclados con utensilios), lentitud en la actualización de datos y riesgos de error humano al depender de "confianza verbal" con el equipo. Su principal dolor es el tiempo perdido en conteos redundantes (2.5 horas/día) y la falta de visibilidad en tiempo real del stock. Valora especialmente que en nuestro sistema haya  alertas de caducidad y categorizar ítems, pero enfatiza que la herramienta debe ser ligera y fluida para no ralentizar sus procesos. 
+
 ### 2.2.3. Análisis de entrevistas.
 
 ## 2.3. Needfinding.
