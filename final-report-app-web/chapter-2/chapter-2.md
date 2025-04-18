@@ -307,8 +307,29 @@ Las tareas que tienen alta frecuencia e importancia son aquellas relacionadas co
 
 ### 2.3.3. User Journey Mapping.
 
+En esta sección se presenta el en to end journey de la aplicación web Foodle. En este caso, para cada segmento objetivo designado, dueños de restaurantes y empleados de restaurantes. Este proceso se lleva a cabo empezando por el registro del usuario, usar la aplicación y finalmente que el usuario opte por dejar de usar la respectiva aplicación. 
+
+- Dueños de restaurantes
+
+![Image](https://github.com/user-attachments/assets/506f3f27-a966-41ab-9518-fa7fd1327a72) 
+
+- Empleados de restaurantes
+
+![Image](https://github.com/user-attachments/assets/9634a44e-36f5-4dcc-825d-20b6628ab058)
+
+
 
 ### 2.3.4. Empathy Mapping.
+
+- Dueños de restaurantes
+![Empathy map_PedroMontes](https://github.com/user-attachments/assets/4418d561-29c3-4c59-a7ce-dc033281dd03)
+
+
+
+- Empleados de restaurantes
+
+![EmpathyMap_Sebastian Rios](https://github.com/user-attachments/assets/06b65b01-9452-48a1-9cfd-f581bb5be003)
+
 
 ### 2.3.5. As-is Scenario Mapping.
 
