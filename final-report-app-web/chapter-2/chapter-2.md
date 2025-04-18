@@ -22,10 +22,12 @@
   <tr>
     <td rowspan="2">Perfil</td>
     <td>Overview</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>GoodFood es una plataforma que optimiza la gestión de inventarios en restaurantes, integrando sensores IoT para monitorear productos perecederos en tiempo real, como temperatura, humedad, y fechas de caducidad. Ofrece alertas automáticas y recomendaciones para optimizar los procesos operativos.</td>
+    <td>BlueCart se centra en la gestión de compras, pedidos y relaciones con proveedores. Su objetivo es simplificar el proceso de compra de productos, integrar las comunicaciones con los proveedores y ayudar a los restaurantes a mantener un inventario adecuado.</td>
+    <td>MarketMan se especializa en la gestión de inventarios y compras para restaurantes. Ayuda a los restaurantes a controlar sus existencias, hacer pedidos, analizar datos de consumo y reducir costos relacionados con el inventario.
+</td>
+    <td>Ordyx combina un sistema POS con funciones de gestión de inventarios y análisis de ventas. Permite el seguimiento de inventarios en tiempo real, pero está más enfocado en la parte de ventas y puntos de venta que en la gestión del inventario en sí.
+</td>
 </tr>
   <tr>
   <td>Ventaja competitiva ¿Qué valor ofrece a los clientes?</td>
