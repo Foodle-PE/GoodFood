@@ -121,6 +121,65 @@
 </table>
 
 ### 2.1.2. Estrategias y tácticas frente a competidores.
+Estrategias y Tácticas frente a Competidores (GoodFood)
+1. Aprovechar la Fortaleza: Tecnología IoT Avanzada para Gestión de Inventarios
+Estrategia: Diferenciar GoodFood mediante el uso de tecnología IoT avanzada que permite un monitoreo en tiempo real de los productos perecederos, lo cual mejora la eficiencia en la gestión de inventarios.
+Táctica:
+
+
+Promocionar el monitoreo en tiempo real: Resaltar la ventaja competitiva de GoodFood en comparación con otros competidores como MarketMan o BlueCart, que no cuentan con la integración de sensores IoT para el monitoreo en tiempo real de los productos.
+
+
+ - Demostrar ahorro de costos y reducción de desperdicios: Crear campañas que muestren cómo la tecnología de GoodFood ayuda a los 
+   restaurantes a reducir el desperdicio de productos perecederos, lo que contribuye a la sostenibilidad y mejora los márgenes de 
+   ganancia.
+
+ - Testimonios y estudios de caso: Utilizar testimonios de restaurantes que hayan experimentado mejoras con GoodFood para aumentar la 
+   confianza y destacar los beneficios tangibles de la tecnología IoT.
+
+2. Aprovechar la Oportunidad: Crecimiento de la Demanda de Soluciones de Sostenibilidad y Eficiencia en Restaurantes
+Estrategia: Posicionar GoodFood como la plataforma ideal para restaurantes que buscan mejorar su eficiencia operativa y reducir su impacto ambiental, aprovechando la creciente demanda por soluciones tecnológicas sostenibles.
+Táctica:
+
+ - Campañas de marketing enfocadas en sostenibilidad: Crear contenido en redes sociales y blogs sobre cómo GoodFood ayuda a los 
+   restaurantes a reducir el desperdicio de alimentos, un problema importante en la industria, al gestionar de manera eficiente los 
+   productos perecederos.
+
+ - Alianzas con organismos ambientales y asociaciones de restaurantes: Establecer colaboraciones con asociaciones que promuevan la 
+   sostenibilidad y el desperdicio cero para aumentar la visibilidad de GoodFood como una solución verde en la industria restaurantera.
+
+ - Certificaciones ecológicas: Trabajar para obtener sellos o certificaciones que destaquen la sostenibilidad de GoodFood, lo que podría 
+   atraer a restaurantes con una filosofía ecológica.
+
+3. Afrontar la Amenaza de Competidores Consolidados con Base de Usuarios Grandes (e.g., MarketMan, BlueCart)
+Estrategia: Utilizar un enfoque de marketing enfocado en la confianza y seguridad, destacando las características únicas de GoodFood que no están presentes en competidores consolidados.
+Táctica:
+
+ - Resaltar la verificación de productos: A diferencia de plataformas como MarketMan o BlueCart, que pueden no ofrecer un control 
+   exhaustivo de calidad, GoodFood proporcionará transparencia total sobre el estado de los productos en el inventario gracias a la 
+   tecnología IoT.
+
+ - Modelo freemium: Ofrecer una versión básica gratuita de la plataforma que permita a los restaurantes probar la tecnología de 
+   monitoreo en tiempo real antes de comprometerse con una suscripción de pago. Esto podría atraer a usuarios de competidores que están 
+   buscando opciones más económicas o que no están totalmente satisfechos con las características de sus plataformas actuales.
+
+ - Segmentación por tipo de restaurante: Diferenciarse de competidores generales como BlueCart al ofrecer soluciones específicas para 
+   diferentes tipos de restaurantes (por ejemplo, restaurantes de alto volumen, de cocina rápida, o de fine dining).
+
+4. Aprovechar la Debilidad de la Dependencia de Posicionamiento en Buscadores y Visibilidad Inicial
+Estrategia: Implementar estrategias de marketing digital avanzadas para aumentar la visibilidad de GoodFood, captando la atención de restaurantes, a pesar de la competencia en términos de SEO y marketing.
+Táctica:
+
+ - Marketing de contenido educativo: Crear contenido que eduque a los dueños de restaurantes sobre la importancia de la gestión avanzada 
+   de inventarios y cómo GoodFood puede optimizar esos procesos. Publicar blogs, videos y guías prácticas sobre el uso de tecnología IoT 
+   en la industria restaurantera.
+
+-  Publicidad pagada y SEO local: Utilizar campañas de Google Ads y publicidad en redes sociales dirigidas a restaurantes locales. 
+   Además, optimizar el sitio web para búsquedas relacionadas con "gestión de inventarios para restaurantes" o "monitoreo de alimentos 
+   en tiempo real".
+
+ - Alianzas con influenciadores en el sector restaurantero: Colaborar con influencers y expertos del sector de la restauración para 
+   promocionar GoodFood y aumentar su visibilidad entre los tomadores de decisiones.
 
 ## 2.2. Entrevistas.
 
