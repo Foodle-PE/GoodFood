@@ -14,7 +14,9 @@
   </tr>
   <tr>
     <td colspan="2"></td>
-    <td>GoodFood<br></td>
+    <td>GoodFood
+      ![image](https://github.com/user-attachments/assets/43afeaaa-b6f1-4e24-b7a4-2ddea3ba9126)
+<br></td>
     <td>BlueCart<br></td>
     <td>MarketMan<br></td>
     <td>Ordyx<br></td>
