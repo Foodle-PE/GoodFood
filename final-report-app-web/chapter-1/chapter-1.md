@@ -61,5 +61,25 @@ Creemos que una interfaz intuitiva con iconos visuales y notificaciones aumentar
 Sabemos que hemos tenido éxito cuando GoodFood comience a tener reseñas y puntuaciones positivas luego de pruebas de usabilidad tras unos meses de uso.
 
 #### 1.2.2.4. Lean UX Canvas.
+![image](https://github.com/user-attachments/assets/d2d54183-9630-459b-b4ab-b9994ad480a9)
 
 ## 1.3. Segmentos objetivo.
+Primer segmento objetivo: 
+Restaurantes con alta dependencia de ingredientes frescos, como ejemplos de estos podríamos tener cevicherías, restaurantes gourmet y pollerías.
+
+Características demográficas:
+ - Ubicación: zonas urbanas con alta demanda (Lima, Arequipa, Trujillo).
+ - Facturación mensual: S/20,000 a S/50,000.
+ - Toma de decisiones: Dueños o gerentes con interés en tecnología.
+
+Datos de sustento:
+ - Según la FAO (2023), el 40% de las pérdidas en restaurantes peruanos proviene del desperdicio de pescados y mariscos.
+
+Segundo segmento objetivo: 
+Cadenas de restaurantes como franquicias o grupos gastronómicos en busca de procesos estandarizados.
+
+Características demográficas:
+
+ - Empleados: 50+ por cadena.
+ - Inversión en TI: Presupuesto asignado para SaaS (S/500–S/2,000/mes).
+ - Prioridad: Control centralizado y reducción de merma.
