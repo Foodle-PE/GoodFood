@@ -34,8 +34,8 @@
       <td>U202317442</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td>Montañez Moreno, Luis Angel</td>
+      <td>U202223811</td>
     </tr>
   </tbody>
 </table>
