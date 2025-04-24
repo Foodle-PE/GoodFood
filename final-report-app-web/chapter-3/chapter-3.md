@@ -27,18 +27,21 @@
             <td><strong>Como</strong> gerente. <strong>Quiero</strong> monitorear las condiciones del inventario en tiempo real. <strong>Para</strong> para evitar pérdidas por mal almacenamiento.</td>
             <td>
                 <h5>Escenario 01: Actualización de estado.</h5>
-                <strong>Dado</strong>  que soy un profesional interesado en ofrecer mis servicios.<br>
-                <strong>Cuando</strong>  completo correctamente el formulario de registro con mis datos y lo envío.<br>
-                <strong>Entonces</strong> el sistema guarda la información, envía una notificación de recepción y muestra un mensaje indicando que el perfil será revisado.
-                <h5>Escenario 02: Fallo en el registro.</h5>
-                <strong>Dado</strong> que el sistema esté conectado a sensores IoT.<br>
-                <strong>Cuando</strong> se detecte un cambio en temperatura.<br>
+                <strong>Dado</strong>  que el sistema esté conectado a sensores IoT.<br>
+                <strong>Cuando</strong>  se detecte un cambio en temperatura.<br>
                 <strong>Entonces</strong> se actualiza el estado en la app instantáneamente.
+                <h5>Escenario 02: Visualización de estado.</h5>
+                <strong>Dado</strong> que los sensores funcionen correctamente. <br>
+                <strong>Cuando</strong> accedo a la app.<br>
+                <strong>Entonces</strong> visualizo la temperatura y humedad actuales de los alimentos.
             </td>
             <td>EP01</td>
         </tr>
     </tbody>
 
+    
+
 ## 3.3. Impact Mapping.
 
 ## 3.4. Product Backlog.
+|id|epic|
