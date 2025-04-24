@@ -55,8 +55,8 @@
             </td>
             <td>EPXX</td>
         </tr>
-    </tbody>
-
+    </tbody>   
+</table>
     
 
 ## 3.3. Impact Mapping.
@@ -64,5 +64,5 @@
 ## 3.4. Product Backlog.
 | id | epic |
 
-## 3.5 
+## 3.5 chapter
 
