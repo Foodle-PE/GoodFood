@@ -4,8 +4,9 @@
 ## Aplicaciones Web - Presencial 
 ## PROFESOR: Alex Sanchez
 ## Sección: 1ASI0730
+## NRC: 4388
 ## INFORME TB1
-## START UP: BIBLIOTECA DE SOFTWARE
+## START UP: Foodle
 ## PRODUCTO: GoodFood
 
 ### INTEGRANTES:
@@ -47,9 +48,9 @@ Ciclo 2025-01
 
 # Registro de versiones del informe
 
-| Versión | Fecha | Autor | Descripción de modificación |
-|---------|-------|-------|-----------------------------|
-| TB1     |       |       |                             |
+| Versión | Fecha      | Autor | Descripción de modificación                                                                                                                                                                                                                          |
+|---------|------------|-------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| TB1     | 25/04/2025 | Torres Flores, Paolo Alessandro<br/>Aguirre Castillo, Sergio Cesar<br/>Rojas Piñero, Luis Miguel<br/>Muñoz Machuca, Maria Elena<br/>Montañez Moreno, Luis Angel  | Se realizó la documentación de los capítulos I, II, III, IV y V así como la correcta diagramación de componentes, estados, clases y entidades. Además de realizó la creación de la landing page estática así como también el deployment de la misma. |
 
 
 # Project Report Collaboration Insights
@@ -148,7 +149,7 @@ Ciclo 2025-01
 ### [Anexos](#anexos-1)
 
 # Student Outcome
-| Criterio específico                                                   | Acciones realizadas | Conclusiones |
-|-----------------------------------------------------------------------|---------------------|--------------|
-| Comunica oralmente con efectividad a diferentes rangos de audiencia.  |                     |              |
-| Comunica por escrito con efectividad a diferentes rangos de audiencia |                     |              |
+| Criterio específico                                                                             | Acciones realizadas | Conclusiones |
+|-------------------------------------------------------------------------------------------------|---------------------|--------------|
+| Trabaja en equipo para proporcionar liderazgo en forma conjunta.                                |                     |              |
+| Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos. |                     |              |
