@@ -4,16 +4,75 @@
 
 ### 1.1.1. Descripción de la Startup
 
+**Go4U** es una startup dedicada a soluciones digitales enfocadas en restaurantes. Utilizamos tecnologías IoT para agilizar la gestión de restaurantes. Nuestro enfoque es preventivo, proporcionando sensores y herramientas para evitar problemas tales como la descomposición de alimentos. No ofrecemos servicios de intervención, ni de acción inmediata.<br>
+
+- **Misión:** Facilitar la gestión de los restaurantes a través de tecnologías las cuales permiten el monitoreo continuo del restaurante, al igual que optimizan la atención de los trabajadores, para que estos puedan ofrecer un mejor servicio a sus consumidores.
+- **Visión:** Ser la empresa más importante en Perú, en el ámbito de gestión y optimización de restaurantes con el uso de soluciones tecnológicas.
+- **Producto:** “GoodFood” es un servicio el cual permite el monitoreo de puntos críticos del inventario de un restaurante, monitoreando fechas de caducidad, temperaturas y gases (tales como etileno y calidad de aire) para confirmar los niveles de descomposición de los productos en el inventario del restaurante. Así mismo este servicio también ofrece un botón para llamar a los trabajadores del restaurante desde la mesa, con el fin de optimizar la atención dirigida al consumidor.
+
 ### 1.1.2. Perfiles de integrantes del equipo
+
+|                                                     | Apellido y Nombre | Carrera                | Acerca de                                                                                                                                                                                                                                                                                                                                                       | Habilidades                                                                                                                                                                        |
+|-----------------------------------------------------|---------------|------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|                                                     |  | Ingeniería de Software | |                                                                                                                              |
+|          |  | Ingeniería de Software |  |                                                                                                                                         |
+|     |  | Ingeniería de Software |  |                                                                                                                                  |
+|  | Torres Flores, Paolo Alessandro | Ingeniería de Software | Soy un estudiante de 5to ciclo con afán de mejorar cada día que pasa. Tengo muchas aspiraciones, ya sea en mi carrera como personalmente, y lucho diariamente para acercarme cada vez más a ellas. | Me considero una persona adaptable al entorno, sé trabajar en equipo y aprendo rápido. Mentalidad para resolver problemas. Conocimiento básico de las funcionalidades de software. |
+|                                                     |               | Ingeniería de Software |   |              |
 
 ## 1.2. Solution Profile
 
+**Product Name:** GoodFood <br>
+**Product Description:** GoodFood, es una Web App que tiene como objetivo optimizar la gestión de los restaurantes. Para ello, esta permite al usuario monitorear los IoT que este tiene, mostrando información útil, ayudando con la gestión de inventarios y agilizando el trabajo de los trabajadores en la tienda. Los dueños de los restaurantes pueden usar GoodFood con el fin de optimizar varios procesos. <br>
+**Monetización:** GoodFood funciona mediante un modelo de suscripción mensual o anual, en el cual se alquilan los diferentes dispositivos IoT.
+
 ### 1.2.1 Antecedentes y problemática
 
-### 1.2.2 Lean UX Process.
+**Antecedentes:**
 
+Estudios recientes han analizado los factores que impulsan el desperdicio de alimentos en restaurantes informales de gama media, diferenciado entre el desperdicio generado por el cliente y el generado en la cocina. Una investigación en destinos turísticos de Lituania (Morkunas et al, 2025), empleo entrevistas con gerentes y un Proceso Analítico Jerárquico (AHP) difuso para priorizar las causas, revelando hallazgos clave:
+
+* Cliente: Destacaron el sentimiento de vergüenza, barrera lingüística, presentación inadecuada de platos tradicionales, tanto en destinos locales e internacionales.
+
+* Cocina: Asociado a fallas en la planificación de demanda, ineficiencias operativas y limitaciones en infraestructura de almacenamiento.
+
+Dicho estudio, propone soluciones adaptadas a cada factor identificado, ofreciendo un marco relevante para abordar problemáticas similares en contextos gastronómicos.
+
+**Problemáticas:**
+
+La gestión del inventario de un restaurante suele llegar a consumir muchos recursos y tiempo. Además también es muy complicado estar al tanto de la fecha de vencimiento por producto, al igual que la temperatura idónea de los mismos. También cuando un restaurante tiene una gran cantidad de clientela se le suele dificultar a los mozos darse cuenta cuando un cliente requiere de atención.
+
+**Técnica de The 5 'W's y 2 'H's**
+
+**What?** <br>
+El problema es la mala gestión del inventario en los restaurantes, lo que genera desperdicio de alimentos y un alto consumo de recursos debido al
+vencimiento de productos y a la falta de control eficiente. Además, el personal de atención enfrenta dificultades para identificar cuándo un cliente requiere
+asistencia, lo que puede afectar la calidad del servicio y la experiencia del cliente.
+
+**When?** <br>
+La problemática sucede en cualquier momento del día, ya que los restaurantes operan constantemente y deben gestionar su inventario y atención al
+cliente en todo momento.
+
+**Where?** <br>
+La problemática ocurre en los restaurantes, tanto en la cocina como en el área de atención al cliente.
+
+**Who?** <br>
+Los dueños, gerentes y trabajadores de un restaurante son los principales afectados por esta problemática. La mala gestión del inventario impacta en su
+rentabilidad y eficiencia operativa.
+
+**Why?** <br>
+La mala o dificultosa gestión de inventario en restaurantes se debe a la falta de herramientas adecuadas para monitorear y gestionar eficientemente el
+inventario, así como a la falta de visibilidad y datos concretos sobre el estado de los productos.
+
+**How?** <br>
+GoodFood facilitará el proceso de gestión de inventario mediante el monitoreo de los mismos gracias a sus modernos sensores conectados a la app.
+
+**How much?** <br>
+GoodFood tendrá el alcance de resolver esta problemática a todo aquel restaurante que compre sus servicios.
+
+### 1.2.2 Lean UX Process.
 #### 1.2.2.1. Lean UX Problem Statements.
-Actualmente en el mundo de los restaurantes los dueños, gerentes y trabajadores enfrentan desafíos constantes en la gestión de su inventario de alimentos, lo que genera desperdicio de productos, pérdidas económicas y una gestión ineficiente de recursos. Las soluciones actuales como podrían ser registros manuales o sistemas básicos de inventario de toda la vida carecen de monitoreo en tiempo real y alertas proactivas, dejando expuestos a los restaurantes a productos que se echan a perder por mal almacenamiento o falta de visibilidad de fechas de caducidad. Generando pérdidas económicas debido al exceso de compras o descoordinación entre cocina y almacén. Además, la falta de integración con sensores IoT en las soluciones existentes impide una gestión preventiva, lo que lleva a problemas recurrentes como seria el almacenamiento inadecuado lo cual puede generar humedad, temperatura, etc. Inadecuada generando así descomposición en los alimentos.
+Actualmente, en el mundo de los restaurantes los dueños, gerentes y trabajadores enfrentan desafíos constantes en la gestión de su inventario de alimentos, lo que genera desperdicio de productos, pérdidas económicas y una gestión ineficiente de recursos. Las soluciones actuales como podrían ser registros manuales o sistemas básicos de inventario de toda la vida carecen de monitoreo en tiempo real y alertas proactivas, dejando expuestos a los restaurantes a productos que se echan a perder por mal almacenamiento o falta de visibilidad de fechas de caducidad. Generando pérdidas económicas debido al exceso de compras o descoordinación entre cocina y almacén. Además, la falta de integración con sensores IoT en las soluciones existentes impide una gestión preventiva, lo que lleva a problemas recurrentes como seria el almacenamiento inadecuado lo cual puede generar humedad, temperatura, etc. Inadecuada generando así descomposición en los alimentos.
 Restricciones que tomamos en cuenta:
  - Limitaciones de presupuesto: no todos los restaurantes tienen el mismo presupuesto para invertir.
  - Complicaciones para adaptarse: pueden existir trabajadores que se reúsen de pasar de un sistema tradicional a uno más tecnificado.
@@ -64,22 +123,6 @@ Sabemos que hemos tenido éxito cuando GoodFood comience a tener reseñas y punt
 ![image](https://github.com/user-attachments/assets/d2d54183-9630-459b-b4ab-b9994ad480a9)
 
 ## 1.3. Segmentos objetivo.
-Primer segmento objetivo: 
-Restaurantes con alta dependencia de ingredientes frescos, como ejemplos de estos podríamos tener cevicherías, restaurantes gourmet y pollerías.
-
-Características demográficas:
- - Ubicación: zonas urbanas con alta demanda (Lima, Arequipa, Trujillo).
- - Facturación mensual: S/20,000 a S/50,000.
- - Toma de decisiones: Dueños o gerentes con interés en tecnología.
-
-Datos de sustento:
- - Según la FAO (2023), el 40% de las pérdidas en restaurantes peruanos proviene del desperdicio de pescados y mariscos.
-
-Segundo segmento objetivo: 
-Cadenas de restaurantes como franquicias o grupos gastronómicos en busca de procesos estandarizados.
-
-Características demográficas:
-
- - Empleados: 50+ por cadena.
- - Inversión en TI: Presupuesto asignado para SaaS (S/500–S/2,000/mes).
- - Prioridad: Control centralizado y reducción de merma.
+GoodFood es una plataforma enfocada en los dos segmentos clave dentro de un restaurante; Los dueños y trabajadores de los restaurantes. Estos dos grupos son los encargados principales en proveer la mejor experiencia posible al consumidor y de administrar el restaurante, por ello GoodFood se enfoca en proporcionarles soluciones inteligentes los cuales facilitan la labor de ambos segmentos.
+- **Dueños:** GoodFood, está hecho con el fin de facilitar la gestión del inventario por parte de los dueños de los restaurantes, debido a que esta es una tarea de gran dificultad, puesto que se sabe que en el 2019 aproximadamente el 47,6% de los alimentos producidos son descompuestos.
+- **Trabajadores:** GoodFood, está hecho con el fin de facilitar la gestión del inventario por parte de los trabajadores de los restaurantes, debido a que esta es una tarea de gran dificultad, puesto que se sabe que en el 2019 aproximadamente el 47,6% de los alimentos producidos son descompuestos.
