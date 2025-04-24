@@ -38,10 +38,31 @@
             <td>EP01</td>
         </tr>
     </tbody>
+    <tbody>
+        <tr style="text-align:center">
+            <td>HUXX</td>
+            <td></td>
+            <td><strong>Como</strong> nombre <strong>Quiero</strong>  <strong>Para</strong> </td>
+            <td>
+                <h5>Escenario 01: </h5>
+                <strong>Dado</strong>  <br>
+                <strong>Cuando</strong>  <br>
+                <strong>Entonces</strong> 
+                <h5>Escenario 02: </h5>
+                <strong>Dado</strong>  <br>
+                <strong>Cuando</strong> <br>
+                <strong>Entonces</strong> 
+            </td>
+            <td>EPXX</td>
+        </tr>
+    </tbody>
 
     
 
 ## 3.3. Impact Mapping.
 
 ## 3.4. Product Backlog.
-|id|epic|
+| id | epic |
+
+## 3.5 
+
