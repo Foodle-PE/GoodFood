@@ -10,12 +10,34 @@
 
 ## 3.2. User Stories.
 
-| ID                            |  Nombre       | Descripción | Criterios de Aceptación | Épica |
-|-------------------------------|----------------|----------------|------------------------------|
-|Monitoreo en tiempo real | Como gerente de restaurante, quiero monitorear las condiciones del inventario en tiempo real, para evitar pérdidas por mal almacenamiento. | Escenario 01: Actualización de estado 
-Dado que el sistema esté conectado a sensores IoT,
-Cuando se detecte un cambio en temperatura,
-Entonces se actualiza el estado en la app instantáneamente. |
+<table>
+    <thead>
+        <tr style="text-align:center">
+            <th>ID</th>
+            <th>Nombre</th>
+            <th>Descripción</th>
+            <th>Criterios de aceptación</th>
+            <th>Épica</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr style="text-align:center">
+            <td>HU01</td>
+            <td>Monitoreo en tiempo real</td>
+            <td><strong>Como</strong> gerente. <strong>Quiero</strong> monitorear las condiciones del inventario en tiempo real. <strong>Para</strong> para evitar pérdidas por mal almacenamiento.</td>
+            <td>
+                <h5>Escenario 01: Actualización de estado.</h5>
+                <strong>Dado</strong>  que soy un profesional interesado en ofrecer mis servicios.<br>
+                <strong>Cuando</strong>  completo correctamente el formulario de registro con mis datos y lo envío.<br>
+                <strong>Entonces</strong> el sistema guarda la información, envía una notificación de recepción y muestra un mensaje indicando que el perfil será revisado.
+                <h5>Escenario 02: Fallo en el registro.</h5>
+                <strong>Dado</strong> que el sistema esté conectado a sensores IoT.<br>
+                <strong>Cuando</strong> se detecte un cambio en temperatura.<br>
+                <strong>Entonces</strong> se actualiza el estado en la app instantáneamente.
+            </td>
+            <td>EP01</td>
+        </tr>
+    </tbody>
 
 ## 3.3. Impact Mapping.
 
