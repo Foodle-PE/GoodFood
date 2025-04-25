@@ -128,6 +128,8 @@ Etiquetas utilizadas en el sitio:
 
 [![planes.jpg](https://i.postimg.cc/C5VhHjVz/planes.jpg)](https://postimg.cc/62YxB4qX)
 
+[![beneficios.jpg](https://i.postimg.cc/SKMbTJd8/beneficios.jpg)](https://postimg.cc/nspWMV6c)
+
 
 ## 4.4. Web Applications UX/UI Design.
 
