@@ -130,6 +130,7 @@ Etiquetas utilizadas en el sitio:
 
 [![beneficios.jpg](https://i.postimg.cc/SKMbTJd8/beneficios.jpg)](https://postimg.cc/nspWMV6c)
 
+[![contacto.jpg](https://i.postimg.cc/pL3gFPvd/contacto.jpg)](https://postimg.cc/Jsc6wVGw)
 
 ## 4.4. Web Applications UX/UI Design.
 
