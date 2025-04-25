@@ -105,6 +105,18 @@ Etiquetas utilizadas en el sitio:
 ## 4.3. Landing Page UI Design.
 ### 4.3.1. Landing Page Wireframe.
 
+![Image](https://github.com/user-attachments/assets/a327a269-817d-44e6-87f6-857ac935da88) 
+
+![wireframe2](https://github.com/user-attachments/assets/7bea7e0b-aa2c-4271-ad61-b0ac376b4095)
+
+![wireframe3](https://github.com/user-attachments/assets/b8575555-0dc8-4ce9-aa7e-ad1983be901f)
+
+![wireframe4](https://github.com/user-attachments/assets/68f68905-e00c-4441-bab0-4ecad96ad860)
+
+![wireframe5](https://github.com/user-attachments/assets/1dc37e07-d629-4dbd-a63b-022f7adda81d)
+
+![wireframe6](https://github.com/user-attachments/assets/b756e004-3c2c-4391-993b-e219b9bdf87f)
+
 
 ### 4.3.2. Landing Page Mock-up.
 
