@@ -126,6 +126,7 @@ Etiquetas utilizadas en el sitio:
 
 [![quienes-somos.jpg](https://i.postimg.cc/fR5VzgQ5/quienes-somos.jpg)](https://postimg.cc/LJY9vDXZ)
 
+[![planes.jpg](https://i.postimg.cc/C5VhHjVz/planes.jpg)](https://postimg.cc/62YxB4qX)
 
 
 ## 4.4. Web Applications UX/UI Design.
