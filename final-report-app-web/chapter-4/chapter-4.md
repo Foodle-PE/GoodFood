@@ -122,6 +122,7 @@ Etiquetas utilizadas en el sitio:
 
 [![main.jpg](https://i.postimg.cc/MHykW4NG/main.jpg)](https://postimg.cc/JH4YxT1w)
 
+[![que-ofrecemos.jpg](https://i.postimg.cc/sXMQ0P8m/que-ofrecemos.jpg)](https://postimg.cc/sQRgMW3G)
 
 
 ## 4.4. Web Applications UX/UI Design.
