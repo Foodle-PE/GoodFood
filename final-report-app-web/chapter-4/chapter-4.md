@@ -120,6 +120,9 @@ Etiquetas utilizadas en el sitio:
 
 ### 4.3.2. Landing Page Mock-up.
 
+[![main.jpg](https://i.postimg.cc/MHykW4NG/main.jpg)](https://postimg.cc/JH4YxT1w)
+
+
 
 ## 4.4. Web Applications UX/UI Design.
 
