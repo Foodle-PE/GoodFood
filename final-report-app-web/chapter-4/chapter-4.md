@@ -180,6 +180,7 @@ Para el cuarto flujo tenemos la página de sensores donde podemos ver los sensor
 
 ### 4.4.3. Web Applications User Flow Diagrams.
 
+![UserFlow Diagram](https://github.com/user-attachments/assets/a4bdce76-4935-4087-8130-d26c99090296)
 
 ## 4.5. Web Applications Prototyping.
 
