@@ -351,8 +351,34 @@ Desarrollo del último capítulo del reporte, corrección de errores previos y f
 
 #### 5.2.1.2. Aspect Leaders and Collaborators.
 
-#### 5.2.1.3. Sprint Backlog n.
+<table>
+  <tr>
+    <td>Team Member</td>
+    <th>Paolo Alessandro Torres Flores</th>
+    <th>Sergio Cesar Aguirre Castillo</th>
+    <th>Luis Miguel Rojas Piñero</th>
+    <th>Maria Elena Muñoz Machuca</th>
+    <th>Luis Angel Montañez Moreno</th>
+  </tr>
+  <tr>
+    <td>Github Username</td>
+    <td>PaLeToFo</td>
+    <td>Aguirrat157</td>
+    <td>Lucho0725</td>
+    <td>maria-mm0907</td>
+    <td>Luiso-AM</td>
+  </tr>
+  <tr>
+    <td>Leader (L) / Collaborator (C)</td>
+    <td>L</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+  </tr>
+</table>
 
+#### 5.2.1.3. Sprint Backlog n.
 #### 5.2.1.4. Development Evidence for Sprint Review.
 Aquí podemos notar como está conformado el grupo de trabajo dentro de la organización.
 
@@ -377,13 +403,10 @@ En esta sección se evidencia el servicio documentado al detalle dentro del repo
 
 ![SERVICES DOC EVIDENCE ](https://github.com/user-attachments/assets/39057e9d-016e-41c5-b1ff-f0830db1754a)
 
-
-
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review.
 Aquí podemos evidenciar como ya se realizaron las tareas y no hay ningún error que corregir.
 
 ![SOFTWARE DEPLOYMENT EVIDENCE](https://github.com/user-attachments/assets/9717afc4-86e6-4037-ab2d-8e640fa81ba4)
-
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
 Durante el proceso de desarrollo del trabajo, se realizaron las reuniones necesarias para todo tipo de dificultad que se presentaba. Se usó la herramienta de Discord para poder comunicarnos y realizar las reuniones necesarias.
