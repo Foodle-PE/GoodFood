@@ -152,11 +152,15 @@ Los wireframes de la plataforma web GoodFood muestran la estructura funcional pe
 
 Estos wireframes sientan las bases para una plataforma intuitiva, enfocada en la prevención de pérdidas y la toma de decisiones basada en datos.
 
+![WhatsApp Image 2025-04-26 at 00 07 18_186ea297](https://github.com/user-attachments/assets/47809bb4-37cd-4a81-a951-30e353aee70c)
+
+
 
 ### 4.4.2. Web Applications Wireflow Diagrams.
 
 
 ### 4.4.2. Web Applications Mock-ups.
+![WhatsApp Image 2025-04-26 at 00 05 43_5cc96c33](https://github.com/user-attachments/assets/8986be06-d39e-41b5-b945-6b131600ce31)
 
 
 ### 4.4.3. Web Applications User Flow Diagrams.
