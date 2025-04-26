@@ -53,7 +53,40 @@
 ## 3.3. Impact Mapping.
 
 ## 3.4. Product Backlog.
-| id | epic |
+
+| #Orden | User Story ID | Título                                   | Descripción                                                                                       | Story Points |
+|-------|----------------|-------------------------------------------|---------------------------------------------------------------------------------------------------|--------------|
+| 1     | US01           | Monitoreo en tiempo real                  | Como gerente. Quiero monitorear las condiciones del inventario en tiempo real. Para evitar pérdidas por mal almacenamiento. | 5 |
+| 2     | US02           | Alertas por fecha de caducidad            | Como encargado de almacén. Quiero recibir alertas antes de que un alimento caduque. Para evitar su desperdicio. | 3 |
+| 3     | US03           | Reportes automáticos de inventario        | Como administrador. Quiero recibir reportes automáticos de stock. Para optimizar mis compras semanales. | 5 |
+| 4     | US04           | Interfaz intuitiva                        | Como trabajador de cocina. Quiero una app sencilla con iconos claros. Para usarla sin complicaciones. | 2 |
+| 5     | US05           | Visualización de niveles de stock         | Como encargado de compras. Quiero ver el nivel actual de stock. Para saber cuándo hacer pedidos. | 3 |
+| 6     | US06           | Configuración de alertas personalizadas   | Como administrador. Quiero configurar las alertas según mis necesidades. Para priorizar productos críticos. | 3 |
+| 7     | US07           | Acceso multiusuario                       | Como dueño de restaurante. Quiero que mi equipo tenga cuentas propias. Para dividir responsabilidades. | 3 |
+| 8     | US08           | Lectura de temperatura desde sensores     | Como gerente. Quiero conocer la temperatura del almacén. Para asegurar condiciones óptimas. | 5 |
+| 9     | US09           | Adaptabilidad del sistema                 | Como dueño de restaurante. Quiero que el sistema se adapte a mis instalaciones. Para que funcione sin importar el tamaño. | 2 |
+| 10    | US10           | Historial de temperaturas                 | Como administrador. Quiero ver un historial de temperatura por producto. Para detectar posibles fallas. | 3 |
+| 11    | US11           | Registro de entrada de productos          | Como encargado. Quiero registrar la llegada de productos. Para tener un control preciso del inventario. | 2 |
+| 12    | US12           | Registro de salida de productos           | Como trabajador. Quiero registrar qué productos se usan. Para mantener actualizado el stock. | 2 |
+| 13    | US13           | Aplicación móvil compatible               | Como cocinero. Quiero acceder desde mi celular. Para consultar el inventario sin ir al almacén. | 3 |
+| 14    | US14           | Reducción de desperdicio alimentario      | Como gerente. Quiero reducir el desperdicio. Para disminuir mis costos. | 2 |
+| 15    | US15           | Soporte técnico incluido                  | Como usuario. Quiero tener soporte técnico. Para resolver problemas con los sensores. | 1 |
+| 16    | US16           | Reporte de productos en mal estado        | Como supervisor. Quiero reportar alimentos dañados. Para hacer seguimiento a sus causas. | 2 |
+| 17    | US17           | Integración con hojas de cálculo          | Como administrador. Quiero exportar los datos a Excel. Para analizarlos con mi equipo. | 2 |
+| 18    | US18           | Visualización por categorías de producto  | Como usuario. Quiero ver los productos agrupados. Para organizar mejor el inventario. | 2 |
+| 19    | US19           | Entrenamiento inicial                     | Como nuevo usuario. Quiero recibir una capacitación. Para usar la plataforma correctamente. | 1 |
+| 20    | US20           | Módulo de auditoría                       | Como gerente. Quiero saber quién hizo cambios. Para tener trazabilidad del inventario. | 3 |
+| 21    | US21           | Notificaciones de stock crítico           | Como responsable de compras. Quiero recibir alertas cuando un insumo esté por agotarse. Para evitar faltantes. | 2 |
+| 22    | US22           | Integración con sistema de pedidos        | Como administrador. Quiero que el sistema se conecte con mi proveedor. Para generar pedidos automáticamente. | 5 |
+| 23    | US23           | Planes de suscripción escalables          | Como dueño de restaurante. Quiero elegir entre diferentes planes. Para pagar solo por lo que necesito. | 1 |
+| 24    | US24           | Control de caducidad con código QR        | Como usuario. Quiero escanear productos con código QR. Para agilizar el control de fechas. | 3 |
+| 25    | US25           | Soporte multilenguaje                     | Como trabajador no hispanohablante. Quiero poder usar la app en inglés. Para entender mejor las funciones. | 1 |
+| 26    | US26           | Análisis de tendencias de consumo         | Como administrador. Quiero ver estadísticas de consumo. Para planificar mejor mis compras. | 5 |
+| 27    | US27           | Registro de condiciones de almacenamiento | Como supervisor. Quiero saber si las condiciones fueron correctas durante el día. Para evitar riesgos sanitarios. | 3 |
+| 28    | US28           | Soporte en español por WhatsApp           | Como usuario. Quiero contactar soporte por WhatsApp en español. Para resolver dudas rápidamente. | 1 |
+| 29    | US29           | Recomendaciones automáticas de uso        | Como cocinero. Quiero que la app me sugiera usar productos a punto de caducar. Para evitar desperdicio. | 2 |
+| 30    | US30           | Evaluación del sistema por los usuarios   | Como administrador. Quiero que los usuarios califiquen el sistema. Para saber su nivel de satisfacción. | 1 |
+
 
 
 
