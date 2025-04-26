@@ -122,4 +122,13 @@
 
 ### 2.3.5. As-is Scenario Mapping.
 
+**Scenario As-is Jefe de restaurante**
+
+![AS IS JEFE DE RESTAURANTE](https://github.com/user-attachments/assets/e4879883-be4d-45e5-a6f3-46314b9f1361)
+
+**Scenario As-is empleado de restaurante**
+
+![AS IS EMPLEADO RESTAURANTE](https://github.com/user-attachments/assets/826f421a-53b0-414b-82db-eb788e868c23)
+
+
 ## 2.4. Ubiquitous Language.
