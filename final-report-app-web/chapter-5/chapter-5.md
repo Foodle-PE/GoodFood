@@ -359,11 +359,18 @@ Aquí podemos notar como está conformado el grupo de trabajo dentro de la organ
 #### 5.2.1.5. Execution Evidence for Sprint Review.
 Aquí podemos notar la aplicación en ejecución luego de los sprints realizados.
 
+![goodfood1](https://github.com/user-attachments/assets/5a0a08d5-1f59-43d1-87b0-52ab8dfd59a4)
+
 
 Aquí vemos la evidencia de la creación de dichos repositorios mencionados con anterioridad.
 
+![goodfood2](https://github.com/user-attachments/assets/9820a42c-1dfb-4e84-9e66-623ce6fde8d6)
+
 
 Aquí podemos notar la ejecución de los commits a lo largo del reporte
+
+![goodfood3](https://github.com/user-attachments/assets/2ad4c92c-59ba-484d-bacf-247c940ca573)
+
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 En esta sección se evidencia el servicio documentado al detalle dentro del reporte.
