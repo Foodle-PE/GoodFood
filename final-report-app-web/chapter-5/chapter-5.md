@@ -460,4 +460,5 @@ https://trello.com/invite/b/680c5df2be329c5196159826/ATTIa0e35c3f12f904fb93ef8e8
 ## Anexo F: Web app wireframes and mockups: <br>
 https://www.figma.com/design/UoCOsf8lHI64dQgrAhAiO7/WebApp-Wireframes---Mockups?node-id=0-1&t=Y401T6fFRprwfY02-1
 
-
+## Anexo G: Structurizr: <br>
+https://structurizr.com/share/93062
