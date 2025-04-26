@@ -52,6 +52,9 @@
 
 ## 3.3. Impact Mapping.
 
+![image](https://github.com/user-attachments/assets/146d0e47-50b4-461e-bf0d-eee0e3d3e059)
+
+
 ## 3.4. Product Backlog.
 
 | #Orden | User Story ID | Título                                   | Descripción                                                                                       | Story Points |
