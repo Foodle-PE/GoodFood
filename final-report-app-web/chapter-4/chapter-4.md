@@ -216,8 +216,11 @@ A continuación, se presentará el diagrama de contenedores de nuestro sistema. 
 
 ### 4.6.3. Software Architecture Components Diagrams.
 
+![ComponentDiagram_GoodFood](https://github.com/user-attachments/assets/a878d543-675b-4509-8251-7af43c0b9216)
 
 ### 4.7.1. Class Diagrams.
+
+![ClassDiagram_GoodFood](https://github.com/user-attachments/assets/82847c0b-e69a-4f23-973c-3089b76c8705)
 
 
 ### 4.7.2. Class Dictionary.
@@ -323,3 +326,4 @@ A continuación, se presentará el diagrama de contenedores de nuestro sistema. 
 
 ## 4.8. Database Design.
 ### 4.8.1. Database Diagram.
+![DBDiagram_GoodFood - DB UML](https://github.com/user-attachments/assets/5ea51d28-c538-45e8-b7f4-e85073e696dd)
