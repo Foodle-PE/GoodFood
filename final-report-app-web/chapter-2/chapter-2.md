@@ -260,7 +260,7 @@ Gracias por participar en esta entrevista. Mi nombre es (nombre y apellido). Est
 
 - Distrito: Jesus Maria
 
-- Link: 
+- Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221f613_upc_edu_pe/EbnN3gP36-lMhnMd2U7JXlMBINOJR_jxeZNuOcoosuPSSg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=O5ACl2
 
 ![image](https://github.com/user-attachments/assets/fbb1441d-fbd9-43c5-b59d-4d67daf5eb12)
 
@@ -274,7 +274,7 @@ La entrevista con Augusto Montes revela que los principales desafíos en la gest
 
 - Distrito: Los olivos
 
-- Link:
+- Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221f613_upc_edu_pe/EbnN3gP36-lMhnMd2U7JXlMBINOJR_jxeZNuOcoosuPSSg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=O5ACl2
 
 ![image](https://github.com/user-attachments/assets/c8d1f532-64c7-4f62-96eb-6381d09027eb)
 
@@ -288,7 +288,7 @@ La entrevista con María Fernanda Castillo revela que los principales problemas 
 
 - Distrito: Pueblo libre  
 
-- Link:
+- Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221f613_upc_edu_pe/EbnN3gP36-lMhnMd2U7JXlMBINOJR_jxeZNuOcoosuPSSg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=O5ACl2
 
 ![image](https://github.com/user-attachments/assets/9dd521fa-e1f1-4f8f-9552-fac22c257ae8)
 
@@ -307,7 +307,7 @@ Le interesa una herramienta tecnológica que permita monitorear en tiempo real l
 
 - Duración: 06:35
 
-- Link:
+- Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221f613_upc_edu_pe/EbnN3gP36-lMhnMd2U7JXlMBINOJR_jxeZNuOcoosuPSSg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=O5ACl2
 
 ![image](https://github.com/user-attachments/assets/c8c476d3-d1c8-4cbf-9155-46db16c4aae0)
 
@@ -323,7 +323,7 @@ Le interesa una herramienta tecnológica que permita monitorear en tiempo real l
 
 - Duración: 06:44
 
-- Link:
+- Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221f613_upc_edu_pe/EbnN3gP36-lMhnMd2U7JXlMBINOJR_jxeZNuOcoosuPSSg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=O5ACl2
 
 ![image](https://github.com/user-attachments/assets/8a485d60-4bde-4d52-9b98-466a688f65e5)
 
@@ -339,7 +339,7 @@ Le interesa una herramienta tecnológica que permita monitorear en tiempo real l
 
 - Duración: 7:37
 
-- Link: 
+- Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221f613_upc_edu_pe/EbnN3gP36-lMhnMd2U7JXlMBINOJR_jxeZNuOcoosuPSSg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=O5ACl2
 
 ![image](https://github.com/user-attachments/assets/cde2f881-bce7-4c5e-9640-9a2285910ac7)
 
