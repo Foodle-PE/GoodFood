@@ -158,6 +158,21 @@ Estos wireframes sientan las bases para una plataforma intuitiva, enfocada en la
 
 ### 4.4.2. Web Applications Wireflow Diagrams.
 
+Para el primer flujo tenemos el inicio de sesión, ya sea correcto o incorrecto:
+
+
+
+Para el segundo flujo podemos ver el flujo de la página principal, donde se puede ver el inventario, las alertas y los sensores:
+
+
+
+Para el tercer flujo tenemos la página de inventario donde podemos ver y agregar productos dentro la gestión del mismo:
+
+
+
+Para el cuarto flujo tenemos la página de sensores donde podemos ver los sensores y su configuración al agregar uno nuevo:
+
+
 
 ### 4.4.2. Web Applications Mock-ups.
 ![WhatsApp Image 2025-04-26 at 00 05 43_5cc96c33](https://github.com/user-attachments/assets/8986be06-d39e-41b5-b945-6b131600ce31)
