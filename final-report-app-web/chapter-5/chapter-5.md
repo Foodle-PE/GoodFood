@@ -380,7 +380,13 @@ Desarrollo del último capítulo del reporte, corrección de errores previos y f
 
 #### 5.2.1.3. Sprint Backlog n.
 #### 5.2.1.4. Development Evidence for Sprint Review.
+
+![WhatsApp Image 2025-04-25 at 22 04 57_f0943c99](https://github.com/user-attachments/assets/2b793699-ab56-4de1-b47c-52b62b2a124f)
+
 Aquí podemos notar como está conformado el grupo de trabajo dentro de la organización.
+
+![WhatsApp Image 2025-04-25 at 22 06 51_15ec1a09](https://github.com/user-attachments/assets/2d24e1b9-9811-450f-b746-15b3fd9b62d4)
+
 
 #### 5.2.1.5. Execution Evidence for Sprint Review.
 Aquí podemos notar la aplicación en ejecución luego de los sprints realizados.
