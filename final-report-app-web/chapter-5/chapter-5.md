@@ -443,15 +443,21 @@ Durante el proceso de creación y desarrollo de este trabajo pudimos llegar a la
 Bedoya-Perales, N. S., & Magro, G. P. D. (2021). Quantification of Food Losses and Waste in Peru: A Mass Flow Analysis along the Food Supply Chain. Sustainability, 13(5), 2807. https://doi.org/10.3390/su13052807
 
 # Anexos
-## Anexo A: Wireframes y Mockups:<br>
+## Anexo A: Landing page Wireframes y Mockups:<br>
 https://www.figma.com/design/UoCOsf8lHI64dQgrAhAiO7/WebApp-Wireframes---Mockups?node-id=0-1&t=Xg8IiUZc6xMsklW6-1
 
 ## Anexo B: Landing page deployed:<br>
 https://foodle-pe.github.io/Landing-Page/
 
-## Anexo C: Diagrama de clase: <br>
+## Anexo C: Diagrama de clase y base de datos: <br>
+https://lucid.app/lucidchart/9990a006-a793-4d40-90e0-e5d5481cd30f/edit?viewport_loc=-2215%2C-1011%2C6034%2C2780%2CHWEp-vi-RSFO&invitationId=inv_4b71b5c1-35b6-46b0-8ca9-5ef08a819431
 
-## Anexo D: Diagrama de base de datos: <br>
-
-## Anexo E: Trello: <br>
+## Anexo D: Trello: <br>
 https://trello.com/invite/b/680c5df2be329c5196159826/ATTIa0e35c3f12f904fb93ef8e86cfada3b9C5482966/sprint-1-apps-webs 
+
+## Anexo E: Entrevistas: <br>
+
+## Anexo F: Web app wireframes and mockups: <br>
+https://www.figma.com/design/UoCOsf8lHI64dQgrAhAiO7/WebApp-Wireframes---Mockups?node-id=0-1&t=Y401T6fFRprwfY02-1
+
+
