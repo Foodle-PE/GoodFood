@@ -347,6 +347,44 @@ Le interesa una herramienta tecnológica que permita monitorear en tiempo real l
 
 ### 2.2.3. Análisis de entrevistas.
 
+<table>
+  <tr>
+    <th>Entrevistados/</th>
+    <th></th>
+    <th></th>
+  </tr>
+  <tr>
+    <td>Entrevistado 1</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Entrevistado 2</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Entrevistado 3</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Entrevistado 4</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Entrevistado 5</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Entrevistado 6</td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
+
 ## 2.3. Needfinding.
 A través de las entrevistas que se han realizado, se ha descubierto que los responsables de gestionar productos perecederos dentro de pequeñas y medianas empresas, como restaurantes y comercios, enfrentan serios desafíos al depender de métodos manuales como hojas de cálculo en Excel para controlar su inventario. Estos usuarios buscan una herramienta que no solo automatice la gestión del inventario, sino que también sea intuitiva, fácil de usar y que les permita reaccionar a tiempo ante posibles pérdidas.
 
