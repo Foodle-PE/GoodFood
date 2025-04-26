@@ -162,13 +162,44 @@ Estos wireframes sientan las bases para una plataforma intuitiva, enfocada en la
 ### 4.4.3. Web Applications User Flow Diagrams.
 
 
-
 ## 4.5. Web Applications Prototyping.
 
+Esta sección presenta los prototipos de UI desarrollados para GoodFood, diseñados para su visualización en navegadores web en dispositivos desktop y mobile. Los prototipos incluyen simulación de interacción y navegación, alineándose con los caminos definidos en los User Flow Diagrams.
 
+El desarrollo de los prototipos se guio bajo los siguientes criterios principales de interacción:
+
+- **Consistencia en el sistema de navegación:** Se adoptó una barra lateral fija que contiene las opciones principales: Dashboard, Inventory y Sensors, permitiendo acceso rápido y claro a las funciones principales de la aplicación.
+- **Jerarquía visual clara:** La estructura de la interfaz prioriza la presentación de información crítica como alertas de sensores, estado de inventarios y notificaciones, mediante colores contrastantes (naranja para alertas, verde para navegación).
+- **Minimización del error del usuario:** Se incorporaron mensajes claros de retroalimentación (como mensajes de error en el login) para guiar al usuario ante entradas incorrectas.
+- **Acciones directas y visibles:** Botones como Login, Edit Inventory, Save, Add Sensor y Close Alert están siempre disponibles para facilitar la interacción sin pasos innecesarios.
+
+#### Relación con decisiones de arquitectura de información
+
+La arquitectura de información se diseñó para garantizar una experiencia de usuario simple, predecible y eficiente:
+
+- **Sistema de navegación:** Se optó por una navegación lateral izquierda para mantener siempre visibles las secciones principales, reduciendo el número de clics necesarios para cambiar de contexto.
+- **Agrupación lógica:** Las funcionalidades se agruparon en tres módulos clave (Dashboard, Inventory, Sensors) según las tareas principales del usuario (monitorear, gestionar, configurar).
+- **Tipologías de interacción:** Se seleccionaron interacciones simples y directas, como:
+  - Formularios básicos para login y edición de inventario.
+  - Botones de acción inmediata para guardar o cerrar elementos.
+  - Visualizaciones gráficas para el monitoreo de sensores de temperatura y niveles de gas.
+
+Estas decisiones buscan maximizar la eficiencia de uso y disminuir la curva de aprendizaje, especialmente en usuarios que necesitan un monitoreo constante de productos perecederos.
+
+#### Prototipos de UI
+
+A continuación, se muestran los prototipos:
+
+- **Desktop Version:**
+  - Pantallas de login (correcto y con error).
+  - Dashboard general con tarjetas de sensores, alertas e inventario.
+  - Inventario editable con posibilidad de agregar productos.
+  - Visualización de sensores con alertas.
+  - Reportes de temperatura y niveles de gas.
+
+Cada prototipo respeta los flujos de usuarios planteados inicialmente, simulando la navegación completa del sistema y permitiendo validar la usabilidad antes de pasar al desarrollo final.
 
 ## 4.6. Domain-Driven Software Architecture.
-
 ### 4.6.1. Software Architecture Context Diagram.
 En el diagrama de contexto se presenta cómo los usuarios, que incluyen a dueños de restaurantes y trabajadores, interactúan tanto con nuestro software. Además, se incluyen los sistemas externos que utilizaría GoodFood.
 
@@ -187,6 +218,104 @@ A continuación, se presentará el diagrama de contenedores de nuestro sistema. 
 
 ### 4.7.2. Class Dictionary.
 
+1. **IoT Device**  
+   **Atributos:**
+    - `location`: string
+    - `status`: string
+    - `last_active`: string
+
+   **Métodos:**
+    - `auditInventory()`: void
+
+2. **SensorNotification**  
+   **Atributos:**
+    - `alert`: string
+    - `status`: string
+
+   **Métodos:**
+    - `send()`: void
+    - `checkProduct()`: void
+    - `sendAlert()`: void
+    - `getStatus()`: void
+
+3. **Product**  
+   **Atributos:**
+    - `name`: string
+    - `expirationDate`: string
+    - `quantity`: string
+    - `category`: string
+
+   **Métodos:**
+    - `showInfo()`: void
+    - `updateQuantity()`: void
+
+4. **Restaurant**  
+   **Atributos:**
+    - `restaurantID`: int
+    - `restaurantName`: string
+    - `restaurantOwner`: RestaurantOwner
+    - `address`: string
+    - `product`: Product
+
+   **Métodos:**
+    - `addWaiter(waiter)`: void
+    - `removeWaiter(waiter)`: void
+
+5. **RestaurantOwner**  
+   **Atributos:**
+    - `restaurants`: List\<Restaurant\>
+
+   **Métodos:**
+    - `watchNotifications()`: void
+
+6. **Subscription**  
+   **Atributos:**
+    - `planType`: string
+    - `startDate`: string
+    - `durationMonths`: int
+    - `pricePerMonth`: float
+
+   **Métodos:**
+    - `calculateTotalPrice()`: float
+    - `cancelSubscription()`: void
+
+7. **User**  
+   **Atributos:**
+    - `login_id`: string
+    - `email`: string
+    - `username`: string
+    - `password`: string
+    - `phone`: number
+    - `userID`: int
+
+8. **Interfaces**  
+   **Inventario**  
+   **Métodos:**
+    - `AddProduct()`: void
+    - `RemoveProduct()`: void
+    - `UpdateProduct()`: void
+    - `AdjustStockLevel()`: void
+    - `CheckStockLevel()`: void
+    - `SendReorder()`: void
+    - `AuditInventory()`: void
+    - `SearchProduct(productID: string)`: void
+    - `GetProductDetails(productID: string)`: void
+    - `RecordInventoryChange()`: void
+    - `GenerateInventoryReport()`: void
+
+   **Operaciones_Usuario**  
+   **Métodos:**
+    - `changePassword(username: String, oldPassword: String, newPassword: String)`: bool
+    - `changeName(username: String, oldName: String, newName: String)`: bool
+    - `EditInfo()`: bool
+    - `logout(username: String)`: bool
+
+   **Autenticación_usuario**  
+   **Métodos:**
+    - `login(username: string, password: string)`: bool
+    - `register(email: string, username: string, password: string)`: bool
+    - `logout(username: String)`: bool
+    - `validateUser(username: String, oldPassword: String, newPassword: String)`: bool
 
 ## 4.8. Database Design.
 ### 4.8.1. Database Diagram.
