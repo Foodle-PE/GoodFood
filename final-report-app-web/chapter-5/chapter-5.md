@@ -375,11 +375,21 @@ Aquí podemos notar la ejecución de los commits a lo largo del reporte
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 En esta sección se evidencia el servicio documentado al detalle dentro del reporte.
 
+![SERVICES DOC EVIDENCE ](https://github.com/user-attachments/assets/39057e9d-016e-41c5-b1ff-f0830db1754a)
+
+
+
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review.
 Aquí podemos evidenciar como ya se realizaron las tareas y no hay ningún error que corregir.
 
+![SOFTWARE DEPLOYMENT EVIDENCE](https://github.com/user-attachments/assets/9717afc4-86e6-4037-ab2d-8e640fa81ba4)
+
+
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
 Durante el proceso de desarrollo del trabajo, se realizaron las reuniones necesarias para todo tipo de dificultad que se presentaba. Se usó la herramienta de Discord para poder comunicarnos y realizar las reuniones necesarias.
+
+![TEAM COLLABORATION INSIGTHS ](https://github.com/user-attachments/assets/4fbcd4da-575a-41ce-93f9-17152e205c94)
+
 
 
 # Conclusiones
