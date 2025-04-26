@@ -351,37 +351,30 @@ Le interesa una herramienta tecnológica que permita monitorear en tiempo real l
   <tr>
     <th>Entrevistados/</th>
     <th></th>
-    <th></th>
   </tr>
   <tr>
     <td>Augusto Montes</td>
-    <td></td>
-    <td></td>
+    <td>Augusto enfrenta el desafío de equilibrar el inventario para no quedarse sin productos y evitar el exceso que genera desperdicio. Actualmente usa Excel para llevar el control de productos perecederos, ajustando pedidos según la demanda histórica y aplicando el sistema FIFO para reducir desperdicios. Sin embargo, tiene dificultades con las fechas de caducidad, ya que los chequeos manuales no siempre son suficientes, lo que genera pérdidas. Destacó la necesidad de una herramienta que ofrezca alertas automáticas sobre caducidad, stock bajo y temperaturas en tiempo real para mejorar la gestión y reducir costos.</td>
   </tr>
   <tr>
     <td>Maria Fernanda Castillo Espinoza</td>
-    <td></td>
-    <td></td>
+    <td>María Fernanda enfrenta dificultades para tener un control en tiempo real del inventario, especialmente con productos perecederos. Usa Excel, pero necesita una herramienta automatizada que monitoree fechas de caducidad y stock en tiempo real para reducir desperdicios y optimizar compras. La automatización es clave para mejorar la eficiencia.</td>
   </tr>
   <tr>
     <td>Julio Castro Alejos</td>
-    <td></td>
-    <td></td>
+    <td>Julio Castro tiene desafíos relacionados con la gestión manual de inventarios en su restaurante, ya que depende de hojas de Excel que complican el seguimiento, especialmente de productos perecederos. La falta de alertas automáticas sobre fechas de caducidad provoca desperdicio de alimentos. Reconoce la importancia de adoptar herramientas digitales para mantenerse competitivo y está interesado en una solución que automatice el control de inventarios, facilite la integración de pedidos y mejore la eficiencia operativa del restaurante.</td>
   </tr>
   <tr>
     <td>Diego Sanchez</td>
-    <td></td>
-    <td></td>
+    <td>Como pudimos observar Diego enfrenta problemas muy típicos a la hora de organizar el inventario de un restaurante de comida rápida. Analizando qué puntos son los más llamativos podríamos decir que se resumen en tres. La falta de automatización a la hora de realizar registros, diferencias encontradas con respecto a los informes y lo que realmente se encuentra disponible en stock y el vencimiento de alimentos. Se puede llegar a la conclusión de que un sistema como el nuestro podría solucionar los problemas a los que este restaurante se enfrenta.</td>
   </tr>
   <tr>
     <td>Alexia Zuñiga</td>
-    <td></td>
-    <td></td>
+    <td>Alexia en el contexto que nos contó se puede notar como no todos los restaurantes hoy en día tienen acceso a tanta tecnología  y siguen usando métodos más antiguos como lo es el uso de papel y lápiz para realizar la organización de sus inventarios. Sin embargo, este método hoy en día puede llegar a ser un poco obsoleto o más tardado en comparación a sistemas más modernos como el nuestro, el cual resalta que resolvería muchos problemas comunes como sería el más llamativo que es la confianza en el equipo de trabajo.</td>
   </tr>
   <tr>
     <td>Sebastian Salazar</td>
-    <td></td>
-    <td></td>
+    <td>Sebastian enfrenta problemas clave en su restaurante al combinar registros manuales con Excel lo cual le toma unas 2 a 2 horas y media horas diarias en conteos, mezcla de alimentos/utensilios, y detecta de manera tardía de caducidades. Un sistema de alertas automáticas, categorización visual clara y funciones móviles rápidas, serían ideales para que mejore sus inventarios. Su mayor necesidad es la validación colaborativa digital para reemplazar el factor "confianza verbal" con su equipo. El caso demuestra que soluciones para entornos gastronómicos deben priorizar simplicidad operativa con automatización estratégica, enfocándose en reducir carga laboral y mejorar la visibilidad de datos críticos.</td>
   </tr>
 </table>
 
