@@ -354,32 +354,32 @@ Le interesa una herramienta tecnológica que permita monitorear en tiempo real l
     <th></th>
   </tr>
   <tr>
-    <td>Entrevistado 1</td>
+    <td>Augusto Montes</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Entrevistado 2</td>
+    <td>Maria Fernanda Castillo Espinoza</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Entrevistado 3</td>
+    <td>Julio Castro Alejos</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Entrevistado 4</td>
+    <td>Diego Sanchez</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Entrevistado 5</td>
+    <td>Alexia Zuñiga</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Entrevistado 6</td>
+    <td>Sebastian Salazar</td>
     <td></td>
     <td></td>
   </tr>
