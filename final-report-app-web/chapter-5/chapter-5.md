@@ -379,6 +379,10 @@ Desarrollo del último capítulo del reporte, corrección de errores previos y f
 </table>
 
 #### 5.2.1.3. Sprint Backlog n.
+
+![Screenshot 2025-04-26 004012](https://github.com/user-attachments/assets/288ff5bf-1ecc-4935-a629-5bd286dac2eb)
+
+
 #### 5.2.1.4. Development Evidence for Sprint Review.
 
 ![WhatsApp Image 2025-04-25 at 22 04 57_f0943c99](https://github.com/user-attachments/assets/2b793699-ab56-4de1-b47c-52b62b2a124f)
@@ -448,3 +452,6 @@ https://foodle-pe.github.io/Landing-Page/
 ## Anexo C: Diagrama de clase: <br>
 
 ## Anexo D: Diagrama de base de datos: <br>
+
+## Anexo E: Trello: <br>
+https://trello.com/invite/b/680c5df2be329c5196159826/ATTIa0e35c3f12f904fb93ef8e86cfada3b9C5482966/sprint-1-apps-webs 
