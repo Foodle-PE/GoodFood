@@ -172,8 +172,12 @@ Estos wireframes sientan las bases para una plataforma intuitiva, enfocada en la
 ### 4.6.1. Software Architecture Context Diagram.
 En el diagrama de contexto se presenta cómo los usuarios, que incluyen a dueños de restaurantes y trabajadores, interactúan tanto con nuestro software. Además, se incluyen los sistemas externos que utilizaría GoodFood.
 
+![image](https://github.com/user-attachments/assets/7b090cbe-5ffd-41dc-aa8f-a4aed2350297)
+
 ### 4.6.2. Software Architecture Container Diagrams.
 A continuación, se presentará el diagrama de contenedores de nuestro sistema. Este artefacto corresponde al segundo nivel del modelo C4 y ofrece una descripción más detallada de los componentes técnicos, lo que proporciona una visión ampliada de la arquitectura del software.
+
+![image](https://github.com/user-attachments/assets/92da9134-7adf-4979-baa0-0db932fb5dce)
 
 ### 4.6.3. Software Architecture Components Diagrams.
 
