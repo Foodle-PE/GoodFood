@@ -69,6 +69,10 @@ Se crearán las siguientes ramas:
 El deployment del software se realizó en GitHub Pages. Se creó, donde se alojará el código HTML, CSS del proyecto.
 <br>
 
+![github_deployment](https://github.com/user-attachments/assets/827ba827-4788-4045-8084-4f4d4dfbb069)
+
+
+
 **URL del repositorio de la landing page:** https://github.com/Foodle-PE/Landing-Page <br>
 **URL de la landing page deployed en GitHub Pages:** https://foodle-pe.github.io/Landing-Page/ <br>
 ## 5.2. Landing Page, Services & Applications Implementation.
