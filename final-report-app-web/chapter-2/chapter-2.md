@@ -521,5 +521,30 @@ En esta sección se presenta el en to end journey de la aplicación web Foodle. 
 
 
 ### 2.3.5. As-is Scenario Mapping.
+**Scenario As-is Jefe de restaurante**
+
+![AS IS JEFE DE RESTAURANTE](https://github.com/user-attachments/assets/e4879883-be4d-45e5-a6f3-46314b9f1361)
+
+**Scenario As-is empleado de restaurante**
+
+![AS IS EMPLEADO RESTAURANTE](https://github.com/user-attachments/assets/826f421a-53b0-414b-82db-eb788e868c23)
+
 
 ## 2.4. Ubiquitous Language.
+
+**User (Usuario)**: Persona que utiliza la plataforma para gestionar el inventario de productos en el restaurante.
+
+**Restaurant Owner (Propietario del Restaurante)**: Usuario con permisos administrativos que puede gestionar productos, suscripciones, y revisar el estado del inventario general del restaurante.
+
+**Restaurant (Restaurante)**: Entidad que representa el negocio gastronómico. Está vinculado a un usuario propietario y contiene los registros de inventario y productos.
+
+**Product (Producto)**: Bien o insumo registrado en el sistema, usado para la preparación de alimentos o ventas dentro del restaurante.
+
+**Inventory (Inventario)**: Registro detallado de los productos disponibles, sus cantidades, fechas de ingreso y otros datos necesarios para su control.
+
+**Subscription (Suscripción)**: Plan de servicio contratado por el usuario para acceder a funcionalidades específicas de la plataforma.
+
+**Interface (Interfaz)**: Pantalla o conjunto de pantallas donde los usuarios interactúan con el sistema, realizan consultas, registran productos o revisan el estado del inventario.
+
+**Alerts(Alertas)**: Notificación que informa sobre niveles bajos de productos en inventario.
+
