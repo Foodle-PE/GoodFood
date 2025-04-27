@@ -382,6 +382,18 @@ Desarrollo del último capítulo del reporte, corrección de errores previos y f
 
 ![Screenshot 2025-04-26 004012](https://github.com/user-attachments/assets/288ff5bf-1ecc-4935-a629-5bd286dac2eb)
 
+| Sprint \# | Sprint 1 |  |  |  |  |  |  |
+| :---: | :---: | :---: | :---: | :---: | :---: | ----- | :---: |
+| User Story |  | Work-Item / Task |  |  |  |  |  |
+| ID | Title | ID | Title | Description | Estimation (Hours) | Assigned To | Status |
+| US31 | Sección Header | US31-1 | Implementación de la barra de navegación | Como visitante quiero acceder a la barra de navegación para moverse rápidamente a cualquier sección de la página. | 3 | Luis | Done |
+| US32 | Sección Introducción | US32-1 | Implementacion de Seccion Introducción | Como visitante quiero ver un mensaje de bienvenida y una descripción para entender el funcionamiento de GoodFood. | 3 | Paolo | Done |
+| US33 | Sección Features | US33-1 | Implementación de la sección features | Como visitante quiero ver las características que hacen a GoodFood distinta de la competencia para elegir una plataforma. | 4 | Sergio | Done |
+| US34 | Sección Acerca de nosotros | US34-1 | Implementación Sección acerca de nosotros | Como visitante quiero conocer la misión y visión de GoodFood para conocer más acerca de sus objetivos.  | 2 | Maria | Done |
+| US35 | Sección Beneficios | US35-1 | Implementacion de Beneficios | Como visitante quiero conocer sobre los beneficios que me ofrece GoodFood para poder elegir si se lainean con mis necesidades | 4 | Luis Miguel | Done |
+| US36 | Sección Contacto | US36-1 | Implementacion de sección contacto | Como visitante quiero poder contactarme en caso requiera más información parapoder conocer mejor sobre el producto | 2 | Paolo | Done |
+| US49 | Footer | US49-1 | Implementacion de Footer | Como visitante quiero visualizar las redes sociales de la aplicación para poder ver las novedades que tienen para ofrecer. | 2 | Luis | Done |
+
 
 #### 5.2.1.4. Development Evidence for Sprint Review.
 
