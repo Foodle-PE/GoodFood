@@ -378,7 +378,7 @@ Desarrollo del último capítulo del reporte, corrección de errores previos y f
   </tr>
 </table>
 
-#### 5.2.1.3. Sprint Backlog n.
+#### 5.2.1.3. Sprint Backlog 1.
 
 ![Screenshot 2025-04-26 004012](https://github.com/user-attachments/assets/288ff5bf-1ecc-4935-a629-5bd286dac2eb)
 
@@ -435,6 +435,28 @@ Durante el proceso de desarrollo del trabajo, se realizaron las reuniones necesa
 
 ![TEAM COLLABORATION INSIGTHS ](https://github.com/user-attachments/assets/4fbcd4da-575a-41ce-93f9-17152e205c94)
 
+### 5.2.2.Sprint 2
+#### 5.2.1.1. Sprint Planning 2.
+| Sprint # |                Sprint 2                 |  |  |  |  |  |        |
+| :---: |:---------------------------------------:| :---: | :---: | :---: | :---: | ----- |:------:|
+| User Story |                                         | Work-Item / Task |  |  |  |  |        |
+| ID |                  Title                  | ID | Title | Description | Estimation (Hours) | Assigned To | Status |
+  | US01 |        Monitoreo en tiempo real         | US01-1 | Implementar monitoreo en tiempo real | Como gerente quiero monitorear las condiciones del inventario en tiempo real para evitar pérdidas por mal almacenamiento. | 5 | Paolo |  Done  |
+| US02 |     Alertas por fecha de caducidad      | US02-1 | Crear sistema de alertas para caducidad | Como encargado quiero recibir alertas para evitar desperdicio. | 3 | Sergio |  Done  |
+| US03 |   Reportes automáticos de inventario    | US03-1 | Implementar reportes automáticos | Como administrador quiero reportes automáticos de stock para optimizar compras. | 5 | Sergio |  Done  |
+| US04 |           Interfaz intuitiva            | US04-1 | Diseñar interfaz sencilla con iconos claros | Como trabajador quiero una app sencilla para usar sin complicaciones. | 2 | Paolo / Maria Elena |  Done  |
+| US05 |    Visualización de niveles de stock    | US05-1 | Visualizar niveles de stock actuales | Como encargado quiero ver el nivel actual para saber cuándo pedir. | 3 | Paolo |  Done  |
+| US06 | Configuración de alertas personalizadas | US06-1 | Permitir configurar alertas personalizadas | Como administrador quiero priorizar productos críticos. | 3 | Paolo |  Done  |
+| US07 |           Acceso multiusuario           | US07-1 | Implementar cuentas para el equipo | Como dueño quiero cuentas propias para dividir responsabilidades. | 3 | Maria Elena |  Done  |
+| US08 |  Lectura de temperatura desde sensores  | US08-1 | Integrar lectura de sensores IoT | Como gerente quiero conocer temperatura del almacén. | 5 | Paolo |  Done  |
+| US09 |        Adaptabilidad del sistema        | US09-1 | Adaptar sistema a diferentes tamaños | Como dueño quiero que funcione sin importar tamaño. | 2 | Luis |  Done  |
+| US11 |    Registro de entrada de productos     | US11-1 | Registrar llegada de productos | Como encargado quiero control preciso del inventario. | 2 | Paolo |  Done  |
+| US12 |     Registro de salida de productos     | US12-1 | Registrar productos usados y actualizar stock | Como trabajador quiero mantener stock actualizado. | 2 | Luis |  Done  |
+| US13 |       Aplicación móvil compatible       | US13-1 | Acceso móvil al inventario | Como cocinero quiero consultar inventario desde celular. | 3 | Luis |  Done  |
+| US14 |  Reducción de desperdicio alimentario   | US14-1 | Implementar alertas para reducir desperdicios | Como gerente quiero disminuir costos. | 2 | Paolo |  Done  |
+| US15 |        Soporte técnico incluido         | US15-1 | Implementar soporte técnico para sensores | Como usuario quiero resolver problemas rápido. | 1 | Luis |  Done  |
+| US21 |     Notificaciones de stock crítico     | US21-1 | Crear alertas por stock crítico | Como responsable quiero alertas para evitar faltantes. | 2 | Maria Elena |  Done  |
+| US25 |          Soporte multilenguaje          | US25-1 | Agregar soporte multilenguaje | Como trabajador quiero usar la app en inglés para mejor comprensión. | 1 | Maria Elena |  Done  |
 
 
 # Conclusiones
