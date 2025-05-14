@@ -66,15 +66,25 @@ Se crearán las siguientes ramas:
 - Se usa alt para imágenes y aria-* para accesibilidad.
 
 ### 5.1.4. Software Deployment Configuration.
-El deployment del software se realizó en GitHub Pages. Se creó, donde se alojará el código HTML, CSS del proyecto.
-<br>
+En esta sección se describe la configuración necesaria para desplegar cada uno de los componentes del proyecto: Landing Page, Web Services y Frontend Web Application. El objetivo es garantizar que, a partir del código fuente almacenado en los repositorios, se pueda lograr una publicación funcional y accesible para los usuarios.
+
+#### Despliegue de Landing Page
+
+La **Landing Page** fue desarrollada usando HTML y CSS, y fue desplegada mediante **GitHub Pages**, un servicio gratuito de hosting para sitios estáticos.
+
+**Pasos de despliegue:**
+1. Se creó el repositorio `landing-page` en GitHub.
+2. Se subió el código fuente HTML, CSS y recursos estáticos.
+3. Desde la configuración del repositorio, se activó **GitHub Pages** seleccionando la rama `main` y la carpeta raíz (`/`).
+4. Automáticamente, GitHub publicó el sitio web en una URL pública.
+
+**Repositorio:** https://github.com/Foodle-PE/Landing-Page <br>
+**URL desplegada:** https://foodle-pe.github.io/Landing-Page/ <br>
+
+**Evidencia de despliegue:**
 
 ![github_deployment](https://github.com/user-attachments/assets/827ba827-4788-4045-8084-4f4d4dfbb069)
 
-
-
-**URL del repositorio de la landing page:** https://github.com/Foodle-PE/Landing-Page <br>
-**URL de la landing page deployed en GitHub Pages:** https://foodle-pe.github.io/Landing-Page/ <br>
 ## 5.2. Landing Page, Services & Applications Implementation.
 ### 5.2.1. Sprint 1
 #### 5.2.1.1. Sprint Planning 1.
@@ -571,6 +581,8 @@ Aquí podemos evidenciar como ya se realizaron las tareas y no hay ningún error
 Durante el proceso de desarrollo del trabajo, se realizaron las reuniones necesarias para todo tipo de dificultad que se presentaba. Se usó la herramienta de Discord para poder comunicarnos y realizar las reuniones necesarias.
 
 ![TEAM COLLABORATION INSIGTHS ](https://github.com/user-attachments/assets/4fbcd4da-575a-41ce-93f9-17152e205c94)
+
+
 
 
 
