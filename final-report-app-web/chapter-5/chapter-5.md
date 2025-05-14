@@ -76,8 +76,8 @@ El deployment del software se realizó en GitHub Pages. Se creó, donde se aloja
 **URL del repositorio de la landing page:** https://github.com/Foodle-PE/Landing-Page <br>
 **URL de la landing page deployed en GitHub Pages:** https://foodle-pe.github.io/Landing-Page/ <br>
 ## 5.2. Landing Page, Services & Applications Implementation.
-### 5.2.1. Sprint n
-#### 5.2.1.1. Sprint Planning n.
+### 5.2.1. Sprint 1
+#### 5.2.1.1. Sprint Planning 1.
 
 <table>
 <tr>
@@ -349,6 +349,143 @@ Desarrollo del último capítulo del reporte, corrección de errores previos y f
 </tr>
 </table>
 
+#### 5.2.1.1.2. Sprint Planning 2.
+
+<table>
+<tr>
+    <th colspan="5">Sprint 7</th>
+    <th colspan="9">Sprint 7</th>
+  </tr>
+      <tr>
+    <td colspan="13">Sprint Planning Background</td>
+  </tr>
+  <tr>
+    <td colspan="5">Date</td>
+    <td colspan="8">2025-05-12</td>
+</tr>
+  <tr>
+    <td colspan="5">Time</td>
+    <td colspan="8">5:30 PM</td>
+  </tr>
+  <tr>
+    <td colspan="5">Location</td>
+    <td colspan="8">Via Discord</td>
+<tr>
+    <td colspan="5">Prepared By</td>
+    <td colspan="8">Torres Flores, Paolo Alessandro</td>
+</tr>
+<tr>
+    <td colspan="5">Attendees (to planning meeting)</td>
+    <td colspan="8">Torres Flores, Paolo Alessandro; Aguirre Castillo, Sergio Cesar; Rojas Piñero, Luis Miguel; Muñoz Machuca, Maria Elena; Montañez Moreno, Luis Angel</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint 7 Review Summary</td>
+    <td colspan="8">En esta primera sección de la segunda entrega se planteó el desarrollo del frontend para el proyecto de GoodFood.</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint 7 Retrospective Summary</td>
+    <td colspan="8">En esta sección todos los integrantes mencionaron tener aciertos en partes del código y en otras partes poder mejorar sus habilidades realizando el frontend</td>
+</tr>
+<tr>
+    <td colspan="13">Sprint Goal</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint 7 Goal</td>
+    <td colspan="8">
+Desarrollar y desplegar una capa de presentación que muestre las principales funcionalidades de la aplicación web.</td>
+</tr>
+</table>
+
+<table>
+<tr>
+    <th colspan="5">Sprint 8</th>
+    <th colspan="9">Sprint 8</th>
+  </tr>
+      <tr>
+    <td colspan="13">Sprint Planning Background</td>
+  </tr>
+  <tr>
+    <td colspan="5">Date</td>
+    <td colspan="8">2025-05-13</td>
+</tr>
+  <tr>
+    <td colspan="5">Time</td>
+    <td colspan="8">7:00 PM</td>
+  </tr>
+  <tr>
+    <td colspan="5">Location</td>
+    <td colspan="8">Via Discord</td>
+<tr>
+    <td colspan="5">Prepared By</td>
+    <td colspan="8">Torres Flores, Paolo Alessandro</td>
+</tr>
+<tr>
+    <td colspan="5">Attendees (to planning meeting)</td>
+    <td colspan="8">Torres Flores, Paolo Alessandro; Aguirre Castillo, Sergio Cesar; Rojas Piñero, Luis Miguel; Muñoz Machuca, Maria Elena; Montañez Moreno, Luis Angel</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint 8 Review Summary</td>
+    <td colspan="8">En esta segunda sección de la segunda entrega se planteó el desarrollo de las correcciones detalladas por el maestro para el proyecto GoodFood.</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint 8 Retrospective Summary</td>
+    <td colspan="8">En esta sección todos los integrantes mencionaron corregir las secciones señaladas</td>
+</tr>
+<tr>
+    <td colspan="13">Sprint Goal</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint 8 Goal</td>
+    <td colspan="8">
+Desarrollar las correcciones del diagrama de base de datos y technical stories.</td>
+</tr>
+</table>
+
+<table>
+<tr>
+    <th colspan="5">Sprint 9</th>
+    <th colspan="9">Sprint 9</th>
+  </tr>
+      <tr>
+    <td colspan="13">Sprint Planning Background</td>
+  </tr>
+  <tr>
+    <td colspan="5">Date</td>
+    <td colspan="8">2025-05-14</td>
+</tr>
+  <tr>
+    <td colspan="5">Time</td>
+    <td colspan="8">7:00 PM</td>
+  </tr>
+  <tr>
+    <td colspan="5">Location</td>
+    <td colspan="8">Via Discord</td>
+<tr>
+    <td colspan="5">Prepared By</td>
+    <td colspan="8">Torres Flores, Paolo Alessandro</td>
+</tr>
+<tr>
+    <td colspan="5">Attendees (to planning meeting)</td>
+    <td colspan="8">Torres Flores, Paolo Alessandro; Aguirre Castillo, Sergio Cesar; Rojas Piñero, Luis Miguel; Muñoz Machuca, Maria Elena; Montañez Moreno, Luis Angel</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint 9 Review Summary</td>
+    <td colspan="8">En esta tercera sección de la segunda entrega se planteó la creación del segundo sprint planning así como el sprint backlog correspondiente.</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint 9 Retrospective Summary</td>
+    <td colspan="8">En esta sección todos los integrantes mencionaron tener en claro como realizar el trabajo.</td>
+</tr>
+<tr>
+    <td colspan="13">Sprint Goal</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint 9 Goal</td>
+    <td colspan="8">
+Desarrollar los sprints del sprint planning 2 así como el sprint backlog que va de la mano.</td>
+</tr>
+</table>
+
 #### 5.2.1.2. Aspect Leaders and Collaborators.
 
 <table>
@@ -378,7 +515,7 @@ Desarrollo del último capítulo del reporte, corrección de errores previos y f
   </tr>
 </table>
 
-#### 5.2.1.3. Sprint Backlog n.
+#### 5.2.1.3. Sprint Backlog 1.
 
 ![Screenshot 2025-04-26 004012](https://github.com/user-attachments/assets/288ff5bf-1ecc-4935-a629-5bd286dac2eb)
 
