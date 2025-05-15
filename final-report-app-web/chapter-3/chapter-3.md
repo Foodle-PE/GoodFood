@@ -55,12 +55,13 @@
 |TS01| Registro personal de restaurante | Registro de los trabajadores del restaurante para que puedan tener seguimiento el inventario y los sensores | Registro exitoso (POST con datos válidos), errores por datos inválidos.|
 |TS02| Registro personal administrativo de restaurante | Registro de los administradores del restaurante para que puedan tener seguimiento del restaurante | Registro exitoso (POST con datos válidos), errores por datos inválidos.|
 |TS03| Agregar producto al inventario | Agregar producto nuevo al inventario con sus características | Registro exitoso del producto en el inventario (POST con datos válidos), errores por datos inválidos.|
-|TS04| Agregar producto al inventario | Agregar producto nuevo al inventario con sus características | Registro exitoso del producto en el inventario (POST con datos válidos), errores por datos inválidos.|
+|TS04| Obtener información de producto del inventario | Obtener información del producto existente del inventario con sus características | GET fecha de ingreso ,fecha de expiración,cantidad y tipo de un producto del inventario|
 |TS05| Actualizar producto del inventario | Actualizar información de producto existente del inventario | Actualización exitosa de datos del producto en el inventario (PUT con datos válidos), errores por datos inválidos.|
 |TS06| Borrar producto del inventario | Borrar producto existente del inventario | Eliminación exitosa de producto del inventario (DELETE)|
 |TS07| Historial de temperaturas | Consulta de historial de temperaturas de los alimentos y congeladoras | GET temperaturas para consultar el historial de un producto o los almacenes|
-|TS08| Alertas de caducidad | Consultar alertas de caducidad para prevenir desperdicio de los alimentos | GET alertas de caducidad de los insumos del inventario|
-|TS09| Reportes automáticos | Generar reportes automáticos del inventario de insumos en el restaurante | GET información de insumos más requeridos del inventario|
+|TS08| Alertas de caducidad | Consultar alertas de caducidad para prevenir desperdicio de los alimentos | GET información de una alerta de caducidad de un insumo del inventario|
+|TS09| Historial de alertas de caducidad | Ver el historial de alertas de caducidad para hacer un mejor gestión del uso de insumos | GET historial de alertas de caducidad de los insumos del inventario|
+|TS010| Reportes automáticos | Generar reportes automáticos del inventario de insumos en el restaurante | GET información de insumos más requeridos del inventario|
 
 
 ## 3.3. Impact Mapping.
