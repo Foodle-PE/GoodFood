@@ -55,7 +55,17 @@ Ciclo 2025-01
 
 # Project Report Collaboration Insights
 
-# Contenido
+**Insights del reporte**:
+
+![insights reporte](https://github.com/user-attachments/assets/f8d1bc0d-9d0d-4d2d-8e83-9c47bd407046)
+
+<br>
+
+**Insights del frontend**:
+
+
+# Contenido![insight front](https://github.com/user-attachments/assets/2ae03706-7dee-4e34-b743-6573b659af6d)
+
 
 ## Tabla de Contenidos
 ### [Registro de versiones del informe](#registro-de-versiones-del-informe)
