@@ -444,7 +444,7 @@ Durante el proceso de desarrollo del trabajo, se realizaron las reuniones necesa
   | US01 |        Monitoreo en tiempo real         | US01-1 | Implementar monitoreo en tiempo real | Como gerente quiero monitorear las condiciones del inventario en tiempo real para evitar pérdidas por mal almacenamiento. | 5 | Paolo |  Done  |
 | US02 |     Alertas por fecha de caducidad      | US02-1 | Crear sistema de alertas para caducidad | Como encargado quiero recibir alertas para evitar desperdicio. | 3 | Sergio |  Done  |
 | US03 |   Reportes automáticos de inventario    | US03-1 | Implementar reportes automáticos | Como administrador quiero reportes automáticos de stock para optimizar compras. | 5 | Sergio |  Done  |
-| US04 |           Interfaz intuitiva            | US04-1 | Diseñar interfaz sencilla con iconos claros | Como trabajador quiero una app sencilla para usar sin complicaciones. | 2 | Paolo / Maria Elena |  Done  |
+| US04 |           Interfaz intuitiva            | US04-1 | Diseñar interfaz sencilla con iconos claros | Como trabajador quiero una app sencilla para usar sin complicaciones. | 2 |  Maria Elena |  Done  |
 | US05 |    Visualización de niveles de stock    | US05-1 | Visualizar niveles de stock actuales | Como encargado quiero ver el nivel actual para saber cuándo pedir. | 3 | Paolo |  Done  |
 | US06 | Configuración de alertas personalizadas | US06-1 | Permitir configurar alertas personalizadas | Como administrador quiero priorizar productos críticos. | 3 | Paolo |  Done  |
 | US07 |           Acceso multiusuario           | US07-1 | Implementar cuentas para el equipo | Como dueño quiero cuentas propias para dividir responsabilidades. | 3 | Maria Elena |  Done  |
@@ -457,6 +457,9 @@ Durante el proceso de desarrollo del trabajo, se realizaron las reuniones necesa
 | US15 |        Soporte técnico incluido         | US15-1 | Implementar soporte técnico para sensores | Como usuario quiero resolver problemas rápido. | 1 | Luis |  Done  |
 | US21 |     Notificaciones de stock crítico     | US21-1 | Crear alertas por stock crítico | Como responsable quiero alertas para evitar faltantes. | 2 | Maria Elena |  Done  |
 | US25 |          Soporte multilenguaje          | US25-1 | Agregar soporte multilenguaje | Como trabajador quiero usar la app en inglés para mejor comprensión. | 1 | Maria Elena |  Done  |
+
+
+![Screenshot 2025-05-14 192919](https://github.com/user-attachments/assets/eda64bd5-ca84-4fce-979e-39ae3f21b9c2)
 
 
 # Conclusiones
