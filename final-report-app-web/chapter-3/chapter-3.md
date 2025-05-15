@@ -50,6 +50,11 @@
 | US30 | Evaluación del sistema por los usuarios | Como administrador. Quiero que los usuarios califiquen el sistema. Para saber su nivel de satisfacción. | Escenario 01: Solicitud de evaluación. Dado que pasa un mes de uso, Cuando el usuario abre la app, Entonces se le pide que evalúe su experiencia. Escenario 02: Mejora basada en feedback. Dado que recibimos feedback, Cuando lo analizamos, Entonces mejoramos la plataforma según los comentarios. | EP04 |
 
 
+| ID | Título | Descripción                                                                                       | Criterios de aceptación                                             |
+|-------|----------------|--------------------------------------------|-----------------------------------------------------------------------------------------------------------------|
+|TS01| Registro personal de restaurante | Registro de los trabajadores del restaurante para que puedan tener seguimiento el inventario y los sensores | Registro exitoso (POST con datos válidos), errores por datos inválidos.|
+|TS02| Registro personal administrativo de restaurante | Registro de los administradores del restaurante para que puedan tener seguimiento del restaurante | Registro exitoso (POST con datos válidos), errores por datos inválidos.|
+
 ## 3.3. Impact Mapping.
 
 ![image](https://github.com/user-attachments/assets/146d0e47-50b4-461e-bf0d-eee0e3d3e059)
