@@ -51,7 +51,7 @@ Ciclo 2025-01
 | Versión | Fecha      | Autor | Descripción de modificación                                                                                                                                                                                                                          |
 |---------|------------|-------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | TB1     | 25/04/2025 | Torres Flores, Paolo Alessandro<br/>Aguirre Castillo, Sergio Cesar<br/>Rojas Piñero, Luis Miguel<br/>Muñoz Machuca, Maria Elena<br/>Montañez Moreno, Luis Angel  | Se realizó la documentación de los capítulos I, II, III, IV y V así como la correcta diagramación de componentes, estados, clases y entidades. Además de realizó la creación de la landing page estática así como también el deployment de la misma. |
-
+| TP       | 15/05/2025 |Torres Flores, Paolo Alessandro<br/>Aguirre Castillo, Sergio Cesar<br/>Rojas Piñero, Luis Miguel<br/>Muñoz Machuca, Maria Elena<br/>Montañez Moreno, Luis Angel | Se realizaron las correcciones detalladas en las notas del la primera entrega así como también se agregaron los sprints correspondientes además de la creación y desarrollo de la capa de presentación de nuestra app web.                           |
 
 # Project Report Collaboration Insights
 
