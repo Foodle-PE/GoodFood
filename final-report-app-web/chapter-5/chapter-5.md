@@ -684,7 +684,12 @@ Al crear un nuevo producto con cantidad, fecha de expiración, no existe una opc
 Recomendación
 Incluir un botón “Deshacer” o “Cancelar” visible después de crear un producto. También se podría agregar una notificación con la opción “Eliminar este producto” dentro de los primeros 10 segundos.
 
+# Video About-the-Product.
+Este video muestra el producto final desarrollado por el equipo GoodFood.
 
+
+Link del video en Microsoft Stream:
+Link del video en Youtube: 
 
 # Conclusiones
 
@@ -698,6 +703,13 @@ Durante el proceso de creación y desarrollo de este trabajo pudimos llegar a la
 - Se concluye que la aplicación es escalable y puede adaptarse a diferentes necesidades y requerimientos de los usuarios.
 
 # Video About-the-Team.
+Este video muestra el proceso de trabajo del equipo que desarrolló GoodFood.
+Cada integrante aparece ante cámara para describir su rol, los principales outcomes logrados y las competencias que fortaleció durante el proyecto.
+
+
+**Link del video en Microsoft Stream:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221f613_upc_edu_pe/EaIZDBPFzuhGjddlCgPIXvgBqdy92g3BUFYgOPsKVYqCow?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=lwsRd8
+**Link del video en Youtube:** https://youtu.be/APG5MgMBumU
+
 
 # Bibliografía
 
