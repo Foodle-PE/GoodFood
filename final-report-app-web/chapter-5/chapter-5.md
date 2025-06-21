@@ -340,11 +340,13 @@ Durante el proceso de desarrollo del trabajo, se realizaron las reuniones necesa
 
 ### 5.2.1.4. Development Evidence for Sprint Review.
 
+![image](https://github.com/user-attachments/assets/1540cb14-c4d3-4071-866e-bbcb098f1212)
 
 
 Aquí podemos notar como está conformado el grupo de trabajo dentro de la organización.
 
 
+![image](https://github.com/user-attachments/assets/b7b68bb0-cef3-40e4-befe-69bbb9de27f5)
 
 
 #### 5.2.1.5. Execution Evidence for Sprint Review.
@@ -403,25 +405,24 @@ Durante el proceso de desarrollo del trabajo, se realizaron las reuniones necesa
 
 ### 5.2.1.4. Development Evidence for Sprint Review.
 
+![image](https://github.com/user-attachments/assets/133136fc-8417-4ad1-b180-1fb896806ea5)
 
 
 Aquí podemos notar como está conformado el grupo de trabajo dentro de la organización.
 
+![image](https://github.com/user-attachments/assets/2574c336-aa27-42e1-bf80-dab157685c51)
 
 
 
 #### 5.2.1.5. Execution Evidence for Sprint Review.
 Aquí podemos notar la aplicación en ejecución luego de los sprints realizados.
 
+![image](https://github.com/user-attachments/assets/138b6c14-5349-436b-92ba-30f01af2e421)
+
+![image](https://github.com/user-attachments/assets/44d6704b-129c-4fb6-b272-2265d3ee5dcb)
 
 
-Aquí vemos la evidencia de la creación de dichos repositorios mencionados con anterioridad.
-
-
-
-
-Aquí podemos notar la ejecución de los commits a lo largo del reporte
-
+![image](https://github.com/user-attachments/assets/8263a0a2-6538-4b9b-a3b4-d23dd652ce4b)
 
 
 
@@ -432,10 +433,18 @@ En esta sección se evidencia el servicio documentado al detalle dentro del repo
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review.
 Aquí podemos evidenciar como ya se realizaron el deploy del backend
+![image](https://github.com/user-attachments/assets/39ef328b-aba8-41d5-b9ab-80c758054b63)
+
+Se puede evdenciar como se conecta con el repositorio de github
+![image](https://github.com/user-attachments/assets/237850a8-89d0-4b65-9428-6ad6bf51922c)
 
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
-Durante el proceso de desarrollo del trabajo, se realizaron las reuniones necesarias para todo tipo de dificultad que se presentaba. Se usó la herramienta de Discord para poder comunicarnos y realizar las reuniones necesarias.
+
+Los commits realizados por Seratt15a se perdieron debido a que la cuenta es inrecuperable y se decidió cambiarla a otra. Los commits generados por Luiso_AM también son la suma del trabajo de Seratt15a ya que trabajan el mismo bounded context.
+
+![image](https://github.com/user-attachments/assets/d8e30501-f53a-4bdc-8ba8-53e8100c0d71)
+
 
 ## 5.3. Validation Interviews
 Esta sección está enfocada a registrar y explicar las acciones realizadas para las entrevistas de validación de cada segmento objetivo.
@@ -453,7 +462,7 @@ Para el segmento objetivo Trabajadores de Restaurante, se diseñó una sesión d
 
 ##### User Flows validados:
 
-- Dashboard:
+- Home:
 
 Visualización de gráficos de sensores.
 
