@@ -706,6 +706,8 @@ Durante el proceso de creación y desarrollo de este trabajo pudimos llegar a la
 Este video muestra el proceso de trabajo del equipo que desarrolló GoodFood.
 Cada integrante aparece ante cámara para describir su rol, los principales outcomes logrados y las competencias que fortaleció durante el proyecto.
 
+![image](https://github.com/user-attachments/assets/f5ae448d-73ff-4b35-bd33-d7c89d6f76a1)
+
 
 **Link del video en Microsoft Stream:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221f613_upc_edu_pe/EaIZDBPFzuhGjddlCgPIXvgBqdy92g3BUFYgOPsKVYqCow?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=lwsRd8
 **Link del video en Youtube:** https://youtu.be/APG5MgMBumU
