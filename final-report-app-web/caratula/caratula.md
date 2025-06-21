@@ -60,13 +60,13 @@ Ciclo 2025-01
 
 **Insights del frontend**:
 
-
-[insight front](https://github.com/user-attachments/assets/2ae03706-7dee-4e34-b743-6573b659af6d
+![image](https://github.com/user-attachments/assets/d2d0bbaf-4a88-4280-b8ab-a8a70ca4dd17)
 
 <br>
 
 **Insights del backend**:
 
+![image](https://github.com/user-attachments/assets/0f7f80a2-d629-42bf-9921-bf8b49efb46c)
 
 
 ## Tabla de Contenidos
