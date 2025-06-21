@@ -686,6 +686,7 @@ Incluir un botón “Deshacer” o “Cancelar” visible después de crear un p
 
 # Video About-the-Product.
 Este video muestra el producto final desarrollado por el equipo GoodFood.
+![image](https://github.com/user-attachments/assets/6e265821-b22e-4870-a6a4-50dcdf110ced)
 
 
 **Link del video en Microsoft Stream:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202223811_upc_edu_pe/EcxIxsv9HQdCj4Y0UhCmDk4Bb6QcTifZOMiD3jDkMwuAgw?e=7BoFmL&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
