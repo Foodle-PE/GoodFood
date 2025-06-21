@@ -5,7 +5,7 @@
 ## PROFESOR: Alex Sanchez
 ## Sección: 1ASI0730
 ## NRC: 4388
-## INFORME TB1
+## INFORME TB2
 ## START UP: Foodle
 ## PRODUCTO: GoodFood
 
@@ -27,10 +27,6 @@
       <td>U202310425</td>
     </tr>
     <tr>
-      <td>Rojas Piñero, Luis Miguel</td>
-      <td>U202220864</td>
-    </tr>
-    <tr>
       <td>Muñoz Machuca, Maria Elena</td>
       <td>U202317442</td>
     </tr>
@@ -48,10 +44,11 @@ Ciclo 2025-01
 
 # Registro de versiones del informe
 
-| Versión | Fecha      | Autor | Descripción de modificación                                                                                                                                                                                                                          |
-|---------|------------|-------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| TB1     | 25/04/2025 | Torres Flores, Paolo Alessandro<br/>Aguirre Castillo, Sergio Cesar<br/>Rojas Piñero, Luis Miguel<br/>Muñoz Machuca, Maria Elena<br/>Montañez Moreno, Luis Angel  | Se realizó la documentación de los capítulos I, II, III, IV y V así como la correcta diagramación de componentes, estados, clases y entidades. Además de realizó la creación de la landing page estática así como también el deployment de la misma. |
-| TP       | 15/05/2025 |Torres Flores, Paolo Alessandro<br/>Aguirre Castillo, Sergio Cesar<br/>Rojas Piñero, Luis Miguel<br/>Muñoz Machuca, Maria Elena<br/>Montañez Moreno, Luis Angel | Se realizaron las correcciones detalladas en las notas del la primera entrega así como también se agregaron los sprints correspondientes además de la creación y desarrollo de la capa de presentación de nuestra app web.                           |
+| Versión | Fecha      | Autor | Descripción de modificación                                                                                                                                                                                                                           |
+|---------|------------|-------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| TB1     | 25/04/2025 | Torres Flores, Paolo Alessandro<br/>Aguirre Castillo, Sergio Cesar<br/>Rojas Piñero, Luis Miguel<br/>Muñoz Machuca, Maria Elena<br/>Montañez Moreno, Luis Angel  | Se realizó la documentación de los capítulos I, II, III, IV y V así como la correcta diagramación de componentes, estados, clases y entidades. Además de realizó la creación de la landing page estática así como también el deployment de la misma.  |
+| TP      | 15/05/2025 |Torres Flores, Paolo Alessandro<br/>Aguirre Castillo, Sergio Cesar<br/>Rojas Piñero, Luis Miguel<br/>Muñoz Machuca, Maria Elena<br/>Montañez Moreno, Luis Angel | Se realizaron las correcciones detalladas en las notas del la primera entrega así como también se agregaron los sprints correspondientes además de la creación y desarrollo de la capa de presentación de nuestra app web.                            |
+| TB2     | 21/06/2025 | Torres Flores, Paolo Alessandro<br/>Aguirre Castillo, Sergio Cesar<br/>Muñoz Machuca, Maria Elena<br/>Montañez Moreno, Luis Angel | Se realizaron las correcciones detalladas en las notas del la segunda entrega así como también se agregaron los sprints correspondientes además de la creación y desarrollo de la capa de datos de nuestra app web.                                   |
 
 # Project Report Collaboration Insights
 
@@ -64,7 +61,12 @@ Ciclo 2025-01
 **Insights del frontend**:
 
 
-# Contenido![insight front](https://github.com/user-attachments/assets/2ae03706-7dee-4e34-b743-6573b659af6d)
+[insight front](https://github.com/user-attachments/assets/2ae03706-7dee-4e34-b743-6573b659af6d
+
+<br>
+
+**Insights del backend**:
+
 
 
 ## Tabla de Contenidos
