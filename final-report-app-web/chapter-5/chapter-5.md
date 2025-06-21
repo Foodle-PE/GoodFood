@@ -490,6 +490,8 @@ Estas preguntas fueron diseñadas para detectar qué funcionalidades generan má
 |--------|----------|------|----------|
 | Kaled  | Arellano | 21   | Surco    | 
 
+![image](https://github.com/user-attachments/assets/35be75e3-0e76-47c9-bc36-f02482d781c1)
+
 
 🔗 Enlace al video de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310425_upc_edu_pe/Eb7sl3HehYNFomlQ1noiOCYBRM-VfItOuWH8nFGeIrBWNw?e=OTjGZb
 - Duración Total: 4:27
@@ -508,6 +510,8 @@ Respecto al módulo de inventario, resaltó su utilidad práctica para el regist
 |---------|----------|------|----------|
 | Augusto | Montez   | 22   | SMP      | 
 
+![image](https://github.com/user-attachments/assets/76ebfc62-ab1c-4396-87b8-b552d5726cf8)
+
 
 🔗 Enlace al video de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310425_upc_edu_pe/EY3YEMQNG9pLs4PHKtSRhcgB6Rj6Nb0pBOZG_XzokZxu_g?e=7JJdf1
 - Duración Total: 4:18
@@ -525,6 +529,8 @@ Finalmente, sugirió que una funcionalidad adicional que podría mejorar el sist
 | Nombre | Apellido | Edad | Distrito |
 |--------|----------|------|----------|
 | Maria  | Castillo | 24   | Lince    | 
+
+![image](https://github.com/user-attachments/assets/8283291a-83b1-4d3e-8739-c1466dc90e9d)
 
 
 🔗 Enlace al video de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310425_upc_edu_pe/EZ3O5a93kslLkrutzFcQC94BbtC_s_mhi4pGJj8DE_SRYA?e=GDrHfz
@@ -547,7 +553,6 @@ Respecto al módulo de inventory, mencionó que ahora puede llevar un mejor cont
 
 🔗 Enlace al video de la entrevista:
 - Duración Total: 
-- Inicio:
 
 ###### Resumen de entrevista
 Durante la entrevista de validación, el entrevistado destacó que la aplicación le ha facilitado varias tareas que antes realizaba de forma manual o con anotaciones físicas.
@@ -570,7 +575,6 @@ Por último, comentó que al usar el sistema como trabajador, pudo loguearse fá
 
 🔗 Enlace al video de la entrevista:
 - Duración Total: 
-- Inicio:
 
 ###### Resumen de entrevista
 Durante la sesión de validación, la entrevistada, encargada del control de insumos en el almacén del restaurante, señaló que la aplicación representa una mejora significativa en el registro y seguimiento de los productos. Comentó que antes llevaba un control manual con hojas impresas, lo cual era lento y propenso a errores. Con la app, ahora puede registrar fácilmente la cantidad exacta, tipo de medida y fecha de expiración de cada producto al momento de recibirlo.
@@ -586,6 +590,10 @@ Como sugerencia, propuso que el sistema pudiera incluir una vista resumida de lo
 | Nombre | Apellido | Edad | Distrito   |
 |--------|----------|------|------------|
 | Ingrid | Pacheco  | 24   | San Isidro | 
+
+
+🔗 Enlace al video de la entrevista:
+- Duración Total: 
 
 ###### Resumen de entrevista
 Durante la sesión de validación, la responsable del control de insumos en el almacén del restaurante destacó que la aplicación ha supuesto una mejora notable en el registro y seguimiento de productos. Explicó que anteriormente realizaba este control de forma manual con hojas impresas, lo cual era un proceso lento y propenso a errores. Ahora, gracias a la app, puede ingresar con facilidad la cantidad, unidad de medida y fecha de vencimiento de cada producto en el momento de su recepción.
