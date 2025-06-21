@@ -336,6 +336,8 @@ Durante el proceso de desarrollo del trabajo, se realizaron las reuniones necesa
 | US21 |     Notificaciones de stock crítico     | US21-1 | Crear alertas por stock crítico | Como responsable quiero alertas para evitar faltantes. | 2 | Maria Elena |  Done  |
 | US25 |          Soporte multilenguaje          | US25-1 | Agregar soporte multilenguaje | Como trabajador quiero usar la app en inglés para mejor comprensión. | 1 | Maria Elena |  Done  |
 
+![image](https://github.com/user-attachments/assets/78b76df2-1bc8-499f-9afd-79a20060c8fa)
+
 ### 5.2.1.4. Development Evidence for Sprint Review.
 
 
