@@ -378,6 +378,69 @@ Le interesa una herramienta tecnológica que permita monitorear en tiempo real l
   </tr>
 </table>
 
+### Segmento 1: Dueños de Restaurantes
+
+**Cantidad de entrevistas**: 3  
+**Entrevistados**: Augusto Montes, María Fernanda Castillo, Julio Castro
+
+#### Características Objetivas
+
+| Característica                                                                 | Porcentaje     | Sustento                                                                 |
+|--------------------------------------------------------------------------------|----------------|--------------------------------------------------------------------------|
+| Utilizan hojas de Excel para la gestión de inventario                         | 100% (3/3)     | Todos los entrevistados usan Excel como herramienta principal.           |
+| Manejan productos perecederos manualmente                                     | 100% (3/3)     | El control de caducidad se realiza de forma visual y no automatizada.    |
+| Aplican estrategias como FIFO (PEPS)                                          | 100% (3/3)     | Todos aplican el método PEPS para reducir el desperdicio.                |
+| Tienen problemas con el control de fechas de caducidad                        | 100% (3/3)     | Mencionan pérdidas por no revisar a diario las fechas de vencimiento.    |
+| No usan herramientas especializadas en gestión de inventario                  | 100% (3/3)     | Usan Excel pero no software diseñado específicamente para este fin.      |
+
+#### Características Subjetivas
+
+| Característica                                                                 | Porcentaje     | Sustento                                                                 |
+|--------------------------------------------------------------------------------|----------------|--------------------------------------------------------------------------|
+| Valoran un sistema con alertas automáticas (caducidad, stock, temperatura)    | 100% (3/3)     | Todos coinciden en que las alertas facilitarían la toma de decisiones.   |
+| Están dispuestos a adoptar nuevas tecnologías                                 | 100% (3/3)     | Los tres reconocen la importancia de digitalizar sus operaciones.        |
+| Desean integración con pedidos a proveedores                                  | 67% (2/3)      | Augusto y Julio destacaron esta funcionalidad como deseable.             |
+| Ven la tecnología como una ventaja competitiva                                | 100% (3/3)     | Mencionan que ayuda a mejorar eficiencia y experiencia del cliente.      |
+
+---
+
+### Segmento 2: Personal Encargado de Inventario
+
+**Cantidad de entrevistas**: 3  
+**Entrevistados**: Diego Sánchez, Alexia Zúñiga, Sebastián Salazar
+
+#### Características Objetivas
+
+| Característica                                                                 | Porcentaje     | Sustento                                                                 |
+|--------------------------------------------------------------------------------|----------------|--------------------------------------------------------------------------|
+| Realizan el inventario manualmente o con herramientas no integradas           | 100% (3/3)     | Utilizan Excel, papel o sistemas POS sin conexión entre módulos.         |
+| Enfrentan pérdidas por caducidad                                              | 100% (3/3)     | Todos mencionan alimentos vencidos como un problema frecuente.           |
+| Dedicación diaria de más de 2 horas al inventario                             | 67% (2/3)      | Alexia y Sebastián dedican entre 2 y 2.5 horas cada día.                 |
+| Falta de trazabilidad en la gestión                                           | 100% (3/3)     | La ausencia de registros digitales impide un control confiable.          |
+| No reciben alertas automatizadas de stock o caducidad                         | 100% (3/3)     | No usan sistemas que notifiquen productos por vencer.                    |
+
+#### Características Subjetivas
+
+| Característica                                                                 | Porcentaje     | Sustento                                                                 |
+|--------------------------------------------------------------------------------|----------------|--------------------------------------------------------------------------|
+| Valoran herramientas simples y rápidas de usar                                | 100% (3/3)     | Todos señalaron que la facilidad de uso es clave en ambientes operativos.|
+| Necesitan acceso multiusuario en tiempo real                                  | 67% (2/3)      | Alexia y Sebastián mencionaron esta necesidad por los turnos rotativos.  |
+| Requieren alertas visuales y categorización clara                             | 100% (3/3)     | Todos consideran útil una herramienta que organice y notifique.          |
+| Desean reducir la dependencia de la "confianza verbal"                        | 67% (2/3)      | Alexia y Sebastián destacan problemas por la falta de validación digital.|
+
+---
+
+### Conclusión General del Análisis
+
+- **Uso de métodos tradicionales**: El 100% de los entrevistados en ambos segmentos utiliza métodos manuales o básicos como Excel o papel.
+- **Principales problemas**: Caducidad de productos, desorganización, duplicidad de tareas y ausencia de alertas automatizadas.
+- **Necesidades comunes**:
+  - Control en tiempo real del stock y fechas de caducidad.
+  - Alertas automáticas de vencimientos y stock bajo.
+  - Acceso multiusuario y categorización clara de productos.
+- **Apertura a soluciones tecnológicas**: Todos los entrevistados están interesados en implementar herramientas digitales si estas son fáciles, ligeras y efectivas.
+- **Relevancia para arquetipos**: Estas características permiten definir perfiles tecnológicos orientados a la eficiencia operativa, la simplicidad de uso y la colaboración digital en entornos gastronómicos.
+
 ## 2.3. Needfinding.
 A través de las entrevistas que se han realizado, se ha descubierto que los responsables de gestionar productos perecederos dentro de pequeñas y medianas empresas, como restaurantes y comercios, enfrentan serios desafíos al depender de métodos manuales como hojas de cálculo en Excel para controlar su inventario. Estos usuarios buscan una herramienta que no solo automatice la gestión del inventario, sino que también sea intuitiva, fácil de usar y que les permita reaccionar a tiempo ante posibles pérdidas.
 
