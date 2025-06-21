@@ -546,13 +546,12 @@ Respecto al módulo de inventory, mencionó que ahora puede llevar un mejor cont
 
 #### Segmento 2: Trabajadores de restaurantes
 
-| Nombre    | Apellido  | Edad | Distrito              |
-|-----------|-----------|-----|-----------------------|
-| Giancarlo | Rodriguez | 25  | San Juan de Lurigancho | 
+| Nombre    | Apellido  | Edad | Distrito               |
+|-----------|-----------|------|------------------------|
+| Giancarlo | Rodriguez | 25   | San Juan de Lurigancho | 
 
-
-🔗 Enlace al video de la entrevista:
-- Duración Total: 
+🔗 Enlace al video de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202223811_upc_edu_pe/EVOvay2896tDs_xpFUx5kJwBocwfqfdk8WIrBBM00X2sjA?e=zXOe3z&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+- Duración Total: 9:11
 
 ###### Resumen de entrevista
 Durante la entrevista de validación, el entrevistado destacó que la aplicación le ha facilitado varias tareas que antes realizaba de forma manual o con anotaciones físicas.
@@ -567,14 +566,12 @@ Por último, comentó que al usar el sistema como trabajador, pudo loguearse fá
 
 ###### Información del entrevistado
 
-| Nombre    | Apellido | Edad | Distrito     |
-|-----------|----------|------|--------------|
-| Alexandra | Moreno   | 22   | La Libertad  | 
+| Nombre    | Apellido | Edad | Distrito |
+|-----------|----------|------|----------|
+| Alexandra | Moreno   | 22   | Surco    |
 
-
-
-🔗 Enlace al video de la entrevista:
-- Duración Total: 
+🔗 Enlace al video de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202223811_upc_edu_pe/EYIPlvrPVVpPqEHdGMpE0nIBKWzGzAnh_VZ3d9lekvi4ww?e=eiQeec&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+- Duración Total: 8:37
 
 ###### Resumen de entrevista
 Durante la sesión de validación, la entrevistada, encargada del control de insumos en el almacén del restaurante, señaló que la aplicación representa una mejora significativa en el registro y seguimiento de los productos. Comentó que antes llevaba un control manual con hojas impresas, lo cual era lento y propenso a errores. Con la app, ahora puede registrar fácilmente la cantidad exacta, tipo de medida y fecha de expiración de cada producto al momento de recibirlo.
@@ -592,8 +589,8 @@ Como sugerencia, propuso que el sistema pudiera incluir una vista resumida de lo
 | Ingrid | Pacheco  | 24   | San Isidro | 
 
 
-🔗 Enlace al video de la entrevista:
-- Duración Total: 
+🔗 Enlace al video de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202223811_upc_edu_pe/Ec8Pic1F7s1BvPXW53dzn4sB5E3CjVY6q_OpDkoT1NMj-w?e=Ok8dWW&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+- Duración Total: 17:48
 
 ###### Resumen de entrevista
 Durante la sesión de validación, la responsable del control de insumos en el almacén del restaurante destacó que la aplicación ha supuesto una mejora notable en el registro y seguimiento de productos. Explicó que anteriormente realizaba este control de forma manual con hojas impresas, lo cual era un proceso lento y propenso a errores. Ahora, gracias a la app, puede ingresar con facilidad la cantidad, unidad de medida y fecha de vencimiento de cada producto en el momento de su recepción.
