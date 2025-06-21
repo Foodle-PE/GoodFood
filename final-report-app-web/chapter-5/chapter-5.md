@@ -550,6 +550,9 @@ Respecto al módulo de inventory, mencionó que ahora puede llevar un mejor cont
 |-----------|-----------|------|------------------------|
 | Giancarlo | Rodriguez | 25   | San Juan de Lurigancho | 
 
+![image](https://github.com/user-attachments/assets/f4db703d-1813-4583-ad15-d43d9343577d)
+
+
 🔗 Enlace al video de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202223811_upc_edu_pe/EVOvay2896tDs_xpFUx5kJwBocwfqfdk8WIrBBM00X2sjA?e=zXOe3z&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 - Duración Total: 9:11
 
@@ -570,6 +573,9 @@ Por último, comentó que al usar el sistema como trabajador, pudo loguearse fá
 |-----------|----------|------|----------|
 | Alexandra | Moreno   | 22   | Surco    |
 
+![image](https://github.com/user-attachments/assets/a2abaae4-b308-4e08-a1cd-5e4a535f05b0)
+
+
 🔗 Enlace al video de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202223811_upc_edu_pe/EYIPlvrPVVpPqEHdGMpE0nIBKWzGzAnh_VZ3d9lekvi4ww?e=eiQeec&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 - Duración Total: 8:37
 
@@ -587,6 +593,8 @@ Como sugerencia, propuso que el sistema pudiera incluir una vista resumida de lo
 | Nombre | Apellido | Edad | Distrito   |
 |--------|----------|------|------------|
 | Ingrid | Pacheco  | 24   | San Isidro | 
+
+![image](https://github.com/user-attachments/assets/b95f7323-eb10-488e-9fdf-b5696b3081d2)
 
 
 🔗 Enlace al video de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202223811_upc_edu_pe/Ec8Pic1F7s1BvPXW53dzn4sB5E3CjVY6q_OpDkoT1NMj-w?e=Ok8dWW&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
