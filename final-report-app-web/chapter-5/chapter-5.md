@@ -309,9 +309,7 @@ Aquí podemos evidenciar como ya se realizaron las tareas y no hay ningún error
 ![SOFTWARE DEPLOYMENT EVIDENCE](https://github.com/user-attachments/assets/9717afc4-86e6-4037-ab2d-8e640fa81ba4)
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
-Durante el proceso de desarrollo del trabajo, se realizaron las reuniones necesarias para todo tipo de dificultad que se presentaba. Se usó la herramienta de Discord para poder comunicarnos y realizar las reuniones necesarias.
-
-![TEAM COLLABORATION INSIGTHS ](https://github.com/user-attachments/assets/4fbcd4da-575a-41ce-93f9-17152e205c94)
+![image](https://github.com/user-attachments/assets/447e3f7f-64aa-4615-90c3-2b8bf14322d3)
 
 
 #### 5.2.1.1. Sprint backlog 2.
@@ -352,16 +350,11 @@ Aquí podemos notar como está conformado el grupo de trabajo dentro de la organ
 #### 5.2.1.5. Execution Evidence for Sprint Review.
 Aquí podemos notar la aplicación en ejecución luego de los sprints realizados.
 
+![image](https://github.com/user-attachments/assets/723f828d-1fce-4993-8ccd-43be552219d4)
 
+![image](https://github.com/user-attachments/assets/b2611285-1c13-4077-a108-61abbb230dbb)
 
-Aquí vemos la evidencia de la creación de dichos repositorios mencionados con anterioridad.
-
-
-
-
-Aquí podemos notar la ejecución de los commits a lo largo del reporte
-
-
+![image](https://github.com/user-attachments/assets/a50836b0-ddeb-4c6a-9183-f6012d104570)
 
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
@@ -370,12 +363,15 @@ En esta sección se evidencia el servicio documentado al detalle dentro del repo
 ![SERVICES DOC EVIDENCE ](https://github.com/user-attachments/assets/39057e9d-016e-41c5-b1ff-f0830db1754a)
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review.
-Aquí podemos evidenciar como ya se realizaron el deploy del backend
+Aquí podemos evidenciar como ya se realizaron el deploy del frontend
+
+
+![image](https://github.com/user-attachments/assets/4acea044-bc74-4fe4-ae0c-3ac1fa6ee7b0)
 
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
-Durante el proceso de desarrollo del trabajo, se realizaron las reuniones necesarias para todo tipo de dificultad que se presentaba. Se usó la herramienta de Discord para poder comunicarnos y realizar las reuniones necesarias.
 
+![image](https://github.com/user-attachments/assets/e345c248-ab7d-4454-a867-62e9c3b9feee)
 
 
 #### 5.2.1.1. Sprint backlog 3.
