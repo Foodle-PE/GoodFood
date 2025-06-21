@@ -491,9 +491,8 @@ Estas preguntas fueron diseñadas para detectar qué funcionalidades generan má
 | Kaled  | Arellano | 21   | Surco    | 
 
 
-🔗 Enlace al video de la entrevista:
-- Duración Total: 
-- Inicio: 
+🔗 Enlace al video de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310425_upc_edu_pe/Eb7sl3HehYNFomlQ1noiOCYBRM-VfItOuWH8nFGeIrBWNw?e=OTjGZb
+- Duración Total: 4:27
 
 ###### Resumen de entrevista
 Durante la sesión de validación, el entrevistado destacó varios aspectos clave del sistema que considera relevantes para su trabajo diario en el restaurante. Subrayó que el módulo de alertas es especialmente importante, ya que le permite estar al tanto del estado del negocio y anticipar problemas, lo que resulta útil para tomar decisiones estratégicas.
@@ -510,9 +509,8 @@ Respecto al módulo de inventario, resaltó su utilidad práctica para el regist
 | Augusto | Montez   | 22   | SMP      | 
 
 
-🔗 Enlace al video de la entrevista: 
-- Duración Total: 
-- Inicio: 
+🔗 Enlace al video de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310425_upc_edu_pe/EY3YEMQNG9pLs4PHKtSRhcgB6Rj6Nb0pBOZG_XzokZxu_g?e=7JJdf1
+- Duración Total: 4:18
 
 ###### Resumen de entrevista
 Durante la sesión de validación, el entrevistado resaltó la utilidad general del sistema para optimizar la operatividad del restaurante.
@@ -529,9 +527,8 @@ Finalmente, sugirió que una funcionalidad adicional que podría mejorar el sist
 | Maria  | Castillo | 24   | Lince    | 
 
 
-🔗 Enlace al video de la entrevista:
-- Duración Total:
-- Inicio:
+🔗 Enlace al video de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310425_upc_edu_pe/EZ3O5a93kslLkrutzFcQC94BbtC_s_mhi4pGJj8DE_SRYA?e=GDrHfz
+- Duración Total: 3:42
 
 ###### Resumen de entrevista
 Durante la entrevista de validación, la entrevistada propietaria de un restaurante de tamaño mediano comentó que la aplicación cubre varias de las necesidades clave que enfrenta en la gestión diaria de su negocio. Destacó que el módulo de home le permite tener una visión clara y actualizada del desempeño del restaurante, lo que considera fundamental para tomar decisiones rápidas y basadas en datos.
@@ -565,9 +562,9 @@ Por último, comentó que al usar el sistema como trabajador, pudo loguearse fá
 
 ###### Información del entrevistado
 
-| Nombre    | Apellido | Edad | Distrito   |
-|-----------|----------|------|------------|
-| Alexandra | Moreno   | 22   | La Libertad | 
+| Nombre    | Apellido | Edad | Distrito     |
+|-----------|----------|------|--------------|
+| Alexandra | Moreno   | 22   | La Libertad  | 
 
 
 
@@ -583,6 +580,21 @@ Valoró especialmente la capacidad del módulo de inventory para manejar distint
 Respecto al sistema de alertas, afirmó que ha sido clave para anticiparse a problemas logísticos. Comentó que ha recibido notificaciones a tiempo sobre productos a punto de vencer o almacenados en condiciones inadecuadas, lo que le ha permitido tomar medidas correctivas antes de que se generen pérdidas.
 
 Como sugerencia, propuso que el sistema pudiera incluir una vista resumida de los productos más utilizados por semana, para ayudar en la planificación de compras futuras y evitar el sobreabastecimiento.
+
+###### Información del entrevistado
+
+| Nombre | Apellido | Edad | Distrito   |
+|--------|----------|------|------------|
+| Ingrid | Pacheco  | 24   | San Isidro | 
+
+###### Resumen de entrevista
+Durante la sesión de validación, la responsable del control de insumos en el almacén del restaurante destacó que la aplicación ha supuesto una mejora notable en el registro y seguimiento de productos. Explicó que anteriormente realizaba este control de forma manual con hojas impresas, lo cual era un proceso lento y propenso a errores. Ahora, gracias a la app, puede ingresar con facilidad la cantidad, unidad de medida y fecha de vencimiento de cada producto en el momento de su recepción.
+
+Resaltó como especialmente útil la funcionalidad del módulo de inventario que permite gestionar diferentes tipos de unidades de medida. Esto le brinda mayor precisión al trabajar tanto con productos en unidades, como en litros o kilos, y le facilita verificar el stock disponible sin necesidad de hacer conteos físicos frecuentes.
+
+En cuanto al sistema de alertas, mencionó que ha sido fundamental para prevenir problemas logísticos. Recibe notificaciones a tiempo sobre productos próximos a vencer o que están almacenados en condiciones no adecuadas, lo que le ha permitido tomar acciones correctivas y evitar pérdidas.
+
+Como recomendación, sugirió incorporar una vista resumida de los productos más utilizados por semana, lo que contribuiría a una mejor planificación de compras y a evitar acumulación innecesaria de insumos.
 
 ### 5.3.3. Evaluaciones según heurísticas.
 
