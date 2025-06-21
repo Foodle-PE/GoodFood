@@ -61,15 +61,14 @@
   </tr>
   <tr>
   <td>Precios y Costos</td>
-    <td>Licencia del software y suscripción mensual para mantenimiento y actualizaciones.</td>
-    <td>**US$69/mes** — 1 usuario (Basic)
-  - **US$349/mes** — 10 usuarios (Pro)
-  - **US$999/mes** — 100 usuarios (Enterprise)</td>
+    <td>**Plan Basico:**  US$35/mes **Plan Profesional:** US$45/mes **Plan Corporativo:** US$75/mes</td>
+    <td>**US$69/mes** 1 usuario (Basic)
+  **US$349/mes** 10 usuarios (Pro)
+  **US$999/mes** 100 usuarios (Enterprise)</td>
     <td> **Starter**: US$199/mes
-  - **Growth**: US$249/mes
-  - **Enterprise (Operator)**: US$127–339/mes (Operator US$127, Professional US$169, Ultimate US$339).</td>
-    <td>Plan básico: **US$59.99/mes** :contentReference[oaicite:3]{index=3}
-  - También disponible: "Lite" US$49 y "Standard" US$59 + US$17/terminal.</td>   
+  **Growth**: US$249/mes
+  **Enterprise (Operator)**: US$127–339/mes (Operator US$127, Professional US$169, Ultimate US$339).</td>
+    <td>Plan básico: **US$59.99/mes** "Lite" US$49 y "Standard" US$59 + US$17/terminal.</td>   
     </tr>
 <td>Canales de distribución (Web y/o Móvil)</td>
     <td>Plataforma disponible en web y móvil (app). También se podría distribuir a través de asociaciones con empresas de dispositivos IoT o distribuidores de tecnología para restaurantes.</td>
