@@ -688,8 +688,10 @@ Incluir un botón “Deshacer” o “Cancelar” visible después de crear un p
 Este video muestra el producto final desarrollado por el equipo GoodFood.
 
 
-Link del video en Microsoft Stream:
-Link del video en Youtube: 
+**Link del video en Microsoft Stream:**
+<br>
+<br>
+**Link del video en Youtube:**
 
 # Conclusiones
 
@@ -710,6 +712,8 @@ Cada integrante aparece ante cámara para describir su rol, los principales outc
 
 
 **Link del video en Microsoft Stream:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221f613_upc_edu_pe/EaIZDBPFzuhGjddlCgPIXvgBqdy92g3BUFYgOPsKVYqCow?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=lwsRd8
+<br>
+<br>
 **Link del video en Youtube:** https://youtu.be/APG5MgMBumU
 
 
