@@ -61,10 +61,15 @@
   </tr>
   <tr>
   <td>Precios y Costos</td>
-    <td>Suscripción mensual o anual que incluye los dispositivos IoT para el monitoreo en tiempo real y el acceso a la aplicación móvil. Precios basados en el tamaño y necesidades del restaurante.</td>
-    <td>Suscripción mensual o anual, con tarifas diferenciadas según el tamaño del restaurante y la cantidad de usuarios que acceden a la plataforma.</td>
-    <td>Suscripción mensual, con tarifas variables dependiendo de las características del restaurante y el nivel de acceso necesario para el sistema.</td>
     <td>Licencia del software y suscripción mensual para mantenimiento y actualizaciones.</td>
+    <td>**US$69/mes** — 1 usuario (Basic)
+  - **US$349/mes** — 10 usuarios (Pro)
+  - **US$999/mes** — 100 usuarios (Enterprise)</td>
+    <td> **Starter**: US$199/mes
+  - **Growth**: US$249/mes
+  - **Enterprise (Operator)**: US$127–339/mes (Operator US$127, Professional US$169, Ultimate US$339).</td>
+    <td>Plan básico: **US$59.99/mes** :contentReference[oaicite:3]{index=3}
+  - También disponible: "Lite" US$49 y "Standard" US$59 + US$17/terminal.</td>   
     </tr>
 <td>Canales de distribución (Web y/o Móvil)</td>
     <td>Plataforma disponible en web y móvil (app). También se podría distribuir a través de asociaciones con empresas de dispositivos IoT o distribuidores de tecnología para restaurantes.</td>
