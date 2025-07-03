@@ -61,7 +61,7 @@
   </tr>
   <tr>
   <td>Precios y Costos</td>
-    <td>**Plan Basico:**  US$35/mes **Plan Profesional:** US$45/mes **Plan Corporativo:** US$75/mes</td>
+    <td>**Plan Básico:**  US$35/mes **Plan Profesional**: US$45/mes **Plan Corporativo:** US$75/mes</td>
     <td>**US$69/mes** 1 usuario (Basic)
   **US$349/mes** 10 usuarios (Pro)
   **US$999/mes** 100 usuarios (Enterprise)</td>

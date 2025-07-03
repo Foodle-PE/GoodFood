@@ -3,9 +3,8 @@
 ## Carrera: Ingeniería de Software
 ## Aplicaciones Web - Presencial 
 ## PROFESOR: Alex Sanchez
-## Sección: 1ASI0730
 ## NRC: 4388
-## INFORME TB2
+## INFORME TF
 ## START UP: Foodle
 ## PRODUCTO: GoodFood
 
@@ -39,7 +38,7 @@
 
 --- 
 
-Ciclo 2025-01
+Ciclo 2025-10
 
 
 # Registro de versiones del informe
