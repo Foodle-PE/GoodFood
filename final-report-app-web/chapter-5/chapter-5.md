@@ -334,6 +334,18 @@ Aquí podemos evidenciar como ya se realizaron las tareas y no hay ningún error
 | US21 |     Notificaciones de stock crítico     | US21-1 | Crear alertas por stock crítico | Como responsable quiero alertas para evitar faltantes. | 2 | Maria Elena |  Done  |
 | US25 |          Soporte multilenguaje          | US25-1 | Agregar soporte multilenguaje | Como trabajador quiero usar la app en inglés para mejor comprensión. | 1 | Maria Elena |  Done  |
 
+| Sprint # |                Sprint 2                 |  |  |  |  |  |        |
+| :---: |:---------------------------------------:| :---: | :---: | :---: | :---: | ----- |:------:|
+| Technical Story |                                         | Work-Item / Task |  |  |  |  |        |
+| ID |                  Title                  | ID | Title | Description | Estimation (Hours) | Assigned To | Status |
+| TS01 |        Pantalla de inicio de sesión con validación de campos         | TS01-1 | Crear pantalla de inicio de sesión | Crear una pantalla de login con validación básica (correo y contraseña). Si el usuario no existe, se debe mostrar una opción para registrarse automáticamente. | 5 | Paolo |  Done  |
+| TS02 |         Visualización de alertas clasificadas por tipo         | TS01-2 | Clasificar Alertas por tipo | Diseñar una sección donde se muestren las alertas clasificadas por tipo: recordatorio de fecha de expiración, temperatura, etc. | 5 | Luis |  Done  |
+| TS03 |         Indicador visual de severidad en las alertas         | TS03-1 | Visualizar severidad de alertas por colores | Agregar colores para distinguir alertas según severidad (Alta, Media, Baja). | 3 | Maria |  Done  |
+| TS04 |         Renderizado de gráficos de sensores en tiempo real         | TS04-1 | Generar gráficos de sensores | Mostrar gráficos en tiempo real con los datos de sensores (temperatura, gas, etc.) | 5 | Sergio |  Done  |
+| TS05 |         Toolbar con opciones de navegación        | TS05-1 | Visualizar opciones de inventario, alertas y sensores | Mostrar opciones en la barra de navegación como Inventario, Alertas y Sensores | 3 | Paolo |  Done  |
+| TS06 |         Mensajes de feedback al usuario        | TS06-1 | Mostrar mensajes de feedback al usuario | Implementar notificaciones y mensajes para dar feedback durante operaciones como login, carga de alertas y sensores. | 3 | Paolo |  Done  |
+| TS07 |         Productos agregados al inventario       | TS06-1 | Ingresar productos al inventario | Ingresar productos al inventario y llenar los campos de nombre, fecha de expiración y cantidad. | 3 | Paolo |  Done  |
+
 ![image](https://github.com/user-attachments/assets/78b76df2-1bc8-499f-9afd-79a20060c8fa)
 
 ### 5.2.1.4. Development Evidence for Sprint Review.
