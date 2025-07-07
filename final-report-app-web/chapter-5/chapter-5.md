@@ -708,14 +708,23 @@ Este video muestra el producto final desarrollado por el equipo GoodFood.
 
 # Conclusiones
 
-Durante el proceso de creación y desarrollo de este trabajo pudimos llegar a las siguientes conclusiones:
-- La importancia del trabajo en equipo y la colaboración entre los miembros del grupo.
-- La importancia de la planificación y organización en el desarrollo de software.
-- La importancia de la tecnología y las herramientas en el desarrollo de software aplicado a la realidad.
-- Se concluye que este trabajo es una solución rentable y sostenible para la problemática de la reducción de desperdicios alimentarios en el Perú por medio de los restaurantes.
-- Se usa la tecnología de la información y la comunicación para poder llegar a un público más amplio y poder ayudar a la reducción de desperdicios alimentarios en el Perú.
-- Se concluye que la aplicación es fácil de usar y tiene una buena usabilidad, lo que permite a los usuarios interactuar con ella de manera eficiente.
-- Se concluye que la aplicación es escalable y puede adaptarse a diferentes necesidades y requerimientos de los usuarios.
+- Se reafirmó la importancia del trabajo en equipo y la colaboración entre los miembros del grupo para alcanzar los objetivos planteados.
+
+- La planificación y organización fueron fundamentales en cada etapa del desarrollo de software, permitiendo optimizar tiempos y recursos.
+
+- Las tecnologías de la información y comunicación (TIC) demostraron ser herramientas clave para abordar problemáticas reales mediante soluciones digitales.
+
+- El proyecto desarrollado representa una solución rentable, escalable y sostenible frente a la problemática del desperdicio alimentario en el Perú.
+
+- La aplicación permite a los restaurantes involucrarse activamente en la reducción del desperdicio alimentario, actuando  como agentes de cambio.
+
+- Se emplea la tecnología para llegar a un público más amplio y generar un impacto social positivo.
+
+- La aplicación presenta una buena usabilidad, lo que facilita una experiencia eficiente e intuitiva para los usuarios.
+
+- La solución es escalable y puede adaptarse a diferentes necesidades, permitiendo su crecimiento y mejora continua a  futuro.
+
+- En conjunto, el trabajo integra tecnología y compromiso social para brindar una herramienta funcional con impacto real en   la sociedad.
 
 # Video About-the-Team.
 Este video muestra el proceso de trabajo del equipo que desarrolló GoodFood.
