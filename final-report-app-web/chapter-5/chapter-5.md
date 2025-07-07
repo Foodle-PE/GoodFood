@@ -136,8 +136,98 @@ Desarrollar y desplegar una landing page que detalle las principales funcionalid
 </tr>
 </table>
 
-#### 5.2.1.1.2. Sprint Planning 2.
+#### 5.2.1.2. Aspect Leaders and Collaborators 
+<table>
+  <tr>
+    <td>Team Member</td>
+    <th>Paolo Alessandro Torres Flores</th>
+    <th>Sergio Cesar Aguirre Castillo</th>
+    <th>Maria Elena Muñoz Machuca</th>
+    <th>Luis Angel Montañez Moreno</th>
+  </tr>
+  <tr>
+    <td>Github Username</td>
+    <td>PaLeToFo</td>
+    <td>Aguirrat157</td>
+    <td>maria-mm0907</td>
+    <td>Luiso-AM</td>
+  </tr>
+  <tr>
+    <td>Leader (L) / Collaborator (C)</td>
+    <td>L</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+  </tr>
+</table>
 
+#### 5.2.1.3. Sprint backlog 1
+![Screenshot 2025-04-26 004012](https://github.com/user-attachments/assets/288ff5bf-1ecc-4935-a629-5bd286dac2eb)
+
+| Sprint \# |          Sprint 1          |  |  |  |  |  |  |
+| :---: |:--------------------------:| :---: | :---: | :---: | :---: | ----- | :---: |
+| User Story |                            | Work-Item / Task |  |  |  |  |  |
+| ID |           Title            | ID | Title | Description | Estimation (Hours) | Assigned To | Status |
+| US31 |       Sección Header       | US31-1 | Implementación de la barra de navegación | Como visitante quiero acceder a la barra de navegación para moverse rápidamente a cualquier sección de la página. | 3 | Luis | Done |
+| US32 |    Sección Introducción    | US32-1 | Implementacion de Seccion Introducción | Como visitante quiero ver un mensaje de bienvenida y una descripción para entender el funcionamiento de GoodFood. | 3 | Paolo | Done |
+| US33 |      Sección Features      | US33-1 | Implementación de la sección features | Como visitante quiero ver las características que hacen a GoodFood distinta de la competencia para elegir una plataforma. | 4 | Sergio | Done |
+| US34 | Sección Acerca de nosotros | US34-1 | Implementación Sección acerca de nosotros | Como visitante quiero conocer la misión y visión de GoodFood para conocer más acerca de sus objetivos.  | 2 | Maria | Done |
+| US35 |     Sección Beneficios     | US35-1 | Implementacion de Beneficios | Como visitante quiero conocer sobre los beneficios que me ofrece GoodFood para poder elegir si se lainean con mis necesidades | 4 | Luis Miguel | Done |
+| US36 |      Sección Contacto      | US36-1 | Implementacion de sección contacto | Como visitante quiero poder contactarme en caso requiera más información parapoder conocer mejor sobre el producto | 2 | Paolo | Done |
+| US49 |           Footer           | US49-1 | Implementacion de Footer | Como visitante quiero visualizar las redes sociales de la aplicación para poder ver las novedades que tienen para ofrecer. | 2 | Luis | Done |
+
+
+| Sprint # |                Sprint 1                 |  |  |  |  |  |        |
+| :---: |:---------------------------------------:| :---: | :---: | :---: | :---: | ----- |:------:|
+| Technical Story |                                         | Work-Item / Task |  |  |  |  |        |
+| ID |                  Title                  | ID | Title | Description | Estimation (Hours) | Assigned To | Status |
+| TS01 |        Implementación de login con validación         | TS01-1 | Crear pantalla de inicio de sesión | Programación del formulario de login con validación de campos. Se incluye lógica de registro automático si no se encuentra el usuario. | 5 | Paolo |  Done  |
+| TS02 |         Clasificación dinámica de alertas         | TS01-1 | Clasificar Alertas por tipo | Programar la estructura de datos y lógica de frontend para clasificar alertas por tipo (caducidad, temperatura, etc.). | 5 | Luis |  Done  |
+| TS03 |         	Visualización de severidad con colores         | TS03-1 | Visualizar severidad de alertas por colores | Implementar diseño visual (CSS + lógica) para diferenciar niveles de severidad de alertas mediante códigos de color. | 3 | Maria |  Done  |
+| TS04 |         	Gráficos de sensores en tiempo real         | TS04-1 | Generar gráficos de sensores | Integrar biblioteca de gráficos para visualizar datos en tiempo real desde sensores (temperatura, gas, etc.). | 5 | Sergio |  Done  |
+| TS05 |         Implementación de toolbar funcional       | TS05-1 | 	Visualizar opciones de navegación | Construcción de toolbar con links funcionales a Inventario, Alertas y Sensores. Integración con rutas y componentes. | 3 | Paolo |  Done  |
+| TS06 |         Sistema de feedback al usuario        | TS06-1 | Mostrar mensajes de feedback | Implementar mensajes (toasts, modales, alertas) en eventos clave: login, carga de sensores, errores de red. | 3 | Paolo |  Done  |
+| TS07 |         Registro de productos en inventario       | TS06-1 | Ingresar productos al inventario | Desarrollar formulario para agregar productos con campos validados: nombre, expiración, cantidad. Guardado en base de datos. | 3 | Paolo |  Done  |
+
+#### 5.2.1.4. Development Evidence for Sprint Review
+![WhatsApp Image 2025-04-25 at 22 04 57_f0943c99](https://github.com/user-attachments/assets/2b793699-ab56-4de1-b47c-52b62b2a124f)
+
+Aquí podemos notar como está conformado el grupo de trabajo dentro de la organización.
+
+![WhatsApp Image 2025-04-25 at 22 06 51_15ec1a09](https://github.com/user-attachments/assets/2d24e1b9-9811-450f-b746-15b3fd9b62d4)
+
+#### 5.2.1.5. Execution Evidence for Sprint Review 
+Aquí podemos notar la aplicación en ejecución luego de los sprints realizados.
+
+![goodfood1](https://github.com/user-attachments/assets/5a0a08d5-1f59-43d1-87b0-52ab8dfd59a4)
+
+
+Aquí vemos la evidencia de la creación de dichos repositorios mencionados con anterioridad.
+
+![goodfood2](https://github.com/user-attachments/assets/9820a42c-1dfb-4e84-9e66-623ce6fde8d6)
+
+
+Aquí podemos notar la ejecución de los commits a lo largo del reporte
+
+![goodfood3](https://github.com/user-attachments/assets/2ad4c92c-59ba-484d-bacf-247c940ca573)
+
+
+#### 5.2.1.6. Services Documentation Evidence for Sprint Review. 
+En esta sección se evidencia el servicio documentado al detalle dentro del reporte.
+
+![SERVICES DOC EVIDENCE ](https://github.com/user-attachments/assets/39057e9d-016e-41c5-b1ff-f0830db1754a)
+
+#### 5.2.1.7. Software Deployment Evidence for Sprint Review. 
+Aquí podemos evidenciar como ya se realizaron las tareas y no hay ningún error que corregir.
+
+![SOFTWARE DEPLOYMENT EVIDENCE](https://github.com/user-attachments/assets/9717afc4-86e6-4037-ab2d-8e640fa81ba4)
+
+#### 5.2.1.8. Team Collaboration Insights during Sprint. 
+![image](https://github.com/user-attachments/assets/447e3f7f-64aa-4615-90c3-2b8bf14322d3)
+
+
+### 5.2.2. Sprint 2
+#### 5.2.2.1. Sprint Planning 2
 <table>
 <tr>
     <th colspan="5">Sprint 2</th>
@@ -182,9 +272,102 @@ Desarrollar y desplegar una landing page que detalle las principales funcionalid
 Desarrollar y desplegar una capa de presentación que muestre las principales funcionalidades de la aplicación web.</td>
 </tr>
 </table>
+#### 5.2.2.2. Aspect Leaders and Collaborators 
+<table>
+  <tr>
+    <td>Team Member</td>
+    <th>Paolo Alessandro Torres Flores</th>
+    <th>Sergio Cesar Aguirre Castillo</th>
+    <th>Maria Elena Muñoz Machuca</th>
+    <th>Luis Angel Montañez Moreno</th>
+  </tr>
+  <tr>
+    <td>Github Username</td>
+    <td>PaLeToFo</td>
+    <td>Aguirrat157</td>
+    <td>maria-mm0907</td>
+    <td>Luiso-AM</td>
+  </tr>
+  <tr>
+    <td>Leader (L) / Collaborator (C)</td>
+    <td>L</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+  </tr>
+</table>
 
-#### 5.2.1.1.2. Sprint Planning 3.
+#### 5.2.2.3. Sprint backlog 2
+| Sprint # |                Sprint 2                 |  |  |  |  |  |        |
+| :---: |:---------------------------------------:| :---: | :---: | :---: | :---: | ----- |:------:|
+| User Story |                                         | Work-Item / Task |  |  |  |  |        |
+| ID |                  Title                  | ID | Title | Description | Estimation (Hours) | Assigned To | Status |
+  | US01 |        Monitoreo en tiempo real         | US01-1 | Implementar monitoreo en tiempo real | Como gerente quiero monitorear las condiciones del inventario en tiempo real para evitar pérdidas por mal almacenamiento. | 5 | Paolo |  Done  |
+| US02 |     Alertas por fecha de caducidad      | US02-1 | Crear sistema de alertas para caducidad | Como encargado quiero recibir alertas para evitar desperdicio. | 3 | Sergio |  Done  |
+| US03 |   Reportes automáticos de inventario    | US03-1 | Implementar reportes automáticos | Como administrador quiero reportes automáticos de stock para optimizar compras. | 5 | Sergio |  Done  |
+| US04 |           Interfaz intuitiva            | US04-1 | Diseñar interfaz sencilla con iconos claros | Como trabajador quiero una app sencilla para usar sin complicaciones. | 2 |  Maria Elena |  Done  |
+| US05 |    Visualización de niveles de stock    | US05-1 | Visualizar niveles de stock actuales | Como encargado quiero ver el nivel actual para saber cuándo pedir. | 3 | Paolo |  Done  |
+| US06 | Configuración de alertas personalizadas | US06-1 | Permitir configurar alertas personalizadas | Como administrador quiero priorizar productos críticos. | 3 | Paolo |  Done  |
+| US07 |           Acceso multiusuario           | US07-1 | Implementar cuentas para el equipo | Como dueño quiero cuentas propias para dividir responsabilidades. | 3 | Maria Elena |  Done  |
+| US08 |  Lectura de temperatura desde sensores  | US08-1 | Integrar lectura de sensores IoT | Como gerente quiero conocer temperatura del almacén. | 5 | Paolo |  Done  |
+| US09 |        Adaptabilidad del sistema        | US09-1 | Adaptar sistema a diferentes tamaños | Como dueño quiero que funcione sin importar tamaño. | 2 | Luis |  Done  |
+| US11 |    Registro de entrada de productos     | US11-1 | Registrar llegada de productos | Como encargado quiero control preciso del inventario. | 2 | Paolo |  Done  |
+| US12 |     Registro de salida de productos     | US12-1 | Registrar productos usados y actualizar stock | Como trabajador quiero mantener stock actualizado. | 2 | Luis |  Done  |
+| US13 |       Aplicación móvil compatible       | US13-1 | Acceso móvil al inventario | Como cocinero quiero consultar inventario desde celular. | 3 | Luis |  Done  |
+| US14 |  Reducción de desperdicio alimentario   | US14-1 | Implementar alertas para reducir desperdicios | Como gerente quiero disminuir costos. | 2 | Paolo |  Done  |
+| US15 |        Soporte técnico incluido         | US15-1 | Implementar soporte técnico para sensores | Como usuario quiero resolver problemas rápido. | 1 | Luis |  Done  |
+| US21 |     Notificaciones de stock crítico     | US21-1 | Crear alertas por stock crítico | Como responsable quiero alertas para evitar faltantes. | 2 | Maria Elena |  Done  |
+| US25 |          Soporte multilenguaje          | US25-1 | Agregar soporte multilenguaje | Como trabajador quiero usar la app en inglés para mejor comprensión. | 1 | Maria Elena |  Done  |
 
+| Sprint # |                Sprint 2                 |  |  |  |  |  |        |
+| :---: |:---------------------------------------:| :---: | :---: | :---: | :---: | ----- |:------:|
+| Technical Story |                                         | Work-Item / Task |  |  |  |  |        |
+| ID |                  Title                  | ID | Title | Description | Estimation (Hours) | Assigned To | Status |
+| TS01 |        Pantalla de inicio de sesión con validación de campos         | TS01-1 | Crear pantalla de inicio de sesión | Crear una pantalla de login con validación básica (correo y contraseña). Si el usuario no existe, se debe mostrar una opción para registrarse automáticamente. | 5 | Paolo |  Done  |
+| TS02 |         Visualización de alertas clasificadas por tipo         | TS01-2 | Clasificar Alertas por tipo | Diseñar una sección donde se muestren las alertas clasificadas por tipo: recordatorio de fecha de expiración, temperatura, etc. | 5 | Luis |  Done  |
+| TS03 |         Indicador visual de severidad en las alertas         | TS03-1 | Visualizar severidad de alertas por colores | Agregar colores para distinguir alertas según severidad (Alta, Media, Baja). | 3 | Maria |  Done  |
+| TS04 |         Renderizado de gráficos de sensores en tiempo real         | TS04-1 | Generar gráficos de sensores | Mostrar gráficos en tiempo real con los datos de sensores (temperatura, gas, etc.) | 5 | Sergio |  Done  |
+| TS05 |         Toolbar con opciones de navegación        | TS05-1 | Visualizar opciones de inventario, alertas y sensores | Mostrar opciones en la barra de navegación como Inventario, Alertas y Sensores | 3 | Paolo |  Done  |
+| TS06 |         Mensajes de feedback al usuario        | TS06-1 | Mostrar mensajes de feedback al usuario | Implementar notificaciones y mensajes para dar feedback durante operaciones como login, carga de alertas y sensores. | 3 | Paolo |  Done  |
+| TS07 |         Productos agregados al inventario       | TS06-1 | Ingresar productos al inventario | Ingresar productos al inventario y llenar los campos de nombre, fecha de expiración y cantidad. | 3 | Paolo |  Done  |
+
+![image](https://github.com/user-attachments/assets/78b76df2-1bc8-499f-9afd-79a20060c8fa)
+
+#### 5.2.2.4. Development Evidence for Sprint Review
+![image](https://github.com/user-attachments/assets/1540cb14-c4d3-4071-866e-bbcb098f1212)
+Aquí podemos notar como está conformado el grupo de trabajo dentro de la organización.
+
+
+![image](https://github.com/user-attachments/assets/b7b68bb0-cef3-40e4-befe-69bbb9de27f5)
+
+
+#### 5.2.2.5. Execution Evidence for Sprint Review
+
+Aquí podemos notar la aplicación en ejecución luego de los sprints realizados.
+
+![image](https://github.com/user-attachments/assets/723f828d-1fce-4993-8ccd-43be552219d4)
+
+![image](https://github.com/user-attachments/assets/b2611285-1c13-4077-a108-61abbb230dbb)
+
+![image](https://github.com/user-attachments/assets/a50836b0-ddeb-4c6a-9183-f6012d104570)
+
+
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review. 
+En esta sección se evidencia el servicio documentado al detalle dentro del reporte.
+
+![SERVICES DOC EVIDENCE ](https://github.com/user-attachments/assets/39057e9d-016e-41c5-b1ff-f0830db1754a)
+
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review.
+Aquí podemos evidenciar como ya se realizaron el deploy del frontend
+
+![image](https://github.com/user-attachments/assets/4acea044-bc74-4fe4-ae0c-3ac1fa6ee7b0)
+
+#### 5.2.2.8. Team Collaboration Insights during Sprint. 
+![image](https://github.com/user-attachments/assets/e345c248-ab7d-4454-a867-62e9c3b9feee)
+
+
+### 5.2.3. Sprint 3
+#### 5.2.3.1. Sprint Planning 3
 <table>
 <tr>
     <th colspan="5">Sprint 3</th>
@@ -230,8 +413,7 @@ Desarrollar y desplegar una capa de datos que contenga datos de las principales 
 </tr>
 </table>
 
-#### 5.2.1.2. Aspect Leaders and Collaborators.
-
+#### 5.2.3.2. Aspect Leaders and Collaborators 
 <table>
   <tr>
     <td>Team Member</td>
@@ -255,169 +437,29 @@ Desarrollar y desplegar una capa de datos que contenga datos de las principales 
     <td>C</td>
   </tr>
 </table>
+#### 5.2.3.3. Sprint backlog 3
 
-#### 5.2.1.3. Sprint Backlog 1.
+| Sprint # | Sprint 3                              |               |       |            |        |               |         |
+|:--------:|:--------------------------------------:|:-------------:|:-----:|:----------:|:------:|:-------------:|:-------:|
+| User Story |                                      | Work-Item / Task            |       | Descripción                                                  | Estimación (Horas) | Asignado a    | Estado  |
+| ID     | Título                                  | ID            | Título | Descripción                                                  | Estimación (Horas) | Asignado a    | Estado  |
+| US01   | Monitoreo en tiempo real                | US01-1        | Implementar monitoreo en tiempo real | Como gerente quiero monitorear las condiciones del inventario en tiempo real para evitar pérdidas por mal almacenamiento. | 5                   | Paolo         | Done    |
+| US02   | Alertas por fecha de caducidad          | US02-1        | Crear sistema de alertas para caducidad | Como encargado quiero recibir alertas para evitar desperdicio. | 3                   | Sergio        | Done    |
+| US03   | Reportes automáticos de inventario      | US03-1        | Implementar reportes automáticos | Como administrador quiero reportes automáticos de stock para optimizar compras. | 5                   | Sergio        | Done    |
+| US04   | Interfaz intuitiva                      | US04-1        | Diseñar interfaz sencilla con iconos claros | Como trabajador quiero una app sencilla para usar sin complicaciones. | 2                   | Maria Elena   | Done    |
+| US05   | Visualización de niveles de stock       | US05-1        | Visualizar niveles de stock actuales | Como encargado quiero ver el nivel actual para saber cuándo pedir. | 3                   | Paolo         | Done    |
+| US06   | Configuración de alertas personalizadas | US06-1        | Permitir configurar alertas personalizadas | Como administrador quiero priorizar productos críticos. | 3                   | Paolo         | Done    |
+| US07   | Acceso multiusuario                     | US07-1        | Implementar cuentas para el equipo | Como dueño quiero cuentas propias para dividir responsabilidades. | 3                   | Maria Elena   | Done    |
+| US08   | Lectura de temperatura desde sensores   | US08-1        | Integrar lectura de sensores IoT | Como gerente quiero conocer temperatura del almacén. | 5                   | Paolo         | Done    |
+| US09   | Adaptabilidad del sistema               | US09-1        | Adaptar sistema a diferentes tamaños | Como dueño quiero que funcione sin importar tamaño. | 2                   | Luis          | Done    |
+| US11   | Registro de entrada de productos        | US11-1        | Registrar llegada de productos | Como encargado quiero control preciso del inventario. | 2                   | Paolo         | Done    |
+| US12   | Registro de salida de productos         | US12-1        | Registrar productos usados y actualizar stock | Como trabajador quiero mantener stock actualizado. | 2                   | Luis          | Done    |
+| US13   | Aplicación móvil compatible             | US13-1        | Acceso móvil al inventario | Como cocinero quiero consultar inventario desde celular. | 3                   | Luis          | Done    |
+| US14   | Reducción de desperdicio alimentario    | US14-1        | Implementar alertas para reducir desperdicios | Como gerente quiero disminuir costos. | 2                   | Paolo         | Done    |
+| US15   | Soporte técnico incluido                | US15-1        | Implementar soporte técnico para sensores | Como usuario quiero resolver problemas rápido. | 1                   | Luis          | Done    |
+| US21   | Notificaciones de stock crítico         | US21-1        | Crear alertas por stock crítico | Como responsable quiero alertas para evitar faltantes. | 2                   | Maria Elena   | Done    |
+| US25   | Soporte multilenguaje                   | US25-1        | Agregar soporte multilenguaje | Como trabajador quiero usar la app en inglés para mejor comprensión. | 1                   | Maria Elena   | Done    |
 
-![Screenshot 2025-04-26 004012](https://github.com/user-attachments/assets/288ff5bf-1ecc-4935-a629-5bd286dac2eb)
-
-| Sprint \# |          Sprint 1          |  |  |  |  |  |  |
-| :---: |:--------------------------:| :---: | :---: | :---: | :---: | ----- | :---: |
-| User Story |                            | Work-Item / Task |  |  |  |  |  |
-| ID |           Title            | ID | Title | Description | Estimation (Hours) | Assigned To | Status |
-| US31 |       Sección Header       | US31-1 | Implementación de la barra de navegación | Como visitante quiero acceder a la barra de navegación para moverse rápidamente a cualquier sección de la página. | 3 | Luis | Done |
-| US32 |    Sección Introducción    | US32-1 | Implementacion de Seccion Introducción | Como visitante quiero ver un mensaje de bienvenida y una descripción para entender el funcionamiento de GoodFood. | 3 | Paolo | Done |
-| US33 |      Sección Features      | US33-1 | Implementación de la sección features | Como visitante quiero ver las características que hacen a GoodFood distinta de la competencia para elegir una plataforma. | 4 | Sergio | Done |
-| US34 | Sección Acerca de nosotros | US34-1 | Implementación Sección acerca de nosotros | Como visitante quiero conocer la misión y visión de GoodFood para conocer más acerca de sus objetivos.  | 2 | Maria | Done |
-| US35 |     Sección Beneficios     | US35-1 | Implementacion de Beneficios | Como visitante quiero conocer sobre los beneficios que me ofrece GoodFood para poder elegir si se lainean con mis necesidades | 4 | Luis Miguel | Done |
-| US36 |      Sección Contacto      | US36-1 | Implementacion de sección contacto | Como visitante quiero poder contactarme en caso requiera más información parapoder conocer mejor sobre el producto | 2 | Paolo | Done |
-| US49 |           Footer           | US49-1 | Implementacion de Footer | Como visitante quiero visualizar las redes sociales de la aplicación para poder ver las novedades que tienen para ofrecer. | 2 | Luis | Done |
-
-
-| Sprint # |                Sprint 1                 |  |  |  |  |  |        |
-| :---: |:---------------------------------------:| :---: | :---: | :---: | :---: | ----- |:------:|
-| Technical Story |                                         | Work-Item / Task |  |  |  |  |        |
-| ID |                  Title                  | ID | Title | Description | Estimation (Hours) | Assigned To | Status |
-| TS01 |        Implementación de login con validación         | TS01-1 | Crear pantalla de inicio de sesión | Programación del formulario de login con validación de campos. Se incluye lógica de registro automático si no se encuentra el usuario. | 5 | Paolo |  Done  |
-| TS02 |         Clasificación dinámica de alertas         | TS01-1 | Clasificar Alertas por tipo | Programar la estructura de datos y lógica de frontend para clasificar alertas por tipo (caducidad, temperatura, etc.). | 5 | Luis |  Done  |
-| TS03 |         	Visualización de severidad con colores         | TS03-1 | Visualizar severidad de alertas por colores | Implementar diseño visual (CSS + lógica) para diferenciar niveles de severidad de alertas mediante códigos de color. | 3 | Maria |  Done  |
-| TS04 |         	Gráficos de sensores en tiempo real         | TS04-1 | Generar gráficos de sensores | Integrar biblioteca de gráficos para visualizar datos en tiempo real desde sensores (temperatura, gas, etc.). | 5 | Sergio |  Done  |
-| TS05 |         Implementación de toolbar funcional       | TS05-1 | 	Visualizar opciones de navegación | Construcción de toolbar con links funcionales a Inventario, Alertas y Sensores. Integración con rutas y componentes. | 3 | Paolo |  Done  |
-| TS06 |         Sistema de feedback al usuario        | TS06-1 | Mostrar mensajes de feedback | Implementar mensajes (toasts, modales, alertas) en eventos clave: login, carga de sensores, errores de red. | 3 | Paolo |  Done  |
-| TS07 |         Registro de productos en inventario       | TS06-1 | Ingresar productos al inventario | Desarrollar formulario para agregar productos con campos validados: nombre, expiración, cantidad. Guardado en base de datos. | 3 | Paolo |  Done  |
-#### 5.2.1.4. Development Evidence for Sprint Review.
-
-![WhatsApp Image 2025-04-25 at 22 04 57_f0943c99](https://github.com/user-attachments/assets/2b793699-ab56-4de1-b47c-52b62b2a124f)
-
-Aquí podemos notar como está conformado el grupo de trabajo dentro de la organización.
-
-![WhatsApp Image 2025-04-25 at 22 06 51_15ec1a09](https://github.com/user-attachments/assets/2d24e1b9-9811-450f-b746-15b3fd9b62d4)
-
-
-#### 5.2.1.5. Execution Evidence for Sprint Review.
-Aquí podemos notar la aplicación en ejecución luego de los sprints realizados.
-
-![goodfood1](https://github.com/user-attachments/assets/5a0a08d5-1f59-43d1-87b0-52ab8dfd59a4)
-
-
-Aquí vemos la evidencia de la creación de dichos repositorios mencionados con anterioridad.
-
-![goodfood2](https://github.com/user-attachments/assets/9820a42c-1dfb-4e84-9e66-623ce6fde8d6)
-
-
-Aquí podemos notar la ejecución de los commits a lo largo del reporte
-
-![goodfood3](https://github.com/user-attachments/assets/2ad4c92c-59ba-484d-bacf-247c940ca573)
-
-
-#### 5.2.1.6. Services Documentation Evidence for Sprint Review.
-En esta sección se evidencia el servicio documentado al detalle dentro del reporte.
-
-![SERVICES DOC EVIDENCE ](https://github.com/user-attachments/assets/39057e9d-016e-41c5-b1ff-f0830db1754a)
-
-#### 5.2.1.7. Software Deployment Evidence for Sprint Review.
-Aquí podemos evidenciar como ya se realizaron las tareas y no hay ningún error que corregir.
-
-![SOFTWARE DEPLOYMENT EVIDENCE](https://github.com/user-attachments/assets/9717afc4-86e6-4037-ab2d-8e640fa81ba4)
-
-#### 5.2.1.8. Team Collaboration Insights during Sprint.
-![image](https://github.com/user-attachments/assets/447e3f7f-64aa-4615-90c3-2b8bf14322d3)
-
-
-#### 5.2.1.1. Sprint backlog 2.
-| Sprint # |                Sprint 2                 |  |  |  |  |  |        |
-| :---: |:---------------------------------------:| :---: | :---: | :---: | :---: | ----- |:------:|
-| User Story |                                         | Work-Item / Task |  |  |  |  |        |
-| ID |                  Title                  | ID | Title | Description | Estimation (Hours) | Assigned To | Status |
-  | US01 |        Monitoreo en tiempo real         | US01-1 | Implementar monitoreo en tiempo real | Como gerente quiero monitorear las condiciones del inventario en tiempo real para evitar pérdidas por mal almacenamiento. | 5 | Paolo |  Done  |
-| US02 |     Alertas por fecha de caducidad      | US02-1 | Crear sistema de alertas para caducidad | Como encargado quiero recibir alertas para evitar desperdicio. | 3 | Sergio |  Done  |
-| US03 |   Reportes automáticos de inventario    | US03-1 | Implementar reportes automáticos | Como administrador quiero reportes automáticos de stock para optimizar compras. | 5 | Sergio |  Done  |
-| US04 |           Interfaz intuitiva            | US04-1 | Diseñar interfaz sencilla con iconos claros | Como trabajador quiero una app sencilla para usar sin complicaciones. | 2 |  Maria Elena |  Done  |
-| US05 |    Visualización de niveles de stock    | US05-1 | Visualizar niveles de stock actuales | Como encargado quiero ver el nivel actual para saber cuándo pedir. | 3 | Paolo |  Done  |
-| US06 | Configuración de alertas personalizadas | US06-1 | Permitir configurar alertas personalizadas | Como administrador quiero priorizar productos críticos. | 3 | Paolo |  Done  |
-| US07 |           Acceso multiusuario           | US07-1 | Implementar cuentas para el equipo | Como dueño quiero cuentas propias para dividir responsabilidades. | 3 | Maria Elena |  Done  |
-| US08 |  Lectura de temperatura desde sensores  | US08-1 | Integrar lectura de sensores IoT | Como gerente quiero conocer temperatura del almacén. | 5 | Paolo |  Done  |
-| US09 |        Adaptabilidad del sistema        | US09-1 | Adaptar sistema a diferentes tamaños | Como dueño quiero que funcione sin importar tamaño. | 2 | Luis |  Done  |
-| US11 |    Registro de entrada de productos     | US11-1 | Registrar llegada de productos | Como encargado quiero control preciso del inventario. | 2 | Paolo |  Done  |
-| US12 |     Registro de salida de productos     | US12-1 | Registrar productos usados y actualizar stock | Como trabajador quiero mantener stock actualizado. | 2 | Luis |  Done  |
-| US13 |       Aplicación móvil compatible       | US13-1 | Acceso móvil al inventario | Como cocinero quiero consultar inventario desde celular. | 3 | Luis |  Done  |
-| US14 |  Reducción de desperdicio alimentario   | US14-1 | Implementar alertas para reducir desperdicios | Como gerente quiero disminuir costos. | 2 | Paolo |  Done  |
-| US15 |        Soporte técnico incluido         | US15-1 | Implementar soporte técnico para sensores | Como usuario quiero resolver problemas rápido. | 1 | Luis |  Done  |
-| US21 |     Notificaciones de stock crítico     | US21-1 | Crear alertas por stock crítico | Como responsable quiero alertas para evitar faltantes. | 2 | Maria Elena |  Done  |
-| US25 |          Soporte multilenguaje          | US25-1 | Agregar soporte multilenguaje | Como trabajador quiero usar la app en inglés para mejor comprensión. | 1 | Maria Elena |  Done  |
-
-| Sprint # |                Sprint 2                 |  |  |  |  |  |        |
-| :---: |:---------------------------------------:| :---: | :---: | :---: | :---: | ----- |:------:|
-| Technical Story |                                         | Work-Item / Task |  |  |  |  |        |
-| ID |                  Title                  | ID | Title | Description | Estimation (Hours) | Assigned To | Status |
-| TS01 |        Pantalla de inicio de sesión con validación de campos         | TS01-1 | Crear pantalla de inicio de sesión | Crear una pantalla de login con validación básica (correo y contraseña). Si el usuario no existe, se debe mostrar una opción para registrarse automáticamente. | 5 | Paolo |  Done  |
-| TS02 |         Visualización de alertas clasificadas por tipo         | TS01-2 | Clasificar Alertas por tipo | Diseñar una sección donde se muestren las alertas clasificadas por tipo: recordatorio de fecha de expiración, temperatura, etc. | 5 | Luis |  Done  |
-| TS03 |         Indicador visual de severidad en las alertas         | TS03-1 | Visualizar severidad de alertas por colores | Agregar colores para distinguir alertas según severidad (Alta, Media, Baja). | 3 | Maria |  Done  |
-| TS04 |         Renderizado de gráficos de sensores en tiempo real         | TS04-1 | Generar gráficos de sensores | Mostrar gráficos en tiempo real con los datos de sensores (temperatura, gas, etc.) | 5 | Sergio |  Done  |
-| TS05 |         Toolbar con opciones de navegación        | TS05-1 | Visualizar opciones de inventario, alertas y sensores | Mostrar opciones en la barra de navegación como Inventario, Alertas y Sensores | 3 | Paolo |  Done  |
-| TS06 |         Mensajes de feedback al usuario        | TS06-1 | Mostrar mensajes de feedback al usuario | Implementar notificaciones y mensajes para dar feedback durante operaciones como login, carga de alertas y sensores. | 3 | Paolo |  Done  |
-| TS07 |         Productos agregados al inventario       | TS06-1 | Ingresar productos al inventario | Ingresar productos al inventario y llenar los campos de nombre, fecha de expiración y cantidad. | 3 | Paolo |  Done  |
-
-![image](https://github.com/user-attachments/assets/78b76df2-1bc8-499f-9afd-79a20060c8fa)
-
-### 5.2.1.4. Development Evidence for Sprint Review.
-
-![image](https://github.com/user-attachments/assets/1540cb14-c4d3-4071-866e-bbcb098f1212)
-
-
-Aquí podemos notar como está conformado el grupo de trabajo dentro de la organización.
-
-
-![image](https://github.com/user-attachments/assets/b7b68bb0-cef3-40e4-befe-69bbb9de27f5)
-
-
-#### 5.2.1.5. Execution Evidence for Sprint Review.
-Aquí podemos notar la aplicación en ejecución luego de los sprints realizados.
-
-![image](https://github.com/user-attachments/assets/723f828d-1fce-4993-8ccd-43be552219d4)
-
-![image](https://github.com/user-attachments/assets/b2611285-1c13-4077-a108-61abbb230dbb)
-
-![image](https://github.com/user-attachments/assets/a50836b0-ddeb-4c6a-9183-f6012d104570)
-
-
-#### 5.2.1.6. Services Documentation Evidence for Sprint Review.
-En esta sección se evidencia el servicio documentado al detalle dentro del reporte.
-
-![SERVICES DOC EVIDENCE ](https://github.com/user-attachments/assets/39057e9d-016e-41c5-b1ff-f0830db1754a)
-
-#### 5.2.1.7. Software Deployment Evidence for Sprint Review.
-Aquí podemos evidenciar como ya se realizaron el deploy del frontend
-
-
-![image](https://github.com/user-attachments/assets/4acea044-bc74-4fe4-ae0c-3ac1fa6ee7b0)
-
-
-#### 5.2.1.8. Team Collaboration Insights during Sprint.
-
-![image](https://github.com/user-attachments/assets/e345c248-ab7d-4454-a867-62e9c3b9feee)
-
-
-#### 5.2.1.1. Sprint backlog 3.
-| Sprint # |                Sprint 3                 |  |  |  |  |  |        |
-| :---: |:---------------------------------------:| :---: | :---: | :---: | :---: | ----- |:------:|
-| User Story |                                         | Work-Item / Task |  |  |  |  |        |
-| ID |                  Title                  | ID | Title | Description | Estimation (Hours) | Assigned To | Status |
-| US01 |        Monitoreo en tiempo real         | US01-1 | Implementar monitoreo en tiempo real | Como gerente quiero monitorear las condiciones del inventario en tiempo real para evitar pérdidas por mal almacenamiento. | 5 | Paolo |  Done  |
-| US02 |     Alertas por fecha de caducidad      | US02-1 | Crear sistema de alertas para caducidad | Como encargado quiero recibir alertas para evitar desperdicio. | 3 | Sergio |  Done  |
-| US03 |   Reportes automáticos de inventario    | US03-1 | Implementar reportes automáticos | Como administrador quiero reportes automáticos de stock para optimizar compras. | 5 | Sergio |  Done  |
-| US04 |           Interfaz intuitiva            | US04-1 | Diseñar interfaz sencilla con iconos claros | Como trabajador quiero una app sencilla para usar sin complicaciones. | 2 |  Maria Elena |  Done  |
-| US05 |    Visualización de niveles de stock    | US05-1 | Visualizar niveles de stock actuales | Como encargado quiero ver el nivel actual para saber cuándo pedir. | 3 | Paolo |  Done  |
-| US06 | Configuración de alertas personalizadas | US06-1 | Permitir configurar alertas personalizadas | Como administrador quiero priorizar productos críticos. | 3 | Paolo |  Done  |
-| US07 |           Acceso multiusuario           | US07-1 | Implementar cuentas para el equipo | Como dueño quiero cuentas propias para dividir responsabilidades. | 3 | Maria Elena |  Done  |
-| US08 |  Lectura de temperatura desde sensores  | US08-1 | Integrar lectura de sensores IoT | Como gerente quiero conocer temperatura del almacén. | 5 | Paolo |  Done  |
-| US09 |        Adaptabilidad del sistema        | US09-1 | Adaptar sistema a diferentes tamaños | Como dueño quiero que funcione sin importar tamaño. | 2 | Luis |  Done  |
-| US11 |    Registro de entrada de productos     | US11-1 | Registrar llegada de productos | Como encargado quiero control preciso del inventario. | 2 | Paolo |  Done  |
-| US12 |     Registro de salida de productos     | US12-1 | Registrar productos usados y actualizar stock | Como trabajador quiero mantener stock actualizado. | 2 | Luis |  Done  |
-| US13 |       Aplicación móvil compatible       | US13-1 | Acceso móvil al inventario | Como cocinero quiero consultar inventario desde celular. | 3 | Luis |  Done  |
-| US14 |  Reducción de desperdicio alimentario   | US14-1 | Implementar alertas para reducir desperdicios | Como gerente quiero disminuir costos. | 2 | Paolo |  Done  |
-| US15 |        Soporte técnico incluido         | US15-1 | Implementar soporte técnico para sensores | Como usuario quiero resolver problemas rápido. | 1 | Luis |  Done  |
-| US21 |     Notificaciones de stock crítico     | US21-1 | Crear alertas por stock crítico | Como responsable quiero alertas para evitar faltantes. | 2 | Maria Elena |  Done  |
-| US25 |          Soporte multilenguaje          | US25-1 | Agregar soporte multilenguaje | Como trabajador quiero usar la app en inglés para mejor comprensión. | 1 | Maria Elena |  Done  |
 
 | Sprint # |                Sprint 3                 |  |  |  |  |  |        |
 | :---: |:---------------------------------------:| :---: | :---: | :---: | :---: | ----- |:------:|
@@ -442,21 +484,86 @@ Aquí podemos evidenciar como ya se realizaron el deploy del frontend
 
 ![Screenshot 2025-05-14 192919](https://github.com/user-attachments/assets/eda64bd5-ca84-4fce-979e-39ae3f21b9c2)
 
+#### 5.2.3.4. Development Evidence for Sprint Review
+![image](https://github.com/user-attachments/assets/133136fc-8417-4ad1-b180-1fb896806ea5)
 
-| Sprint # |          Sprint 4          |  |  |  |  |  |  |
-| :---: |:--------------------------:| :---: | :---: | :---: | :---: | ----- | :---: |
-| User Story |                            | Work-Item / Task |  |  |  |  |  |
-| ID |           Title            | ID | Title | Description | Estimation (Hours) | Assigned To | Status |
-| US50 |    Gestión de Alertas     | US50-1 | Crear endpoint para listar alertas | Como usuario quiero poder ver todas mis alertas activas para saber qué acciones tomar. | 4 | Sergio | Done |
-|      |                           | US50-2 | Crear endpoint para cerrar alertas | Como usuario quiero cerrar alertas que ya no son relevantes para mantener mi bandeja organizada. | 3 | Luis Angel | Done |
-|      |                           | US50-3 | Crear endpoint para historial de alertas | Como usuario quiero ver el historial de alertas cerradas para tener registro de mis acciones pasadas. | 3 | Sergio | Done |
-| US51 |   Edición de Información de Usuario   | US51-1 | Crear endpoint para editar perfil de usuario | Como usuario quiero actualizar mis datos personales para mantener mi información actualizada. | 4 | Sergio | Done |
-|      |                                              | US51-2 | Mostrar información del usuario en el frontend | Como usuario quiero ver mis datos personales para saber qué información tengo registrada. | 3 | Paolo | Done |
-|      |                                              | US51-3 | Agregar botón para editar y guardar cambios | Como usuario quiero editar mi información desde el frontend para poder actualizarla fácilmente. | 3 | Maria | Done |
-|      |                                              | US51-4 | Mostrar confirmación tras editar perfil | Como usuario quiero ver una notificación de confirmación después de guardar cambios para saber que se actualizaron correctamente. | 2 | Paolo | Done |
-| US52 |   Actualización de APIs existentes   | US52-1 | Implementar endpoints del módulo de inventario | Como desarrollador quiero contar con las APIs del inventario para poder gestionar productos y su stock desde el frontend. | 5 |Paolo | Done |
-|      |                                       | US52-2 | Proteger endpoints con autorización por token | Como usuario quiero que solo personas autenticadas puedan acceder a mis datos para garantizar la seguridad de la aplicación. | 4 | Maria | Done |
-|      |                                       | US52-3 | Ajustar integración backend-frontend para nuevas APIs | Como desarrollador quiero que las nuevas APIs funcionen correctamente con el frontend para asegurar la conectividad entre capas. | 3 | Paolo | Done |
+
+Aquí podemos notar como está conformado el grupo de trabajo dentro de la organización.
+
+![image](https://github.com/user-attachments/assets/2574c336-aa27-42e1-bf80-dab157685c51)
+
+#### 5.2.3.5. Execution Evidence for Sprint Review 
+Aquí podemos notar la aplicación en ejecución luego de los sprints realizados.
+
+![image](https://github.com/user-attachments/assets/138b6c14-5349-436b-92ba-30f01af2e421)
+
+![image](https://github.com/user-attachments/assets/44d6704b-129c-4fb6-b272-2265d3ee5dcb)
+
+
+![image](https://github.com/user-attachments/assets/8263a0a2-6538-4b9b-a3b4-d23dd652ce4b)
+
+#### 5.2.3.6. Services Documentation Evidence for Sprint Review. 
+En esta sección se evidencia el servicio documentado al detalle dentro del reporte.
+
+![SERVICES DOC EVIDENCE ](https://github.com/user-attachments/assets/39057e9d-016e-41c5-b1ff-f0830db1754a)
+
+#### 5.2.1.7. Software Deployment Evidence for Sprint Review.
+Aquí podemos evidenciar como ya se realizaron el deploy del backend
+![image](https://github.com/user-attachments/assets/39ef328b-aba8-41d5-b9ab-80c758054b63)
+
+Se puede evdenciar como se conecta con el repositorio de github
+![image](https://github.com/user-attachments/assets/237850a8-89d0-4b65-9428-6ad6bf51922c)
+
+#### 5.2.3.7. Software Deployment Evidence for Sprint Review. 
+#### 5.2.3.8. Team Collaboration Insights during Sprint. 
+Los commits realizados por Seratt15a se perdieron debido a que la cuenta es inrecuperable y se decidió cambiarla a otra. Los commits generados por Luiso_AM también son la suma del trabajo de Seratt15a ya que trabajan el mismo bounded context.
+
+![image](https://github.com/user-attachments/assets/d8e30501-f53a-4bdc-8ba8-53e8100c0d71)
+
+
+### 5.2.4. Sprint 4
+#### 5.2.4.1. Sprint Planning 1.
+#### 5.2.4.2. Aspect Leaders and Collaborators 
+<table>
+  <tr>
+    <td>Team Member</td>
+    <th>Paolo Alessandro Torres Flores</th>
+    <th>Sergio Cesar Aguirre Castillo</th>
+    <th>Maria Elena Muñoz Machuca</th>
+    <th>Luis Angel Montañez Moreno</th>
+  </tr>
+  <tr>
+    <td>Github Username</td>
+    <td>PaLeToFo</td>
+    <td>Aguirrat157</td>
+    <td>maria-mm0907</td>
+    <td>Luiso-AM</td>
+  </tr>
+  <tr>
+    <td>Leader (L) / Collaborator (C)</td>
+    <td>L</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+  </tr>
+</table>
+#### 5.2.4.3. Sprint backlog 4
+
+| Sprint #   | Sprint 4                               |                   |       |         |                    |               |         |
+|:----------:|:---------------------------------------:|:-----------------:|:-----:|:-------:|:------------------:|:-------------:|:-------:|
+| User Story |                                         | Work-Item / Task  |       | Descripción                                      | Estimación (Horas) | Asignado a    | Estado  |
+| ID         | Título                                  | ID                | Título                                  | Descripción                                                                                          | Estimación (Horas) | Asignado a    | Estado  |
+| US50       | Gestión de Alertas                      | US50-1            | Crear endpoint para listar alertas     | Como usuario quiero poder ver todas mis alertas activas para saber qué acciones tomar.              | 4                   | Sergio        | Done    |
+|            |                                         | US50-2            | Crear endpoint para cerrar alertas     | Como usuario quiero cerrar alertas que ya no son relevantes para mantener mi bandeja organizada.     | 3                   | Luis Angel    | Done    |
+|            |                                         | US50-3            | Crear endpoint para historial de alertas | Como usuario quiero ver el historial de alertas cerradas para tener registro de mis acciones pasadas. | 3                   | Sergio        | Done    |
+| US51       | Edición de Información de Usuario       | US51-1            | Crear endpoint para editar perfil de usuario     | Como usuario quiero actualizar mis datos personales para mantener mi información actualizada.       | 4                   | Sergio        | Done    |
+|            |                                         | US51-2            | Mostrar información del usuario en el frontend   | Como usuario quiero ver mis datos personales para saber qué información tengo registrada.           | 3                   | Paolo         | Done    |
+|            |                                         | US51-3            | Agregar botón para editar y guardar cambios      | Como usuario quiero editar mi información desde el frontend para poder actualizarla fácilmente.     | 3                   | Maria         | Done    |
+|            |                                         | US51-4            | Mostrar confirmación tras editar perfil          | Como usuario quiero ver una notificación de confirmación después de guardar cambios para saber que se actualizaron correctamente. | 2 | Paolo | Done |
+| US52       | Actualización de APIs existentes        | US52-1            | Implementar endpoints del módulo de inventario   | Como desarrollador quiero contar con las APIs del inventario para poder gestionar productos y su stock desde el frontend. | 5 | Paolo | Done |
+|            |                                         | US52-2            | Proteger endpoints con autorización por token     | Como usuario quiero que solo personas autenticadas puedan acceder a mis datos para garantizar la seguridad de la aplicación. | 4 | Maria | Done |
+|            |                                         | US52-3            | Ajustar integración backend-frontend para nuevas APIs | Como desarrollador quiero que las nuevas APIs funcionen correctamente con el frontend para asegurar la conectividad entre capas. | 3 | Paolo | Done |
+
 
 | Sprint # |                Sprint 4                 |  |  |  |  |  |        |
 | :---: |:---------------------------------------:| :---: | :---: | :---: | :---: | ----- |:------:|
@@ -473,47 +580,12 @@ Aquí podemos evidenciar como ya se realizaron el deploy del frontend
 | TS58 | Protección de endpoints                 | TS52-2              | Proteger endpoints con autorización      | Como usuario quiero que solo personas autenticadas puedan acceder a mis datos para garantizar la seguridad de la aplicación. | 4 | Maria | Done |
 | TS59 | Integración backend-frontend            | TS52-3              | Ajustar integración backend-frontend     | Como desarrollador quiero que las nuevas APIs funcionen correctamente con el frontend para asegurar la conectividad entre capas. | 3 | Paolo | Done |
 
-### 5.2.1.4. Development Evidence for Sprint Review.
+#### 5.2.4.4. Development Evidence for Sprint Review
+#### 5.2.4.5. Execution Evidence for Sprint Review 
+#### 5.2.4.6. Services Documentation Evidence for Sprint Review. 
+#### 5.2.4.7. Software Deployment Evidence for Sprint Review. 
+#### 5.2.4.8. Team Collaboration Insights during Sprint. 
 
-![image](https://github.com/user-attachments/assets/133136fc-8417-4ad1-b180-1fb896806ea5)
-
-
-Aquí podemos notar como está conformado el grupo de trabajo dentro de la organización.
-
-![image](https://github.com/user-attachments/assets/2574c336-aa27-42e1-bf80-dab157685c51)
-
-
-
-#### 5.2.1.5. Execution Evidence for Sprint Review.
-Aquí podemos notar la aplicación en ejecución luego de los sprints realizados.
-
-![image](https://github.com/user-attachments/assets/138b6c14-5349-436b-92ba-30f01af2e421)
-
-![image](https://github.com/user-attachments/assets/44d6704b-129c-4fb6-b272-2265d3ee5dcb)
-
-
-![image](https://github.com/user-attachments/assets/8263a0a2-6538-4b9b-a3b4-d23dd652ce4b)
-
-
-
-#### 5.2.1.6. Services Documentation Evidence for Sprint Review.
-En esta sección se evidencia el servicio documentado al detalle dentro del reporte.
-
-![SERVICES DOC EVIDENCE ](https://github.com/user-attachments/assets/39057e9d-016e-41c5-b1ff-f0830db1754a)
-
-#### 5.2.1.7. Software Deployment Evidence for Sprint Review.
-Aquí podemos evidenciar como ya se realizaron el deploy del backend
-![image](https://github.com/user-attachments/assets/39ef328b-aba8-41d5-b9ab-80c758054b63)
-
-Se puede evdenciar como se conecta con el repositorio de github
-![image](https://github.com/user-attachments/assets/237850a8-89d0-4b65-9428-6ad6bf51922c)
-
-
-#### 5.2.1.8. Team Collaboration Insights during Sprint.
-
-Los commits realizados por Seratt15a se perdieron debido a que la cuenta es inrecuperable y se decidió cambiarla a otra. Los commits generados por Luiso_AM también son la suma del trabajo de Seratt15a ya que trabajan el mismo bounded context.
-
-![image](https://github.com/user-attachments/assets/d8e30501-f53a-4bdc-8ba8-53e8100c0d71)
 
 
 ## 5.3. Validation Interviews
