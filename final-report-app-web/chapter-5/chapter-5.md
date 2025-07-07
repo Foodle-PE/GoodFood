@@ -442,6 +442,22 @@ Aquí podemos evidenciar como ya se realizaron el deploy del frontend
 
 ![Screenshot 2025-05-14 192919](https://github.com/user-attachments/assets/eda64bd5-ca84-4fce-979e-39ae3f21b9c2)
 
+
+| Sprint # |          Sprint 4          |  |  |  |  |  |  |
+| :---: |:--------------------------:| :---: | :---: | :---: | :---: | ----- | :---: |
+| User Story |                            | Work-Item / Task |  |  |  |  |  |
+| ID |           Title            | ID | Title | Description | Estimation (Hours) | Assigned To | Status |
+| US50 |    Gestión de Alertas     | US50-1 | Crear endpoint para listar alertas | Como usuario quiero poder ver todas mis alertas activas para saber qué acciones tomar. | 4 | Sergio | Done |
+|      |                           | US50-2 | Crear endpoint para cerrar alertas | Como usuario quiero cerrar alertas que ya no son relevantes para mantener mi bandeja organizada. | 3 | Luis Angel | Done |
+|      |                           | US50-3 | Crear endpoint para historial de alertas | Como usuario quiero ver el historial de alertas cerradas para tener registro de mis acciones pasadas. | 3 | Sergio | Done |
+| US51 |   Edición de Información de Usuario   | US51-1 | Crear endpoint para editar perfil de usuario | Como usuario quiero actualizar mis datos personales para mantener mi información actualizada. | 4 | Sergio | Done |
+|      |                                              | US51-2 | Mostrar información del usuario en el frontend | Como usuario quiero ver mis datos personales para saber qué información tengo registrada. | 3 | Paolo | Done |
+|      |                                              | US51-3 | Agregar botón para editar y guardar cambios | Como usuario quiero editar mi información desde el frontend para poder actualizarla fácilmente. | 3 | Maria | Done |
+|      |                                              | US51-4 | Mostrar confirmación tras editar perfil | Como usuario quiero ver una notificación de confirmación después de guardar cambios para saber que se actualizaron correctamente. | 2 | Paolo | Done |
+| US52 |   Actualización de APIs existentes   | US52-1 | Implementar endpoints del módulo de inventario | Como desarrollador quiero contar con las APIs del inventario para poder gestionar productos y su stock desde el frontend. | 5 |Paolo | Done |
+|      |                                       | US52-2 | Proteger endpoints con autorización por token | Como usuario quiero que solo personas autenticadas puedan acceder a mis datos para garantizar la seguridad de la aplicación. | 4 | Maria | Done |
+|      |                                       | US52-3 | Ajustar integración backend-frontend para nuevas APIs | Como desarrollador quiero que las nuevas APIs funcionen correctamente con el frontend para asegurar la conectividad entre capas. | 3 | Paolo | Done |
+
 ### 5.2.1.4. Development Evidence for Sprint Review.
 
 ![image](https://github.com/user-attachments/assets/133136fc-8417-4ad1-b180-1fb896806ea5)
