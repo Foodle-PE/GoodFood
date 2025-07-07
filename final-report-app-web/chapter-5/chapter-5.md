@@ -273,6 +273,17 @@ Desarrollar y desplegar una capa de datos que contenga datos de las principales 
 | US49 |           Footer           | US49-1 | Implementacion de Footer | Como visitante quiero visualizar las redes sociales de la aplicación para poder ver las novedades que tienen para ofrecer. | 2 | Luis | Done |
 
 
+| Sprint # |                Sprint 1                 |  |  |  |  |  |        |
+| :---: |:---------------------------------------:| :---: | :---: | :---: | :---: | ----- |:------:|
+| Technical Story |                                         | Work-Item / Task |  |  |  |  |        |
+| ID |                  Title                  | ID | Title | Description | Estimation (Hours) | Assigned To | Status |
+| TS01 |        Implementación de login con validación         | TS01-1 | Crear pantalla de inicio de sesión | Programación del formulario de login con validación de campos. Se incluye lógica de registro automático si no se encuentra el usuario. | 5 | Paolo |  Done  |
+| TS02 |         Clasificación dinámica de alertas         | TS01-1 | Clasificar Alertas por tipo | Programar la estructura de datos y lógica de frontend para clasificar alertas por tipo (caducidad, temperatura, etc.). | 5 | Luis |  Done  |
+| TS03 |         	Visualización de severidad con colores         | TS03-1 | Visualizar severidad de alertas por colores | Implementar diseño visual (CSS + lógica) para diferenciar niveles de severidad de alertas mediante códigos de color. | 3 | Maria |  Done  |
+| TS04 |         	Gráficos de sensores en tiempo real         | TS04-1 | Generar gráficos de sensores | Integrar biblioteca de gráficos para visualizar datos en tiempo real desde sensores (temperatura, gas, etc.). | 5 | Sergio |  Done  |
+| TS05 |         Implementación de toolbar funcional       | TS05-1 | 	Visualizar opciones de navegación | Construcción de toolbar con links funcionales a Inventario, Alertas y Sensores. Integración con rutas y componentes. | 3 | Paolo |  Done  |
+| TS06 |         Sistema de feedback al usuario        | TS06-1 | Mostrar mensajes de feedback | Implementar mensajes (toasts, modales, alertas) en eventos clave: login, carga de sensores, errores de red. | 3 | Paolo |  Done  |
+| TS07 |         Registro de productos en inventario       | TS06-1 | Ingresar productos al inventario | Desarrollar formulario para agregar productos con campos validados: nombre, expiración, cantidad. Guardado en base de datos. | 3 | Paolo |  Done  |
 #### 5.2.1.4. Development Evidence for Sprint Review.
 
 ![WhatsApp Image 2025-04-25 at 22 04 57_f0943c99](https://github.com/user-attachments/assets/2b793699-ab56-4de1-b47c-52b62b2a124f)
