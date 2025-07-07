@@ -522,7 +522,66 @@ Los commits realizados por Seratt15a se perdieron debido a que la cuenta es inre
 
 
 ### 5.2.4. Sprint 4
-#### 5.2.4.1. Sprint Planning 1.
+#### 5.2.4.1. Sprint Planning 4.
+
+<table>
+  <tr>
+    <th colspan="5">Sprint 4</th>
+    <th colspan="8">Sprint 4</th>
+  </tr>
+  <tr>
+    <td colspan="13">Sprint Planning Background</td>
+  </tr>
+  <tr>
+    <td colspan="5">Date</td>
+    <td colspan="8">2025-07-04</td>
+  </tr>
+  <tr>
+    <td colspan="5">Time</td>
+    <td colspan="8">6:00 PM</td>
+  </tr>
+  <tr>
+    <td colspan="5">Location</td>
+    <td colspan="8">Via Discord</td>
+  </tr>
+  <tr>
+    <td colspan="5">Prepared By</td>
+    <td colspan="8">Torres Flores, Paolo Alessandro</td>
+  </tr>
+  <tr>
+    <td colspan="5">Attendees (to planning meeting)</td>
+    <td colspan="8">
+      Torres Flores, Paolo Alessandro; Aguirre Castillo, Sergio Cesar; 
+      Muñoz Machuca, Maria Elena; Montañez Moreno, Luis Angel
+    </td>
+  </tr>
+  <tr>
+    <td colspan="5">Sprint 4 Review Summary</td>
+    <td colspan="8">
+      En esta sección se consolidó la funcionalidad de alertas, edición de perfil y actualización de APIs, 
+      asegurando la integración efectiva entre frontend y backend del sistema GoodFood.
+    </td>
+  </tr>
+  <tr>
+    <td colspan="5">Sprint 4 Retrospective Summary</td>
+    <td colspan="8">
+      Se destacó el trabajo colaborativo y la mejora en la comunicación del equipo. Se reconoció 
+      la necesidad de planificar mejor los tiempos para tareas dependientes entre frontend y backend.
+    </td>
+  </tr>
+  <tr>
+    <td colspan="13">Sprint Goal</td>
+  </tr>
+  <tr>
+    <td colspan="5">Sprint 4 Goal</td>
+    <td colspan="8">
+      Consolidar el módulo de gestión de alertas y permitir la edición de datos del usuario, 
+      asegurando que todas las APIs necesarias estén protegidas y conectadas con el frontend.
+    </td>
+  </tr>
+</table>
+
+
 #### 5.2.4.2. Aspect Leaders and Collaborators 
 <table>
   <tr>
@@ -580,12 +639,29 @@ Los commits realizados por Seratt15a se perdieron debido a que la cuenta es inre
 | TS58 | Protección de endpoints                 | TS52-2              | Proteger endpoints con autorización      | Como usuario quiero que solo personas autenticadas puedan acceder a mis datos para garantizar la seguridad de la aplicación. | 4 | Maria | Done |
 | TS59 | Integración backend-frontend            | TS52-3              | Ajustar integración backend-frontend     | Como desarrollador quiero que las nuevas APIs funcionen correctamente con el frontend para asegurar la conectividad entre capas. | 3 | Paolo | Done |
 
+![image](https://github.com/user-attachments/assets/386b5910-5867-4d65-9b18-f43d3aabef86)
+
 #### 5.2.4.4. Development Evidence for Sprint Review
+
+![image](https://github.com/user-attachments/assets/c57c03bf-cd41-468e-92b0-9091e9b78745)
+
+Aquí podemos notar como está conformado el grupo de trabajo dentro de la organización.
+![image](https://github.com/user-attachments/assets/37efce22-48d0-4767-b146-b6d1cffac701)
+
 #### 5.2.4.5. Execution Evidence for Sprint Review 
-#### 5.2.4.6. Services Documentation Evidence for Sprint Review. 
+Aquí podemos notar la aplicación en ejecución luego de los sprints realizados.
+
+#### 5.2.4.6. Services Documentation Evidence for Sprint Review.
+En esta sección se evidencia el servicio documentado al detalle dentro del reporte.
+![image](https://github.com/user-attachments/assets/c758048a-a83e-42f0-9491-292ed71f9cc3)
+
 #### 5.2.4.7. Software Deployment Evidence for Sprint Review. 
+![image](https://github.com/user-attachments/assets/afd4a6b1-8ba2-4776-afcc-ad9aa3d23e99)
+
+
 #### 5.2.4.8. Team Collaboration Insights during Sprint. 
 
+![image](https://github.com/user-attachments/assets/4c76efa8-7b48-4866-a382-9231546f77f1)
 
 
 ## 5.3. Validation Interviews
