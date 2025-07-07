@@ -419,6 +419,26 @@ Aquí podemos evidenciar como ya se realizaron el deploy del frontend
 | US21 |     Notificaciones de stock crítico     | US21-1 | Crear alertas por stock crítico | Como responsable quiero alertas para evitar faltantes. | 2 | Maria Elena |  Done  |
 | US25 |          Soporte multilenguaje          | US25-1 | Agregar soporte multilenguaje | Como trabajador quiero usar la app en inglés para mejor comprensión. | 1 | Maria Elena |  Done  |
 
+| Sprint # |                Sprint 3                 |  |  |  |  |  |        |
+| :---: |:---------------------------------------:| :---: | :---: | :---: | :---: | ----- |:------:|
+| Technical Story |                                         | Work-Item / Task |  |  |  |  |        |
+| ID |                  Title                  | ID | Title | Description | Estimation (Hours) | Assigned To | Status |
+| TS08 | Integración de monitoreo en tiempo real       | TS08-1              | Programar monitoreo en tiempo real         | Conectar backend con sensores para obtener datos en vivo y mostrarlos en frontend con actualización automática. | 5          | Paolo          | Done   |
+| TS09 | Sistema de alertas por fecha de caducidad     | TS09-1              | Implementar lógica de alertas por fechas   | Desarrollar algoritmo que calcule la proximidad de vencimiento y dispare alertas automáticas.             | 3          | Sergio         | Done   |
+| TS10 | Generación de reportes automáticos            | TS10-1              | Crear backend para reportes en PDF/Excel   | Automatizar generación de reportes usando cron jobs o tareas programadas y exportarlos en formato legible. | 5          | Sergio         | Done   |
+| TS11 | Diseño de interfaz intuitiva                  | TS11-1              | Aplicar diseño limpio con iconografía clara| Usar principios UX/UI para una interfaz amigable, con íconos representativos y navegación simple.         | 2          | Maria Elena    | Done   |
+| TS12 | Visualización de niveles de stock             | TS12-1              | Crear componente visual de stock           | Implementar vista de stock con barras, colores y filtros por categoría.                                  | 3          | Paolo          | Done   |
+| TS13 | Configuración personalizada de alertas        | TS13-1              | Desarrollar panel de configuración de alertas | Permitir al usuario establecer umbrales y preferencias para distintos productos desde el frontend.       | 3          | Paolo          | Done   |
+| TS14 | Sistema multiusuario con roles                | TS14-1              | Crear sistema de autenticación por rol     | Implementar login para distintos tipos de usuario (admin, empleado) y limitar accesos por permisos.       | 3          | Maria Elena    | Done   |
+| TS15 | Lectura de sensores IoT                       | TS15-1              | Conectar sensores físicos con backend      | Usar protocolo MQTT o API REST para obtener datos de temperatura desde sensores físicos.                  | 5          | Paolo          | Done   |
+| TS16 | Diseño responsive y adaptable                 | TS16-1              | Adaptar UI para múltiples tamaños de pantalla | Utilizar diseño responsive (media queries, Flexbox/Grid) para compatibilidad con distintos dispositivos. | 2          | Luis           | Done   |
+| TS17 | Registro de entrada de productos              | TS17-1              | Programar formulario de ingreso al inventario | Crear formulario con validaciones para registrar entradas de productos y actualizar la base de datos.    | 2          | Paolo          | Done   |
+| TS18 | Registro de salida de productos               | TS18-1              | Programar formulario de salida y actualización de stock | Registrar productos utilizados y reflejar la salida en el sistema, validando cantidad mínima.   | 2          | Luis           | Done   |
+| TS19 | Acceso móvil al inventario                    | TS19-1              | Optimizar interfaz móvil                   | Mejorar diseño móvil y permitir acceso vía navegadores móviles o app progresiva.                         | 3          | Luis           | Done   |
+| TS20 | Sistema de alertas para reducción de desperdicio | TS20-1            | Vincular alertas con indicadores de desperdicio | Programar notificaciones cuando los productos estén por vencer o no se muevan en inventario.         | 2          | Paolo          | Done   |
+| TS21 | Soporte técnico para sensores                 | TS21-1              | Crear módulo de diagnóstico de sensores     | Implementar vista para revisar estado de sensores y enviar reporte de fallos.                             | 1          | Luis           | Done   |
+| TS22 | Notificaciones por stock crítico              | TS22-1              | Implementar alerta de umbral mínimo de stock | Disparar notificaciones automáticas cuando un producto esté por debajo del stock definido.               | 2          | Maria Elena    | Done   |
+| TS23 | Soporte multilenguaje                         | TS23-1              | Implementar sistema i18n                   | Usar librería de internacionalización y cargar traducciones dinámicamente para español e inglés.         | 1          | Maria Elena    | Done   |
 
 ![Screenshot 2025-05-14 192919](https://github.com/user-attachments/assets/eda64bd5-ca84-4fce-979e-39ae3f21b9c2)
 
