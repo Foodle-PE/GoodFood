@@ -342,5 +342,7 @@ A continuación, se presentará el diagrama de contenedores de nuestro sistema. 
 
 ## 4.8. Database Design.
 ### 4.8.1. Database Diagram.
-![Class DBDiagram_GoodFood - DB UML](https://github.com/user-attachments/assets/22595ca6-5d99-4c6d-a5e0-dac6ffb339ea)
+
+![image](https://github.com/user-attachments/assets/d362fe59-54ea-4a19-9c5f-53cafc1ef366)
+
 
