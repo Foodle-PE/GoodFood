@@ -651,16 +651,40 @@ Aquí podemos notar como está conformado el grupo de trabajo dentro de la organ
 #### 5.2.4.5. Execution Evidence for Sprint Review 
 Aquí podemos notar la aplicación en ejecución luego de los sprints realizados.
 
+![image](https://github.com/user-attachments/assets/917d6874-7668-4263-8089-520f3b91b603)
+
+Link del frontend desplegado: https://cool-sundae-9c4e3d.netlify.app/  <br>
+
+Link del backend desplegado: https://goodfood-acfeaudyd3gqbaef.centralus-01.azurewebsites.net/  <br>
+
+
 #### 5.2.4.6. Services Documentation Evidence for Sprint Review.
 Al rededor de esta sección se evidencia el servicio documentado al detalle dentro del reporte. Así como también se puede detallar que se usó API REST para la comunicación entre el frontend y el backend.
 Creando endpoints para las alertas, edición de perfil, sensores e inventario. En frontend, se realizaron las interfaces gráficas de cada uno de los bounded context previamente mencionados.
 
 #### 5.2.4.7. Software Deployment Evidence for Sprint Review. 
 
+Frontend: <br>
 
+![image](https://github.com/user-attachments/assets/6ebfee6e-110e-48de-94a2-083983258882)
+
+Link del frontend desplegado: https://cool-sundae-9c4e3d.netlify.app/  <br>
+
+<br>
+Backend:
+![image](https://github.com/user-attachments/assets/9987cae2-8066-4ac8-92e5-dee38a55c545)
+
+![image](https://github.com/user-attachments/assets/21e7c955-a600-4663-84c3-ef6ee1c9a057)
+
+![image](https://github.com/user-attachments/assets/0cb407fd-4929-4af2-8f57-c4ffc0d4c628)
+
+
+<br>
+Link del backend desplegado: https://goodfood-acfeaudyd3gqbaef.centralus-01.azurewebsites.net/  <br>
 
 #### 5.2.4.8. Team Collaboration Insights during Sprint. 
 
+![image](https://github.com/user-attachments/assets/acf26acb-64fe-4e6b-9253-715f1d465bd9)
 
 
 
