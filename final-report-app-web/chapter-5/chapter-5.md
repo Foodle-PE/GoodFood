@@ -674,6 +674,7 @@ Link del frontend desplegado: https://cool-sundae-9c4e3d.netlify.app/  <br>
 
 <br>
 Backend:
+
 ![image](https://github.com/user-attachments/assets/9987cae2-8066-4ac8-92e5-dee38a55c545)
 
 ![image](https://github.com/user-attachments/assets/21e7c955-a600-4663-84c3-ef6ee1c9a057)
