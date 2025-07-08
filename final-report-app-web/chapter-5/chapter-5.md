@@ -652,16 +652,16 @@ Aquí podemos notar como está conformado el grupo de trabajo dentro de la organ
 Aquí podemos notar la aplicación en ejecución luego de los sprints realizados.
 
 #### 5.2.4.6. Services Documentation Evidence for Sprint Review.
-En esta sección se evidencia el servicio documentado al detalle dentro del reporte.
-![image](https://github.com/user-attachments/assets/c758048a-a83e-42f0-9491-292ed71f9cc3)
+Al rededor de esta sección se evidencia el servicio documentado al detalle dentro del reporte. Así como también se puede detallar que se usó API REST para la comunicación entre el frontend y el backend.
+Creando endpoints para las alertas, edición de perfil, sensores e inventario. En frontend, se realizaron las interfaces gráficas de cada uno de los bounded context previamente mencionados.
 
 #### 5.2.4.7. Software Deployment Evidence for Sprint Review. 
-![image](https://github.com/user-attachments/assets/afd4a6b1-8ba2-4776-afcc-ad9aa3d23e99)
+
 
 
 #### 5.2.4.8. Team Collaboration Insights during Sprint. 
 
-![image](https://github.com/user-attachments/assets/4c76efa8-7b48-4866-a382-9231546f77f1)
+
 
 
 ## 5.3. Validation Interviews
