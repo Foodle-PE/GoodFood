@@ -951,9 +951,22 @@ Cada integrante aparece ante cámara para describir su rol, los principales outc
 
 # Bibliografía
 
-Bedoya-Perales, N. S., & Magro, G. P. D. (2021). Quantification of Food Losses and Waste in Peru: A Mass Flow Analysis along the Food Supply Chain. Sustainability, 13(5), 2807. https://doi.org/10.3390/su13052807
+- Bedoya-Perales, N. S., & Magro, G. P. D. (2021). Quantification of Food Losses and Waste in Peru: A Mass Flow Analysis along the Food Supply Chain. Sustainability, 13(5), 2807. https://doi.org/10.3390/su13052807
 
-Valderrama Pérez, V. (2018). CÓMO MEJORAR EL SERVICIO EN EL RESTAURANTE BISTRO 400 UBICADO EN EL DISTRITO DE MIRAFLORES APLICANDO LA TEORÍA DE DEMING. https://repositorio.usmp.edu.pe/bitstream/handle/20.500.12727/4338/valderrama_pva.pdf;jsessionid=9738274DA0640F881B7B0A2078783E0E?sequence=3
+- Valderrama Pérez, V. (2018). CÓMO MEJORAR EL SERVICIO EN EL RESTAURANTE BISTRO 400 UBICADO EN EL DISTRITO DE MIRAFLORES APLICANDO LA TEORÍA DE DEMING. https://repositorio.usmp.edu.pe/bitstream/handle/20.500.12727/4338/valderrama_pva.pdf;jsessionid=9738274DA0640F881B7B0A2078783E0E?sequence=3
+- Microsoft. (2024). ASP.NET Core Documentation. Retrieved from: https://learn.microsoft.com/en-us/aspnet/core/?view=aspnetcore-8.0
+
+- Microsoft. (2024). C# Language Documentation. Retrieved from: https://learn.microsoft.com/en-us/dotnet/csharp/
+
+- Microsoft. (2024). Entity Framework Core Documentation. Retrieved from: https://learn.microsoft.com/en-us/ef/core/
+
+- Microsoft. (2024). Dependency Injection in ASP.NET Core. Retrieved from: https://learn.microsoft.com/en-us/aspnet/core/fundamentals/dependency-injection
+- Postman. (2024). Postman Learning Center: Using Postman. Retrieved from: https://learning.postman.com/docs/getting-started/introduction/
+
+- Swagger. (n.d.). Swagger Tools and OpenAPI Documentation. Retrieved from: https://swagger.io/tools/swagger-ui/
+
+- JetBrains. (2024). Rider – The .NET IDE by JetBrains. Retrieved from: https://www.jetbrains.com/rider/
+
 
 # Anexos
 ## Anexo A: Landing page Wireframes y Mockups:<br>
