@@ -31,8 +31,10 @@ Para el sistema, se usará Github como herramienta de gestión de código fuente
 **URL de la organización:** https://github.com/Foodle-PE <br>
 **URL del repositorio del informe:** https://github.com/Foodle-PE/GoodFood <br>
 **URL del repositorio de la landing page:** https://github.com/Foodle-PE/Landing-Page <br>
-**URL del frontend deployment:** https://foodle-pe.github.io/Frontend/<br>
-**URL del repositorio del backend:** https://github.com/Foodle-PE/GoodFood-Platform<br>
+**URL de la landing page desplegada:** https://foodle-pe.github.io/Landing-Page/ <br>
+**URL del frontend deployment:** https://cool-sundae-9c4e3d.netlify.app/ <br>
+**URL del repositorio del backend:** https://github.com/Foodle-PE/GoodFood-Platform <br>
+**URL de backend deployment:** https://goodfood-acfeaudyd3gqbaef.centralus-01.azurewebsites.net/ <br>
 
 Para el modelo de desarrollo, se decidió usar GitFlow como modelo de ramificación. Este modelo permite una gestión eficiente de las ramas y facilita la colaboración entre los desarrolladores.
 Se crearán las siguientes ramas:
